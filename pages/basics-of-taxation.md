@@ -65,6 +65,7 @@ However, when you move to a foreign country with a foreign language, you should 
 - **Capital gains tax (CGT)**: paid on the sale of assets (investments, property, currencies, crypto, metals, etc.)
 - **Dividend tax**: paid by individuals that received dividends from a corp (or withheld by corp when distributing dividends)
 - **Interest tax**: paid on interest accrued in bank accounts, bonds, CDs, etc.
+- **Royalty tax**: paid by property owners for use of that property (copyright, patent, trademark, etc.)
 - **Payroll (social security) tax**: paid by both employees and employers, as well as self-employed to fund pensions, healthcare, employment insurance, parental leave, etc.
 - **Sales tax/GST/VAT**: paid by consumers when buying products and services
 - **Property tax**: paid by real estate owners
