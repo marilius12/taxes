@@ -1,6 +1,6 @@
 # Lowest tax countries
 
-These are countries with tax rates in the single-digits and low-to-mid teens. You should also consider legal fees and accounting fees.
+These are countries with tax rates in the single-digits and low-to-mid teens.
 
 ## Individual Entrepreneur (IE) with Small Business Status (SBS) in Georgia 🇬🇪
 
@@ -34,6 +34,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens. Yo
   - total contributions RON 27,600 \* 0.35 = **RON 9,660** (EUR 1,965) / year
 - requires residency in RO, headquarters (ex: rental agreement), experience or degree
 - if income exceeds RON 300,000/year, need to register for VAT
+- see [example calculation](./example-calculations.md#sole-proprietor-in-romania)
 
 ### Resources
 
@@ -56,6 +57,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens. Yo
   - employee: 25% social insurance (CAS), 10% health insurance (CASS)
   - employer: 2.25% labor insurance (CAM)
   - base = gross salary, **capped** at annual min wage: RON 2,300/mo \* 12 = **RON 27,600**
+- see [example calculation](./example-calculations.md#micro-enterprise-in-romania)
 
 ### Resources
 
@@ -74,6 +76,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens. Yo
   - base: min BGN 7,800 (650 min wage in 2021 \* 12), max BGN 36,000 (3,000 \* 12)
 - **25% deduction** on gross income (operating expenses)
 - must register for VAT if income exceeds BGN 50k in fiscal year
+- see [example calculation](./example-calculations.md#freelancer-in-bulgaria)
 
 ### Resources
 
@@ -88,6 +91,8 @@ These are countries with tax rates in the single-digits and low-to-mid teens. Yo
 ## Corporation in Bulgaria 🇧🇬
 
 TODO
+
+- see [example calculation](./example-calculations.md#corporation-in-bulgaria)
 
 ## Corporation in Malaysia 🇲🇾
 
