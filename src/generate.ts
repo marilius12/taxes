@@ -12,6 +12,7 @@ import slug from "rehype-slug";
 import html from "rehype-stringify";
 import minify from "rehype-preset-minify";
 import vfile from "to-vfile";
+import report from "vfile-reporter";
 
 const IN_DIR = "pages";
 const OUT_DIR = "dist";
@@ -52,6 +53,8 @@ async function convertMdToHtml(filename: string) {
   const vFile = await vfile.read(`${IN_DIR}/${filename}`);
 
   const newVFile = await processor.process(vFile);
+  console.error(report(newVFile));
+
   newVFile.extname = ".html";
   newVFile.dirname = OUT_DIR;
 

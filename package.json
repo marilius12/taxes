@@ -29,7 +29,8 @@
     "remark-parse": "^9.0.0",
     "remark-rehype": "^8.1.0",
     "to-vfile": "^6.1.0",
-    "unified": "^9.2.1"
+    "unified": "^9.2.1",
+    "vfile-reporter": "^6.0.2"
   },
   "devDependencies": {
     "@types/node": "^15.12.4",
