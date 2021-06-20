@@ -27,29 +27,23 @@
 
 ### Based on the tax rate
 
-- **Flat tax**
-  - fixed-rate tax that doesn't vary based on income
-  - ex: Bulgaria, Romania, Hungary, etc.
-- **Progressive tax**
-  - variable tax based on tax brackets, imposes higher burden on higher-income earners
-  - ex: US, Canada, Astralia, UK, France, Germany, Sweden, etc.
-
-> List of countries by their headline tax rates on [Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_tax_rates)
-
-### Based on the tax burden
-
 - **Zero tax**
   - no tax or 0% tax is levied
   - ex: UAE, Qatar, BVI, Cayman Islands, Vanuatu, Monaco, Bermuda, etc.
-- **Low tax**
-  - relatively low (single-digit or low teens) tax is levied
-  - ex: Romania, Bulgaria, Montenegro, Moldova, Georgia, Hungary, etc.
+- **Flat tax**
+  - fixed-rate tax that doesn't vary based on income
+  - ex: Bulgaria, Romania, Georgia, Hungary, etc.
+- **Progressive tax**
+  - variable tax based on tax brackets, imposes higher burden on higher-income earners
+  - ex: US, Canada, Astralia, UK, France, Germany, Sweden, etc.
 - **Lump-sum tax**
   - fixed sum (ex: EUR 100k) is paid annualy on certain/most income; works best for HNWI
   - ex: Italy, Greece, Switzerland, etc.
 - **Tax holidays/exemptions**
   - special tax programs often for 3/5/10 years to attract workers, entrepreneurs, investors, etc.
   - ex: Uruguay, Peru, Portugal, etc.
+
+> List of countries by their headline tax rates on [Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_tax_rates)
 
 ### Based on the type of income
 
