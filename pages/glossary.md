@@ -17,6 +17,7 @@
 - HNWI: High-net-worth Individual
 - PIT: Personal Income Tax
 - POEM: Place of Effective Management
+- PR: Permanent Resident
 - RA: Revenue Agency
 - RS: Revenue Service
 - SMB: Small and Medium-sized Business
@@ -36,10 +37,19 @@
 - HU: Hungary - HUF (forint)
 - IT: Italy - EUR
 - MY: Malaysia - MYR (ringgit)
+- PH: Philippines - PHP (peso)
 - PL: Poland - PLN (zloty)
 - PT: Portugal - EUR
 - RO: Romania - RON (leu)
 - SI: Slovenia - EUR
+
+### Tax agencies
+
+- IRS: Internal Revenue Service (US)
+- CRA: Canada Revenue Agency (CA)
+- ATO: Australian Taxation Office (AU)
+- IRD: Inland Revenue Department (NZ)
+- HMRC: Her Majesty's Revenue and Customs (UK)
 
 ## Abbreviations
 
