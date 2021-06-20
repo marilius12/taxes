@@ -8,6 +8,7 @@ import remark2rehype from "remark-rehype";
 import doc from "rehype-document";
 import urls from "rehype-urls";
 import { UrlWithStringQuery } from "url";
+import slug from "rehype-slug";
 import html from "rehype-stringify";
 import minify from "rehype-preset-minify";
 import vfile from "to-vfile";
@@ -40,6 +41,7 @@ const processor = unified()
   .use(remark2rehype)
   .use(doc, { title: "Taxes" })
   .use(urls, fixRelativeUrls)
+  .use(slug)
   .use(html)
   .use(minify);
 
