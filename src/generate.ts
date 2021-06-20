@@ -3,10 +3,13 @@ import path from "path";
 import unified from "unified";
 import markdown from "remark-parse";
 import gfm from "remark-gfm";
+import externalLinks from "remark-external-links";
 import remark2rehype from "remark-rehype";
 import doc from "rehype-document";
-import minify from "rehype-preset-minify";
+import urls from "rehype-urls";
+import { UrlWithStringQuery } from "url";
 import html from "rehype-stringify";
+import minify from "rehype-preset-minify";
 import vfile from "to-vfile";
 
 const IN_DIR = "pages";
@@ -33,8 +36,10 @@ async function main() {
 const processor = unified()
   .use(markdown)
   .use(gfm)
+  .use(externalLinks)
   .use(remark2rehype)
   .use(doc, { title: "Taxes" })
+  .use(urls, fixRelativeUrls)
   .use(html)
   .use(minify);
 
@@ -49,4 +54,8 @@ async function convertMdToHtml(filename: string) {
   newVFile.dirname = OUT_DIR;
 
   await vfile.write(newVFile);
+}
+
+function fixRelativeUrls(url: UrlWithStringQuery) {
+  return url.href.replace(/^\.\/(.+)\.md/, "/$1");
 }
