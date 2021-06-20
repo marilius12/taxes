@@ -40,9 +40,7 @@ Tax avoidance, tax evasion, tax fraud, illegal practices, criminal offenses. We 
 
 ## Disclaimer
 
-IANAL and IANACPA. This is **not** legal or tax advice, nor a substitute thereof.
-
-In general, don't take advice from strangers on the internet. Do your own research and/or consult a professional.
+IANAL and IANACPA. This is **not** legal or tax advice, nor a substitute thereof. In general, don't take advice from strangers on the internet. Do your own research and/or consult a professional.
 
 ## Privacy
 
@@ -50,10 +48,8 @@ There are no hidden trackers or spyware on this site. In fact, this site doesn't
 
 ## Source
 
-This site is free and open source. It's hosted by GitHub Pages. You can view the source code on [GitHub](https://github.com/marilius12/taxes).
+This site is free and open source. You can view the source code on [GitHub](https://github.com/marilius12/taxes).
 
-## License
+## Copyright
 
-[CC0-1.0 (Creative Commons Zero v1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-In short, this site is under public domain. All rights are waived, so you can copy, modify, distribute, etc. freely. However, there's no liability or warranty whatsoever.
+The website content is lincensed under [CC0-1.0 (Creative Commons Zero v1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/) and the source code is licensed under [MIT](http://opensource.org/licenses/mit-license.php). You can copy, modify, distribute, etc. freely. However, there's no liability or warranty whatsoever.
