@@ -1,13 +1,20 @@
-import MarkdownIt from "markdown-it";
 import fs from "fs";
 import path from "path";
+import unified from "unified";
+import markdown from "remark-parse";
+import gfm from "remark-gfm";
+import remark2rehype from "remark-rehype";
+import doc from "rehype-document";
+import minify from "rehype-preset-minify";
+import html from "rehype-stringify";
+import vfile from "to-vfile";
+
+const IN_DIR = "pages";
+const OUT_DIR = "dist";
 
 main().catch(console.error);
 
 async function main() {
-  const IN_DIR = "pages";
-  const OUT_DIR = "dist";
-
   const fsp = fs.promises;
 
   if (fs.existsSync(OUT_DIR)) {
@@ -17,33 +24,29 @@ async function main() {
   await fsp.mkdir(OUT_DIR);
 
   const files = await fsp.readdir(IN_DIR);
-  const md = new MarkdownIt();
 
-  const promises = files.map(async (file) => {
-    const { name, ext } = path.parse(file);
-
-    if (ext !== ".md") return; // LICENSE
-
-    const contents = await fsp.readFile(`${IN_DIR}/${file}`, "utf8");
-
-    const rawHtml = md.render(contents);
-
-    const html = `
-      <!DOCTYPE html>
-      <html lang="en">
-      <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Taxes</title>
-      </head>
-      <body>
-        ${rawHtml}
-      </body>
-      </html>
-    `.trim();
-
-    await fsp.writeFile(`${OUT_DIR}/${name}.html`, html);
-  });
+  const promises = files.map(convertMdToHtml);
 
   await Promise.all(promises);
+}
+
+const processor = unified()
+  .use(markdown)
+  .use(gfm)
+  .use(remark2rehype)
+  .use(doc, { title: "Taxes" })
+  .use(html)
+  .use(minify);
+
+// TODO waiting on unifiedjs/unified#121 to land. Currently, stuck on vfile v4.
+async function convertMdToHtml(filename: string) {
+  if (path.extname(filename) !== ".md") return; // LICENSE
+
+  const vFile = await vfile.read(`${IN_DIR}/${filename}`);
+
+  const newVFile = await processor.process(vFile);
+  newVFile.extname = ".html";
+  newVFile.dirname = OUT_DIR;
+
+  await vfile.write(newVFile);
 }
