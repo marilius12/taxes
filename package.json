@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "name": "taxes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "International taxes for freelancers and digital nomads.",
+  "author": "marilius12",
+  "license": "MIT",
+  "scripts": {
+    "generate": "ts-node src/generate.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marilius12/taxes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marilius12/taxes/issues"
+  },
+  "homepage": "https://github.com/marilius12/taxes#readme",
+  "devDependencies": {
+    "@types/markdown-it": "^12.0.2",
+    "@types/node": "^15.12.4",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "markdown-it": "^12.0.6"
+  }
+}
