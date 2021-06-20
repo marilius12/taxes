@@ -47,6 +47,6 @@ See the [glossary](./glossary.md) for abbreviations.
 
 ## Resources
 
-- [PWC Tax Summaries](https://taxsummaries.pwc.com/)
+- [PwC Tax Summaries](https://taxsummaries.pwc.com/)
 - [Deloitte Tax Highlights](https://dits.deloitte.com/#TaxGuides)
 - [List of countries by tax rates](https://en.wikipedia.org/wiki/List_of_countries_by_tax_rates)

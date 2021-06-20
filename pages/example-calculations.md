@@ -61,7 +61,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 | Total tax           | RON 21,883.92 = 19,353.92 + 2,530       |
 | After-tax dividends | RON 365,194.44 = 387,078.36 - 21,883.92 |
 
-> Note, from [PWC Tax Summaries](https://taxsummaries.pwc.com/romania/individual/income-determination), dividend income is taxed at 5% but is also considered towards health insurance contributions. Max base is RON 27,000 = min wage RON 2,300/mo (2021) \* 12.
+> Note, from [PwC Tax Summaries](https://taxsummaries.pwc.com/romania/individual/income-determination), dividend income is taxed at 5% but is also considered towards health insurance contributions. Max base is RON 27,000 = min wage RON 2,300/mo (2021) \* 12.
 
 ### Total
 
