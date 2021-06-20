@@ -1,11 +1,5 @@
 # Basics of Taxation
 
-## Disclaimer
-
-None of this is legal or tax advice, seriously. If you move from one state to another, or from one English-speaking country to another, and your situation is relatively simple (ex: regular employee), then you can get away with doing taxes on your own. You can read official guides on the revenu service website, use free tax software, or ask for advice on Reddit.
-
-However, when you move to a foreign country with a foreign language, you should absolutely work with a professional - at the very least, a local English-speaking CPA, ideally an international tax CPA, or even a lawyer if your taxes are complex. Don't take this content as a substitute. This is just to guide you if you're getting started. Do your own due diligence and respect the law.
-
 ## Types of Taxes
 
 ### Based on the origin
