@@ -1,3 +1,5 @@
+declare module "rehype-template";
+
 declare module "rehype-urls";
 
 declare module "rehype-preset-minify";

@@ -5,7 +5,8 @@ import markdown from "remark-parse";
 import gfm from "remark-gfm";
 import externalLinks from "remark-external-links";
 import remark2rehype from "remark-rehype";
-import doc from "rehype-document";
+import { template, html as h, doctype } from "rehype-template";
+import { Node } from "unist";
 import urls from "rehype-urls";
 import { UrlWithStringQuery } from "url";
 import slug from "rehype-slug";
@@ -40,14 +41,30 @@ const processor = unified()
   .use(gfm)
   .use(externalLinks)
   .use(remark2rehype)
-  .use(doc, {
-    title: "Taxes",
-    css: ["https://cdn.jsdelivr.net/npm/spcss@0.7.0"],
+  .use(template, {
+    template: (node: Node) => h`
+      ${doctype}
+      <html>
+        <head>
+          <meta charset="utf-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <title>Taxes</title>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spcss@0.7.0"></link>
+          <style>
+            body { color: #000 }
+            a:link { color: #0070F3 }
+          </style>
+        </head>
+        <body>
+          ${node}
+        </body>
+      </html>
+    `,
   })
   .use(urls, fixRelativeUrls)
   .use(slug)
-  .use(html)
-  .use(minify);
+  .use(minify)
+  .use(html);
 
 // TODO waiting on unifiedjs/unified#121 to land. Currently, stuck on vfile v4.
 async function convertMdToHtml(filename: string) {
