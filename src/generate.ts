@@ -40,7 +40,10 @@ const processor = unified()
   .use(gfm)
   .use(externalLinks)
   .use(remark2rehype)
-  .use(doc, { title: "Taxes" })
+  .use(doc, {
+    title: "Taxes",
+    css: ["https://cdn.jsdelivr.net/npm/spcss@0.7.0"],
+  })
   .use(urls, fixRelativeUrls)
   .use(slug)
   .use(html)
