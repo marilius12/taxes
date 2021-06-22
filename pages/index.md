@@ -10,7 +10,7 @@
 
 - [Basics about taxation (tax residency, CFC, PE, etc.)](./basics-of-taxation.md)
 
-- FAQ (Coming)
+- [Common mistakes and misconceptions](./common-mistakes.md)
 
 - [Glossary of terms](./glossary.md)
 
