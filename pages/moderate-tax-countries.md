@@ -1,8 +1,6 @@
 # Moderate tax countries
 
-This works best for people with moderate income (EUR 60-100k), high tax burder (30-50%), and high CoL. The tax rates below are average at best, especially if you're in the 20-25% bracket already. Still, these countries are part of the EU, have many DTTs and a relatively affordable CoL. Bonus if you speak their language or have ethnic roots.
-
-We'll start with countries in Southern Europe as they're often desirable to live in (although not the lowest in tax), and will move on to Eastern Europe after.
+This works best for people with moderate income (EUR 60-100k), high tax burder (30-50%), and high CoL. The tax rates below are average at best, especially if you're in the 20-25% bracket already. Still, most of these countries are part of the EU, have many DTTs and a relatively affordable CoL. Bonus if you speak their language or have ethnic roots. We'll start with those in Southern Europe as they're often desirable to live in (although not the lowest in tax).
 
 ## Portugal NHR Program 🇵🇹
 
@@ -32,6 +30,10 @@ TODO
 ## Remote worker in Greece 🇬🇷
 
 TODO
+
+## Beckham law in Spain 🇪🇸
+
+- 25% tax on income for 6 years
 
 ## Sole Proprietor (SP) in Slovenia 🇸🇮
 
@@ -81,8 +83,22 @@ TODO
 
 ## Corporation in Hungary 🇭🇺
 
-- CIT 9%, dividends 15%, PIT 15% + socials
+- CIT 9%, divs 15%, PIT 15% + socials
 
 ### Resources
 
 - [Hungary - Taxes on corporate income](https://taxsummaries.pwc.com/hungary/corporate/taxes-on-corporate-income)
+
+## Corporation in Malaysia 🇲🇾
+
+- **CIT 3%** for trading activities in Labuan
+- **CIT 17%** on **MYR 600k** (USD 145k), **24%** on excess if gross income less than **MYR 50M** (SME)
+  - also, various incentives/tax holidays based on sector (esp. for large corps)
+- **div 0%**, **PIT 0-30%** (avg 24%) + **socials**, **CGT 0%** (except real estate)
+
+### Resources
+
+- [Malaysia - Taxes on corporate income](https://taxsummaries.pwc.com/malaysia/corporate/taxes-on-corporate-income)
+- [Malaysia - Social security contributions](https://taxsummaries.pwc.com/malaysia/individual/other-taxes)
+- [Highlights of Budget 2021](https://www2.deloitte.com/content/dam/Deloitte/my/Documents/tax/my-tax-espresso-nov2020-budget2021.pdf) (tax relief and incentives)
+- [Incentives for new investments](https://www.mida.gov.my/wp-content/uploads/2020/07/Chapter-2-Incentives-for-New-Investments.pdf) (i.e. corporations)
