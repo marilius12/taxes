@@ -17,7 +17,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 
 ### Resources
 
-- [Tax Code of Georgia (EN)](https://matsne.gov.ge/en/document/view/1043717?publication=152) Chapter XII – Special Tax Treatments, **Article 88 - 95**
+- [Tax Code of Georgia (EN)](https://matsne.gov.ge/en/document/view/1043717?publication=152) Chapter XII – Special Tax Treatments, Article 88 - 95
 - [1% tax: Freelancers/Individuals & Small Businesses](https://expathub.ge/tax-freelancers-individuals-small-businesses-georgia/)
 - [Tax Heaven Pay Just 1% of Tax for Your Business](https://devskey.com/tax-heaven-pay-just-1-of-tax-for-your-business-register-individual-entrepreneurship-business-in-georgia/)
 
@@ -25,15 +25,15 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 
 - also known as **sole trader** or PFA (Persoană Fizică Autorizată)
 - can opt for an annual **income norm** (norma de venit, Art. 69)
-  - pay tax on a fixed quota regardless of your actual income
-  - must be **self-employed** in one of the listed activities
   - earn less than **EUR 100k** in **turnover**
+  - **self-employed** in one of the listed activities
+  - pay tax on a fixed quota regardless of your actual income
 - pay **10% PIT + socials** (**capped**)
 - socials: 25% social (CAS) + 10% health (CASS)
   - base: 12 \* min wage RON 2,300 (2021) = RON 27,600
   - total contributions RON 27,600 \* 0.35 = **RON 9,660** (EUR 1,965) / year
 - requires residency in RO, headquarters (ex: rental agreement), experience or degree
-- if income exceeds RON 300,000/year, need to register for VAT
+- if income exceeds RON 300k/year, need to register for VAT
 - see [example calculation](./example-calculations.md#sole-proprietor-in-romania-)
 
 ### Resources
@@ -61,7 +61,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 
 ### Resources
 
-- [Fiscal Code of Romania (RO)](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_11022020.htm), TITLE III - Micro-enterprise income tax, **Article 47-57**
+- [Fiscal Code of Romania (RO)](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_11022020.htm), TITLE III - Micro-enterprise income tax, Article 47-57
 - [Micro-Enterprise in Romania: 1% Corporate Tax](https://zugimpex.com/knowledgebase/micro-enterprise-in-romania-1-corporate-tax.html)
 - [2021 Tax Guideline for Romania](https://accace.com/tax-guideline-for-romania/)
 
@@ -81,19 +81,55 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 ### Resources
 
 - [Income Taxes on Natural Persons Act (ITNPA) (BG)](https://www.lex.bg/laws/ldoc/2135538631), Additional provisions 29. "Freelancers"
+- [Income taxes on self-insured persons](http://www.bulgaria-tax-law.bg/income-taxes-self-insured-persons.html)
 - [Self-employed freelancer vs company registration in Bulgaria](https://youtu.be/NV3heKehLCw)
-- [Freelancing in Bulgaria](https://www.ruskov-law.eu/bulgaria/article/freelancing.html)
-- [Income taxes on liberal professions](http://www.bulgaria-tax-law.bg/taxation-liberal-professions.html)
-- [The Ultimate Tax Guide For Digital Nomads](https://www.scalein.bg/resources/taxing-and-accounting/the-ultimate-tax-guide-for-digital-nomads/)
-- [2021 Tax Rates and Social Security Contributions in Bulgaria](https://www.kgmp-legal.com/en/2021-tax-rates-and-social-security-contributions-in-bulgaria/)
 - [Social Contributions in Bulgaria](https://www.cleiss.fr/docs/cotisations/bulgarie.html)
 
 ## Corporation in Bulgaria 🇧🇬
 
-TODO
-
+- incorporated as OOD (LLC) or EOOD (sole-owned LLC)
+  - corp residency is based on registration + CFC rules (2019)
+- pay **10% CIT + 5% divs**, also **10% PIT + socials**
+  - considered self-insured person as capital owner/shareholder, also pays socials
+- socials 32.7-33.4%
+  - pension fund: 14.12-14.82% employer, 10.58% employee
+  - health ins: 4.8% employer, 3.2% employee
+  - **capped**
+    - min base: BGN 650/mo (BGN 7,800/y) - same as min wage (2021)
+    - max base: BGN 3,000/mo (BGN 36,000/y)
+- must register for VAT if income exceeds BGN 50k/y
 - see [example calculation](./example-calculations.md#corporation-in-bulgaria-)
 
-## Corporation in Malaysia 🇲🇾
+### Resources
+
+- [Corporate Income Tax Act (CITA) (BG)](https://www.lex.bg/laws/ldoc/2135540562)
+- [2021 Tax Rates and Social Security Contributions in Bulgaria](https://www.kgmp-legal.com/en/2021-tax-rates-and-social-security-contributions-in-bulgaria/)
+
+## Non-Domicile Status in Cyprus 🇨🇾
+
+- **60 day rule** for tax residency
+  - reside in CY for 60 days or more (in aggregate)
+  - not reside in another country for **183+ days** (in aggregate)
+  - not be a **tax resident** in any other country
+  - have **defined ties** in CY
+    - carry out business in CY / employed in CY / director of a company in CY
+    - permanent residential property (owned or rented)
+- also: hasn't been a tax resident of CY for last 20y (prior to 2015)
+  - status granted for 17 years max
+- **0% div**, **int 0%**, **CGT 0%** (mostly)
+  - exempt from SDC (Special Defence Contribution)
+- **100% exeption** on salary from a non-CY employer
+  - must work outside CY for 90+ days/year
+- **50% exemption** on salary from CY employer for 10y if you earn **EUR 100k+**
+  - **20% exemption** for 5y if you earn less than EUR 100k
+- first EUR 19,500 **tax exempt**, excess taxed at **20-35% + socials**
+
+### Resources
+
+- [Cyprus - Individual Residence](https://taxsummaries.pwc.com/cyprus/individual/residence)
+- [The Cyprus Non-Domicile concept for tax purposes](https://totalserve.eu/Assets/Images/uploadedContent/CMS/documentsImages/informationsheetno1291483607458.pdf)
+- [Cyprus Tax Residency and Non-Dom Rules](https://home.kpmg/content/dam/kpmg/cy/pdf/2020/Cyprus_Tax_Residency_and_Non-Dom_Rules_February2020.pdf)
+
+## Non-Domicile Status in Malta 🇲🇹
 
 TODO

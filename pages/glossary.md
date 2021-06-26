@@ -10,6 +10,7 @@
 - CRS: Common Reporting Standard
 - DTT: Double Taxation Treaty
 - EE: Employee
+- EI: Employment Insurance
 - EMI: Electronic Money Institution
 - ER: Employer
 - FMV: Fair Market Value
@@ -32,6 +33,7 @@
 > Hint: country code is usually the same as its domain extension (TLD).
 
 - BG: Bulgaria - BGN (lev)
+- CY: Cyprus - EUR
 - GE: Georgia - GEL (lari)
 - GR: Greece - EUR
 - HU: Hungary - HUF (forint)
@@ -55,5 +57,7 @@
 
 - div: dividend
 - ins: insurance
+- mo: month
 - roy: royalty
 - sec: security
+- y: year
