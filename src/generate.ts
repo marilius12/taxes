@@ -3,7 +3,6 @@ import path from "path";
 import unified from "unified";
 import markdown from "remark-parse";
 import gfm from "remark-gfm";
-import externalLinks from "remark-external-links";
 import remark2rehype from "remark-rehype";
 import { template, html as h, doctype } from "rehype-template";
 import { Node } from "unist";
@@ -39,7 +38,6 @@ async function main() {
 const processor = unified()
   .use(markdown)
   .use(gfm)
-  .use(externalLinks)
   .use(remark2rehype)
   .use(template, {
     template: (node: Node) => h`
@@ -51,7 +49,7 @@ const processor = unified()
           <title>Taxes</title>
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spcss@0.7.0"></link>
           <style>
-            body { color: #000; margin: 1em auto 2em }
+            body { color: #000; margin: 1em auto 3em }
             a:link { color: #0070F3 }
             header nav a { padding: 0 0.5em }
             header nav a:first-child { padding-left: 0 }
@@ -62,9 +60,9 @@ const processor = unified()
             <nav>
               <a href="/">Home</a>/
               <a href="/basics-of-taxation">Basics</a>/
+              <a href="/common-mistakes">Myths</a>/
               <a href="/glossary">Glossary</a>/
-              <a href="/resources">Resources</a>/
-              <a href="https://github.com/marilius12/taxes" rel="nofollow noopener noreferrer" target="_blank">GitHub</a>
+              <a href="https://github.com/marilius12/taxes">GitHub</a>
             </nav>
           </header>
           <main>${node}</main>
@@ -72,7 +70,7 @@ const processor = unified()
       </html>
     `,
   })
-  .use(urls, fixRelativeUrls)
+  .use(urls, rewriteUrls)
   .use(slug)
   .use(minify)
   .use(html);
@@ -92,6 +90,18 @@ async function convertMdToHtml(filename: string) {
   await vfile.write(newVFile);
 }
 
-function fixRelativeUrls(url: UrlWithStringQuery) {
+function rewriteUrls(url: UrlWithStringQuery, node: Node) {
+  if (node.tagName !== "a") {
+    return; // link
+  }
+
+  // Decorate external links
+  if (url.protocol && /https?:/.test(url.protocol)) {
+    (node.properties as any).rel = "nofollow noopener noreferrer";
+    (node.properties as any).target = "_blank";
+    return url;
+  }
+
+  // Fix relative links
   return url.href.replace(/^\.\/(.+)\.md/, "/$1");
 }
