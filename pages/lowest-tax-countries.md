@@ -105,7 +105,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 - [Corporate Income Tax Act (CITA) (BG)](https://www.lex.bg/laws/ldoc/2135540562)
 - [2021 Tax Rates and Social Security Contributions in Bulgaria](https://www.kgmp-legal.com/en/2021-tax-rates-and-social-security-contributions-in-bulgaria/)
 
-## Non-Domicile Status in Cyprus 🇨🇾
+## Non-domicile status in Cyprus 🇨🇾
 
 - **60 day rule** for tax residency
   - reside in CY for 60 days or more (in aggregate)
@@ -116,7 +116,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
     - permanent residential property (owned or rented)
 - also: hasn't been a tax resident of CY for last 20y (prior to 2015)
   - status granted for 17 years max
-- **0% div**, **int 0%**, **CGT 0%** (mostly)
+- **CIT 12.5%**, **div 0%**, **int 0%**, **CGT 0%** (mostly)
   - exempt from SDC (Special Defence Contribution)
 - **100% exeption** on salary from a non-CY employer
   - must work outside CY for 90+ days/year
@@ -129,7 +129,3 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 - [Cyprus - Individual Residence](https://taxsummaries.pwc.com/cyprus/individual/residence)
 - [The Cyprus Non-Domicile concept for tax purposes](https://totalserve.eu/Assets/Images/uploadedContent/CMS/documentsImages/informationsheetno1291483607458.pdf)
 - [Cyprus Tax Residency and Non-Dom Rules](https://home.kpmg/content/dam/kpmg/cy/pdf/2020/Cyprus_Tax_Residency_and_Non-Dom_Rules_February2020.pdf)
-
-## Non-Domicile Status in Malta 🇲🇹
-
-TODO

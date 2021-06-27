@@ -15,7 +15,9 @@
 - ER: Employer
 - FMV: Fair Market Value
 - FX: Foreign Exchange
+- FY: Fiscal Year
 - HNWI: High-net-worth Individual
+- IT: Intellectual Property
 - PIT: Personal Income Tax
 - POEM: Place of Effective Management
 - PR: Permanent Resident
@@ -55,6 +57,7 @@
 
 ## Abbreviations
 
+- contrib: contribution
 - div: dividend
 - ins: insurance
 - mo: month

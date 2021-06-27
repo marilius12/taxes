@@ -65,8 +65,8 @@ _Interest_ income is usually the least tax-efficient:
 _Margin_ account is a standard taxable account. It's best suited for:
 
 - foreign dividends
-  - you can usually opt for a reduced WTH tax based on DTT
-  - you can also claim foreign tax credit(s) to offset WTH tax
+  - you can usually opt for a reduced WTH tax based on DTT (ex: 30% -> 15% from US stocks)
+  - you can also claim foreign tax credit(s) to offset WTH tax already paid
   - otherwise, under a territorial tax regime, you pay no tax domestically
     - however, if there's no DTT, you'll pay regular WTH tax (ex: 30% in US)
     - you can also buy from another stock exchange (in UK, Germany, etc.) to pay lower WTH tax

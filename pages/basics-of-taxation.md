@@ -18,7 +18,7 @@
   - ex: US, Myanmar, Hungary, Eritrea
 - **Remittance-based tax**
   - certain income is not taxed until remitted in the country (or not taxed at all if remitted after X year/s)
-  - ex: Gibraltar, Singapore, Malta, UK, Thailand, Georgia
+  - ex: Gibraltar, Singapore, Malta, UK, Thailand
 - **Non-domiciled tax**
   - special tax regime for non-domiciled residents (usually to defer taxes)
   - ex: Cyprus, Malta, UK, Ireland, etc.
