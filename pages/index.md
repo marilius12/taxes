@@ -6,15 +6,25 @@
 
 - [Moderate tax countries (🇵🇹 Portugal, 🇮🇹 Italy, 🇬🇷 Greece, etc.)](./moderate-tax-countries.md)
 
-- [Headline tax rates (income tax, capital gains, dividends, etc.)](./headline-tax-rates.md)
-
 - [Basics about taxation (tax residency, CFC, PE, etc.)](./basics-of-taxation.md)
+
+- [Reducing taxes on income](./tax-optimization-strategies.md) and [investments](./taxes-on-investments.md)
+
+- [Headline tax rates (income tax, capital gains, dividends, etc.)](./headline-tax-rates.md)
 
 - [Common mistakes and misconceptions](./common-mistakes.md)
 
 - [Glossary of terms](./glossary.md)
 
 - [Free resources](./resources.md)
+
+## Help
+
+If you're not familiar with a term (ex: tax residency), check out the [basics of taxation](./basics-of-taxation.md).
+
+If an abbreviation doesn't make sense (ex: PIT), look for it in the [glossary](./glossary.md).
+
+If you have questions or feedback, [file an issue](https://github.com/marilius12/taxes/issues).
 
 ## About
 
