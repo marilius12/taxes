@@ -51,12 +51,23 @@ const processor = unified()
           <title>Taxes</title>
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spcss@0.7.0"></link>
           <style>
-            body { color: #000 }
+            body { color: #000; margin: 1em auto 2em }
             a:link { color: #0070F3 }
+            header nav a { padding: 0 0.5em }
+            header nav a:first-child { padding-left: 0 }
           </style>
         </head>
         <body>
-          ${node}
+          <header>
+            <nav>
+              <a href="/">Home</a>/
+              <a href="/basics-of-taxation">Basics</a>/
+              <a href="/glossary">Glossary</a>/
+              <a href="/resources">Resources</a>/
+              <a href="https://github.com/marilius12/taxes" rel="nofollow noopener noreferrer" target="_blank">GitHub</a>
+            </nav>
+          </header>
+          <main>${node}</main>
         </body>
       </html>
     `,
