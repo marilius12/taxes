@@ -23,7 +23,7 @@ This works best for people with moderate income (EUR 60-100k), high tax burder (
 - [Tax Breaks for Workers Moving to Italy](https://www.clearygottlieb.com/news-and-insights/publication-listing/tax-breaks-for-workers-moving-to-italy-new-official-guidelines-released)
 - [How to pay only 3% of taxes on average in Italy](https://youtu.be/XxqULB8QSJs)
 
-## Portugal Non-Habitual Residency (NHR) Program 🇵🇹
+## Portugal Non-Habitual Residency (NHR) program 🇵🇹
 
 - to qualify: have not been a tax resident of PT for 5 years
   - status granted for 10 years
@@ -42,9 +42,22 @@ This works best for people with moderate income (EUR 60-100k), high tax burder (
 - [Portugal - Other tax credits and incentives](https://taxsummaries.pwc.com/portugal/individual/other-tax-credits-and-incentives)
 - [Deloitte Non-habitual residents](https://www2.deloitte.com/content/dam/Deloitte/pt/Documents/tax/NHR/Flyer_RNH2020_General.pdf)
 
-## Remote worker in Greece 🇬🇷
+## Foreign professional in Greece 🇬🇷
 
-TODO
+- alternative tax regime for foreigners (Jan 2021)
+  - transfer your tax residence to GR from EU/EEA or a country with DTT
+  - have not been a GR tax resident in 5 out of 6 years
+  - stay in GR for 2 or more years
+- **50%** of income is exempt from income tax and solidarity contrib
+  - aplies to employment and business income earned in GR
+  - PIT 9-44%, solidarity contrib 0-10% (some income), socials
+- status granted for 7 years
+
+### Resources
+
+- [Greece - Other tax credits and incentives](https://taxsummaries.pwc.com/greece/individual/other-tax-credits-and-incentives)
+- [Greece – Recently-Introduced Measures Aim to Attract New Tax Residents](https://home.kpmg/xx/en/home/insights/2021/01/flash-alert-2021-008.html)
+- [Special solidarity contribution abolished for certain income for FY 2020 and 2021](https://www.taxathand.com/article/15649/Greece/2020/Special-solidarity-contribution-abolished-for-certain-income-for-FY-2020-and-2021)
 
 ## Beckham law in Spain 🇪🇸
 
@@ -68,7 +81,7 @@ TODO
 - [Little Known TAX HAVEN in Europe for Freelancers](https://youtu.be/nSRj46PkozQ)
 - [Sole proprietor (s.p.) income tax?](https://www.expat.com/forum/viewtopic.php?id=762117)
 
-## Small Company in Lithuania 🇱🇹
+## Small company in Lithuania 🇱🇹
 
 - < 10 employees, < **EUR 300k**/year in revenue
 - **CIT 0%** in first year, **5%** in following years
@@ -79,7 +92,7 @@ TODO
 - [Lithuania - Taxes on corporate income](https://taxsummaries.pwc.com/lithuania/corporate/taxes-on-corporate-income)
 - [Lithuania - Taxes on personal income](https://taxsummaries.pwc.com/lithuania/individual/taxes-on-personal-income)
 
-## Self-Employed in Poland 🇵🇱
+## Self-employed in Poland 🇵🇱
 
 - sole proprietor **19% flat tax + socials (capped)**
 - socials paid in a lump sum regardless of income
