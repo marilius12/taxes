@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import unified from "unified";
 import markdown from "remark-parse";
+import toc from "remark-toc";
 import gfm from "remark-gfm";
 import remark2rehype from "remark-rehype";
 import { template, html as h, doctype } from "rehype-template";
@@ -37,6 +38,7 @@ async function main() {
 
 const processor = unified()
   .use(markdown)
+  .use(toc, { maxDepth: 2 })
   .use(gfm)
   .use(remark2rehype)
   .use(template, {
