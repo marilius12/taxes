@@ -2,10 +2,6 @@
 
 This works best for people with moderate income (EUR 60-100k), high tax burder (30-50%), and high CoL. The tax rates below are average at best, especially if you're in the 20-25% bracket already. Still, most of these countries are part of the EU, have many DTTs and a relatively affordable CoL. Bonus if you speak their language or have ethnic roots. We'll start with those in Southern Europe as they're often desirable to live in (although not the lowest in tax).
 
-## Portugal NHR Program 🇵🇹
-
-TODO
-
 ## Inpatriate Regime (IR) in Italy 🇮🇹
 
 - must be an EU citizen or from a country that has a DTT with IT
@@ -26,6 +22,25 @@ TODO
 - [New tax regime for inbound workers](https://taxsummaries.pwc.com/italy/individual/income-determination)
 - [Tax Breaks for Workers Moving to Italy](https://www.clearygottlieb.com/news-and-insights/publication-listing/tax-breaks-for-workers-moving-to-italy-new-official-guidelines-released)
 - [How to pay only 3% of taxes on average in Italy](https://youtu.be/XxqULB8QSJs)
+
+## Portugal Non-Habitual Residency (NHR) Program 🇵🇹
+
+- to qualify: have not been a tax resident of PT for 5 years
+  - status granted for 10 years
+- **20%** tax on PT-sourced employment and self-employment income
+  - if on the list of high value-added activities (tech, doctors, management, etc.)
+  - other domestic income is subject to regular PIT 14.5-48%
+- foreign-sourced income may be **exempt from PIT**
+  - if taxed in the source sate _and_ not deemed derived in PT
+  - also: not earned in a country on the black list (ex: tax haven)
+- NOTE: management & control and PE rules apply
+  - must pay PT taxes on PT-sourced income
+
+### Resources
+
+- [Non-Habitual Resident](https://en.wikipedia.org/wiki/Non-Habitual_Resident)
+- [Portugal - Other tax credits and incentives](https://taxsummaries.pwc.com/portugal/individual/other-tax-credits-and-incentives)
+- [Deloitte Non-habitual residents](https://www2.deloitte.com/content/dam/Deloitte/pt/Documents/tax/NHR/Flyer_RNH2020_General.pdf)
 
 ## Remote worker in Greece 🇬🇷
 
