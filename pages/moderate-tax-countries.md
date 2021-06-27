@@ -59,10 +59,6 @@ This works best for people with moderate income (EUR 60-100k), high tax burder (
 - [Greece – Recently-Introduced Measures Aim to Attract New Tax Residents](https://home.kpmg/xx/en/home/insights/2021/01/flash-alert-2021-008.html)
 - [Special solidarity contribution abolished for certain income for FY 2020 and 2021](https://www.taxathand.com/article/15649/Greece/2020/Special-solidarity-contribution-abolished-for-certain-income-for-FY-2020-and-2021)
 
-## Beckham law in Spain 🇪🇸
-
-- 25% tax on income for 6 years
-
 ## Sole Proprietor (SP) in Slovenia 🇸🇮
 
 - sole trader (samostojni podjetnik) under "normiranec" status
