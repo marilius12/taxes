@@ -2,6 +2,8 @@
 
 Note that the math doesn't account for business expenses, legal fees (ex: consulation, company formation), accounting fees (ex: tax remittance, tax returns, etc.), private health insurance, visa fees, etc.
 
+## Table of Contents
+
 ## Sole proprietor in Romania 🇷🇴
 
 - IT consultant in Bucharest, gross income EUR 80k/y, income norm system

@@ -1,5 +1,7 @@
 # Basics of Taxation
 
+## Table of Contents
+
 ## Types of Taxes
 
 ### Based on the origin
@@ -80,7 +82,7 @@
 
 ## Types of Income
 
-- **Gross income**: total income from all sources before any expenses, deductions, or taxes
+- **Gross income**: total income before any expenses, deductions, or taxes
 - **Net income**: income after all expenses, deductions, and taxes
 
 For corporations, gross income is also the **top line** (on the income statement), while net income is the **bottom line**.
@@ -98,7 +100,7 @@ _Individuals_ pay taxes (PIT and socials) on their gross income minus deductions
 
 _Corporations_ pay taxes (CIT) on their profits. Profits are then distributed to shareholders as dividends (which are then taxed _again_ at the personal level).
 
-## Business Structure
+## Legal Structure
 
 Most freelancers and digital nomads will fall into one of the following:
 

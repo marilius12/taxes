@@ -60,6 +60,7 @@
 - contrib: contribution
 - div: dividend
 - ins: insurance
+- int: interest
 - mo: month
 - roy: royalty
 - sec: security

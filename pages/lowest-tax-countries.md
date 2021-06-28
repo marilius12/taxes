@@ -2,6 +2,8 @@
 
 These are countries with tax rates in the single-digits and low-to-mid teens.
 
+## Table of Contents
+
 ## Individual Entrepreneur (IE) with Small Business Status (SBS) in Georgia 🇬🇪
 
 - special tax regime for sole proprietors
@@ -24,7 +26,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 ## Sole proprietor in Romania 🇷🇴
 
 - also known as **sole trader** or PFA (Persoană Fizică Autorizată)
-- can opt for an annual **income norm** (norma de venit, Art. 69)
+- can opt for an annual **income norm** (norma de venit, Art. 69, [see more](./income-norms-in-romania.md))
   - earn less than **EUR 100k** in **turnover**
   - **self-employed** in one of the listed activities
   - pay tax on a fixed quota regardless of your actual income
@@ -52,7 +54,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 - **3%** tax on **turnover** with **no employees**
   - **1%** with **1 or more** full-time (40h/week) employee(s)
   - can hire yourself and pay min salary of RON 2300/mo (2021)
-- also: **10% PIT + socials**, **5% dividends**
+- also: **10% PIT + socials**, **5% divs**
 - socials on salary
   - employee: 25% social insurance (CAS), 10% health insurance (CASS)
   - employer: 2.25% labor insurance (CAM)
@@ -81,7 +83,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 ### Resources
 
 - [Income Taxes on Natural Persons Act (ITNPA) (BG)](https://www.lex.bg/laws/ldoc/2135538631), Additional provisions 29. "Freelancers"
-- [Income taxes on self-insured persons](http://www.bulgaria-tax-law.bg/income-taxes-self-insured-persons.html)
+- [Income taxes on self-insured persons](https://www.bulgaria-tax-law.bg/income-taxes-self-insured-persons.html)
 - [Self-employed freelancer vs company registration in Bulgaria](https://youtu.be/NV3heKehLCw)
 - [Social Contributions in Bulgaria](https://www.cleiss.fr/docs/cotisations/bulgarie.html)
 

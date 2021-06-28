@@ -62,4 +62,4 @@ This site is free and open source. You can view the source code on [GitHub](http
 
 ## Copyright
 
-The website content is lincensed under [CC0-1.0 (Creative Commons Zero v1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/) and the source code is licensed under [MIT](http://opensource.org/licenses/mit-license.php). You can copy, modify, distribute, etc. freely. However, there's no liability or warranty whatsoever.
+The website content is lincensed under [CC0-1.0 (Creative Commons Zero v1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/) and the source code is licensed under [MIT](https://opensource.org/licenses/mit-license.php). You can copy, modify, distribute, etc. freely. However, there's no liability or warranty whatsoever.

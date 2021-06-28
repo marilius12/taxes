@@ -2,6 +2,8 @@
 
 This works best for people with moderate income (EUR 60-100k), high tax burder (30-50%), and high CoL. The tax rates below are average at best, especially if you're in the 20-25% bracket already. Still, most of these countries are part of the EU, have many DTTs and a relatively affordable CoL. Bonus if you speak their language or have ethnic roots. We'll start with those in Southern Europe as they're often desirable to live in (although not the lowest in tax).
 
+## Table of Contents
+
 ## Inpatriate Regime (IR) in Italy 🇮🇹
 
 - must be an EU citizen or from a country that has a DTT with IT
@@ -81,7 +83,7 @@ This works best for people with moderate income (EUR 60-100k), high tax burder (
 
 - < 10 employees, < **EUR 300k**/year in revenue
 - **CIT 0%** in first year, **5%** in following years
-- **dividends 15%**, PIT 20% up to EUR 81,162 (32% on surplus) + socials
+- **divs 15%**, PIT 20% up to EUR 81,162 (32% on surplus) + socials
 
 ### Resources
 

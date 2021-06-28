@@ -12,7 +12,7 @@ To qualify, you need to:
 
 Here's the current list (in Romanian) - [Normele anuale de venit (2021)](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Normevenit2021/Norme_venit_2021.html). For example, in Bucharest, for "information technology consultancy activities", CAEN code 6202, the norm is **RON 35,000** (USD ~8.5k):
 
-> 120. Servicii executate in domeniul informaticii, altele decit cele care genereaza drepturi de autor sau drepturi conexe dreptului de autor<br>6202: activitati de consultanta in tehnologia informatiei - 35000<br>6203: activitati de management (gestiune si exploatare) a mijloacelor de calcul - 35000
+> 120. Servicii executate in domeniul informaticii, altele decit cele care genereaza drepturi de autor sau drepturi conexe dreptului de autor - 6202: activitati de consultanta in tehnologia informatiei (35000) - 6203: activitati de management (gestiune si exploatare) a mijloacelor de calcul (35000)
 
 What does this mean? It means that regardless of your gross income, as long as it's below EUR 100k, you are only taxed on RON 35k. Here's a sample calculation:
 

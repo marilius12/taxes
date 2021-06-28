@@ -1,6 +1,6 @@
 # Taxes on investments
 
-Most countries have separate tax rates for investment income. Some (esp. low-tax countries like Romania) have a flat rate, others distinguish short-term and long-term gains (ex: US, Georgia). In some countries, only a portion of the investment income is taxed (ex: 50% in Canada) and certain deductions and/or tax credits apply. Yet in others, investment income is generally taxed as ordinary income (ex: Estonia). Sometimes, investment income is also subject to socials (ex: Hungary, Romania).
+Most countries have separate tax rates for investment income. Some (esp. low-tax countries like Romania) have a flat rate, others distinguish short-term and long-term gains (ex: US, Georgia). In some countries, only a portion of the investment income is taxed (ex: 50% of capital gains in Canada) and certain deductions and/or tax credits apply. Yet in others, investment income is taxed as ordinary income (ex: Estonia) and may even be subject to socials (ex: Hungary, Romania).
 
 The tax treatment will usually depend on:
 
@@ -24,17 +24,17 @@ In general, _capital gains_ are taxed the least:
 - you may not pay the tax if you pass away
   - your beneficiary(ies) will pay **estate/inheritance/gift tax**
   - rarely, no tax at all (ex: stepped-up basis in US)
-- you may offset gains with losses (**tax-loss harvesting**)
-  - in general, you can time the sale to minimize the tax (ex: when retired)
+- you can time the sale to minimize the tax (ex: when retired)
+  - also to offset gains with losses (**tax-loss harvesting**)
 - certain asset classes may be taxed more favorably than others
   - real estate
     - you can claim depreciation, deduct legal fees, commissions, etc.
     - gains may be exempt from tax up to a certain amount (ex: primary residence deduction)
     - tax rates may be lower if you own the property for multiple years
-      - may vary between local and foreign real estate
+      - may apply to local but not foreign real estate
   - stocks/ETFs
     - you may deduct transaction, accounting, and advisor fees
-    - you may qualify for an exemption (ex: QSBS in US)
+    - you may qualify for a one-time exemption (ex: QSBS in US)
 
 _Dividends_ are usually taxed higher than capital gains:
 
@@ -46,7 +46,7 @@ _Dividends_ are usually taxed higher than capital gains:
   - you may be subject to **WTH tax** at the source
   - you may claim a **foreign tax credit** to offset double taxation
   - you may be unable to claim dividend tax credits (ex: Canada)
-  - [dividends from ADRs](https://www.dividend.com/portfolio-management-channel/how-does-taxation-of-adr-stocks-affect-investors/) are subject to regular WTH tax (unless proper paperwork is filed)
+  - [dividends from ADRs](https://www.dividend.com/portfolio-management-channel/how-does-taxation-of-adr-stocks-affect-investors/) are subject to regular WTH tax despite the DTT (unless proper paperwork is filed)
 
 _Interest_ income is usually the least tax-efficient:
 
