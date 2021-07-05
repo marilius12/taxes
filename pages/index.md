@@ -56,6 +56,8 @@ IANAL and IANACPA. This is **not** legal or tax advice, nor a substitute thereof
 
 There are no hidden trackers or spyware on this site. In fact, this site doesn't use any cookies or JavaScript, so you are free to disable them completely.
 
+Note that the site is deployed with [Cloudflare Pages](https://pages.cloudflare.com/). You can view their TOS [here](https://www.cloudflare.com/terms/).
+
 ## Source
 
 This site is free and open source. You can view the source code on [GitHub](https://github.com/marilius12/taxes).
