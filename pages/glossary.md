@@ -3,10 +3,12 @@
 ## Acronyms
 
 - ATAD: Anti-tax Avoidance Directives
+- BEPS: Base Erosion and Profit Shifting
 - CBI: Citizenship By Investment
 - CFC: Controlled Foreign Corporation
 - CGT: Capital Gains Tax
 - CIT: Corporate Income Tax
+- CMC: Central Management and Control
 - DTA: Double Taxation Agreement
 - DTT: Double Taxation Treaty
 - EE: Employee

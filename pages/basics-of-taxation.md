@@ -193,21 +193,21 @@ If there is no DTT in place (often the case for blacklisted or tax haven countri
 
 Several important concepts and/or rules apply in determining the tax residency of a company.
 
-### Permanent Establishment (PE)
-
-TODO
-
-### Controlled Foreign Corporation (CFC)
-
-TODO
-
-### Mind and Management
-
-TODO
-
-### Hybrid Mismatch
-
-TODO
+- **Permanent Establishment (PE)**
+  - fixed place of business that includes an office, branch, factory, etc.
+  - defaults to the principal place where the business is conducted
+  - **nexus**: economic presence (i.e. business activity) in some jurisdiction
+- **Mind, management and control**
+  - place where directors or B of D make business decisions and are tax residents
+- **Controlled Foreign Corporation (CFC)**
+  - company registered offshore but managed onshore
+  - considered a tax resident onshore and thus subject to domestic taxes
+- **Hybrid mismatch**
+  - differences in tax laws between countries that may be exploted for BEPS and tax avoidance
+  - often target discrepancies in tax residency, registration vs. POEM, domicile, etc.
+  - ex 1: Double Irish where a company is registered in Ireland but managed from the US
+  - ex 2: UK, Cyprus recognize tax domicile, while most countries like Canada don't
+  - ex 3: countries like Germany don't require to establish tax residency elsewhere upon exit
 
 ## Tax Avoidance vs. Tax Evasion
 
