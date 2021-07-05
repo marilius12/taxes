@@ -6,6 +6,7 @@ import toc from "remark-toc";
 import gfm from "remark-gfm";
 import remark2rehype from "remark-rehype";
 import { template, html as h, doctype } from "rehype-template";
+import CleanCSS from "clean-css";
 import { Node } from "unist";
 import urls from "rehype-urls";
 import { UrlWithStringQuery } from "url";
@@ -18,12 +19,13 @@ import report from "vfile-reporter";
 
 const IN_DIR = "pages";
 const OUT_DIR = "dist";
+const SRC_DIR = "src";
+
+const fsp = fs.promises;
 
 main().catch(console.error);
 
 async function main() {
-  const fsp = fs.promises;
-
   if (fs.existsSync(OUT_DIR)) {
     await fsp.rm(OUT_DIR, { recursive: true });
   }
@@ -33,6 +35,8 @@ async function main() {
   const files = await fsp.readdir(IN_DIR);
 
   const promises = files.map(convertMdToHtml);
+
+  promises.push(emitMinifedCss());
 
   await Promise.all(promises);
 }
@@ -50,17 +54,7 @@ const processor = unified()
           <meta charset="utf-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <title>Taxes</title>
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spcss@0.7.0"></link>
-          <style>
-            body { color: #000; margin: 1em auto 3em }
-            a:link { color: #0070F3 }
-            header nav a { padding: 0 0.5em }
-            header nav a:first-child { padding-left: 0 }
-            @media screen and (max-width: 900px) {
-              .table-container { overflow-x: auto }
-            }
-            table th, table td { white-space: nowrap }
-          </style>
+          <link rel="stylesheet" href="/style.css" />
         </head>
         <body>
           <header>
@@ -112,4 +106,15 @@ function rewriteUrls(url: UrlWithStringQuery, node: Node) {
 
   // Fix relative links
   return url.href.replace(/^\.\/(.+)\.md/, "/$1");
+}
+
+async function emitMinifedCss(
+  src = `./${SRC_DIR}/sp.css`,
+  dest = `./${OUT_DIR}/style.css`
+) {
+  const original = await fsp.readFile(src, "utf8");
+
+  const minified = new CleanCSS().minify(original);
+
+  await fsp.writeFile(dest, minified.styles, "utf8");
 }
