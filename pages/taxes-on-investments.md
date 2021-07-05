@@ -4,8 +4,8 @@ Most countries have separate tax rates for investment income. Some (esp. low-tax
 
 The tax treatment will usually depend on:
 
-1. type of investment income
-2. type of account you hold your investment in
+1. Type of investment income
+2. Type of account you hold your investment in
 
 ## Types of investment income
 
@@ -93,3 +93,7 @@ _Registered_ accounts are specialized tax-advantaged accounts. They work best fo
   - safe investments lower the risk of losing your principal (for a degree, retirement, etc.)
     - i.e. core portfolio with low volatility, limited downside risk, and steady growth
     - ex: broad-market index funds (ETFs), blue-chip stocks, value stocks
+
+## Disclaimer
+
+IANAFA. This is **not** financial or tax advice. Do your own research and/or consult a licensed professional.

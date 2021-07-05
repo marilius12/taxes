@@ -16,7 +16,7 @@ Territorial-tax countries like Panama and Georgia still tax your **local-sourced
 
 Most countries consider not only the time you spend there, but also the ties you have with that country. In most cases, if your **center of vital interests** is in your home country, then you are deemed its tax resident, even if you spend less than 183 days there.
 
-For example, if you travel abroad throughout the year but your family, primary residence, or other residential ties are in your home country, you are still subject to its taxes. There are some nuances - for example, in Georgia, you automatically become a tax resident after 183 days, so you may end up a tax resident of two countries, and if there isn't a DTT, you may have to pay (some) taxes to both.
+For example, if you travel abroad throughout the year but your family, primary residence, or other residential ties are in your home country, you are still subject to its taxes. There are some nuances - for example, in Georgia, you automatically become a tax resident after 183 days, so you may end up being a tax resident of two countries, and if there isn't a DTT, you may have to pay (some) taxes to both.
 
 > If I live 4 months in 3 different countries, I don't have to pay taxes anywhere.
 
@@ -26,6 +26,6 @@ In theory, it's possible to not be a tax resident of any country. In practice, y
 
 Most countries will still tax your local-sourced income. For example, as a tax non-resident, if you keep a rental property in your home country, your rental income will be subject to **withholding tax**. The same applies to other income sourced locally like interest or dividends. You may also need to file a non-resident income tax return to report this income.
 
-> If I invest in stocks through my foreign company, I can pay a lower withholding tax on dividends.
+> If I invest in stocks through my offshore company, I can pay a lower withholding tax on dividends.
 
 Most countries have **anti-treaty shopping** provisions, in particular, **limitation on benefits clauses**. If you want to benefit from a reduced WTH tax rate in a foreign country, you will need to establish economic substance there.

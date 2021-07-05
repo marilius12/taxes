@@ -6,11 +6,11 @@
 
 - [Moderate tax countries (🇵🇹 Portugal, 🇮🇹 Italy, 🇬🇷 Greece, etc.)](./moderate-tax-countries.md)
 
+- [Headline tax rates (income tax, capital gains, dividends, etc.)](./headline-tax-rates.md)
+
 - [Basics about taxation (tax residency, CFC, PE, etc.)](./basics-of-taxation.md)
 
 - [Reducing taxes on income](./tax-optimization-strategies.md) and [investments](./taxes-on-investments.md)
-
-- [Headline tax rates (income tax, capital gains, dividends, etc.)](./headline-tax-rates.md)
 
 - [Common mistakes and misconceptions](./common-mistakes.md)
 
@@ -46,7 +46,7 @@ Medium and large businesses, offshore companies, multinationals, HNWIs.
 
 > What is this **not** about?
 
-Tax avoidance, tax evasion, tax fraud, illegal practices, criminal offenses. We only talk about legal stuff here.
+Tax avoidance, tax evasion, tax fraud, gray-area or illegal practices, criminal offenses.
 
 ## Disclaimer
 
@@ -62,4 +62,4 @@ This site is free and open source. You can view the source code on [GitHub](http
 
 ## Copyright
 
-The website content is licensed under [CC0-1.0 (Creative Commons Zero v1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/) and the source code is licensed under [MIT](https://opensource.org/licenses/mit-license.php). You can copy, modify, distribute, etc. freely. However, there's no liability or warranty whatsoever.
+The website content is dedicated to the public domain under [CC0-1.0 (Creative Commons Zero v1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/), and the source code is licensed under [MIT](https://opensource.org/licenses/mit-license.php). You can copy, modify, distribute, etc. freely. However, there's no liability or warranty whatsoever.

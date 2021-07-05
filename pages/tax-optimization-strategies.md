@@ -2,9 +2,9 @@
 
 There are 3 general ways to reduce taxes:
 
-1. lower your tax rate
-2. lower your taxable income
-3. defer taxes
+1. Lower your tax rate
+2. Lower your taxable income
+3. Defer taxes
 
 ## Reducing the tax rate
 
@@ -28,7 +28,7 @@ There are 3 general ways to reduce taxes:
   - medical expenses, child credits, pension deductions, employer match, etc.
 - Become **self-employed** to write-off **business expenses**
   - ex: can deduct travel expenses, equipment, rent, etc.
-  - limitations may apply (ex: meals only deductible 50% in US)
+  - limitations may apply (ex: meals only 50% deductible in US)
 - **Incorporate** your business
   - **small-business deduction**, credits, and incentives in some countries
   - distribute profits as **dividends**

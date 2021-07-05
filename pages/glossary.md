@@ -65,6 +65,9 @@
 
 - contrib: contribution
 - div: dividend
+- e.g.: for example (_exempli gratia_)
+- ex: example
+- i.e.: that is (_id est_)
 - ins: insurance
 - int: interest
 - mo: month

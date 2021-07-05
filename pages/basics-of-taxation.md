@@ -36,7 +36,7 @@
   - fixed-rate tax that doesn't vary based on income
   - ex: Bulgaria, Romania, Georgia, Hungary, etc.
 - **Progressive tax**
-  - variable tax based on tax brackets, imposes higher burden on higher-income earners
+  - variable tax based on tax brackets; imposes higher burden on higher-income earners
   - ex: US, Canada, Australia, UK, France, Germany, Sweden, etc.
 - **Lump-sum tax**
   - fixed sum (ex: EUR 100k) is paid annually on certain/most income; works best for HNWI
@@ -76,9 +76,9 @@
 
 ### Based on geography
 
-- **federal**: levied by the federal government
-- **state/provincial**: levied by the state (ex: US), province (ex: Canada), region (ex: Italy), etc.
-- **municipal/local**: levied by the county (ex: US), city (ex: LA), district, etc.
+- **Federal**: levied by the federal government
+- **State/provincial**: levied by the state (ex: US), province (ex: Canada), region (ex: Italy), etc.
+- **Municipal/local**: levied by the county (ex: US), city (ex: LA), district, etc.
 
 ## Types of Income
 
@@ -89,7 +89,7 @@ For corporations, gross income is also the **top line** (on the income statement
 
 Companies also distinguish revenue and profit which are slightly different:
 
-- **Revenue**: gross sales of goods/products
+- **Revenue** (**turnover**): gross sales of goods/products
 - **Profit**: net sales i.e. gross sales minus all expenses, debts, costs, etc.
 
 ## Tax Base
@@ -98,24 +98,24 @@ Companies also distinguish revenue and profit which are slightly different:
 
 _Individuals_ pay taxes (PIT and socials) on their gross income minus deductions (ex: personal allowance, pension fund contributions, etc.). Socials use your gross income as the tax base, but are sometimes capped (ex: 12 \* min or avg monthly wage).
 
-_Corporations_ pay taxes (CIT) on their profits. Profits are then distributed to shareholders as dividends (which are then taxed _again_ at the personal level).
+_Corporations_ pay taxes (CIT) on their profits (or sometimes a lower rate on revenues). Profits are then distributed to shareholders as dividends (which are then taxed _again_ at the personal level).
 
 ## Legal Structure
 
 Most freelancers and digital nomads will fall into one of the following:
 
 - natural person
-  - **employee**: paid a **salary** by an employer (usually, foreign), subject to **PIT** and **socials**
-  - **independent contractor**: registered as a **sole proprietor**, bills clients with **invoices**, also subject to **PIT** and **socials** (both **employee** + **employer** portion)
+  - **employee**: paid a **salary** by an employer, subject to **PIT** and **socials**
+  - **independent contractor**: registered as a **sole proprietor**, bills clients with **invoices**, also subject to **PIT** and **socials** (both employee + employer portion)
 - legal entity
   - **corporation**: incorporated business, usually an LLC, pays **CIT** and socials on **salary**, distributes dividends
     - individual also pays **div tax** (sometimes, withheld by corp) and/or **PIT + socials** on salary
 
-_Employees_ are usually taxed at the higher rates because of progressive PIT and mandatory socials. They have some personal allowances and home-office deductions, but those are limited. However, employees enjoy labor rights, health insurance, EI/severance pay, PTO, etc.
+_Employees_ are usually taxed at the higher rates because of the progressive PIT and mandatory socials. They may claim personal allowances and home-office deductions, but those are limited. However, employees enjoy labor rights, health insurance, EI/severance pay, PTO, etc.
 
 _Self-employed_ can pay less PIT by deducting **business expenses** from gross income, but they also pay higher socials (both employee and employer side). Contractors don't get any benefits or PTO, and they often need to purchase private health and contractors insurance.
 
-Despite tax integration, _corporations_ are often the most tax-efficient because they can pay a reduced **small business** CIT rate at the corporate level, and a flat **dividend tax** at the personal level (typically, lower than PIT). As a director/manager, you can decide how much to pay yourself in salary and thus in PIT and socials.
+Despite tax integration, _corporations_ are often the most tax-efficient because they can pay a reduced **small business** CIT rate at the corporate level, and a flat **dividend tax** at the personal level (typically, lower than PIT). As a director/manager, you can decide how much you pay yourself in salary and thus in PIT and socials.
 
 ## Residency vs. Tax residency
 
@@ -128,17 +128,18 @@ These terms are commonly confused. Note that they can all be in different countr
   - NOTE: legal and tax residency may differ; for example, banks may only ask to declare legal residency and address; sometimes, they may not care about your tax residency (although they do when withholding tax)
   - NOTE: residenc**y** is a legal condition or fact of living in a country, whereas a residenc**e** is the place where you live like your home or street address.
 - **Tax residency**
-  - being subject to the tax laws of a country (i.e. where you pay taxed)
+  - being subject to the tax laws of a country (i.e. where you pay taxes)
   - usually, you are a tax resident of **one** country
-  - unfortunately, could be a tax resident of **two or more** countries
+  - unfortunately, you could be a tax resident of **two or more** countries
     - DTTs may or may not be in place to offset double taxation
-  - in theory, could be a tax resident of **no** country (although this complicates banking)
+  - in theory, you could be a tax resident of **no** country (although this complicates banking)
 - **E-residency**
   - neither legal nor tax residency; just an online registration for government services
 - **Domicile**
   - either where you are a citizen of _or_ where you have been a tax resident of in the last X years
   - you may be treated differently as a non-domiciled tax resident vs. domiciled tax resident
-  - varies by country: Cyprus, UK, Ireland, Malta, Italy, Greece
+    - ex: Cyprus, UK, Ireland, Malta, Italy, Greece
+  - NOTE: separate from legal domicile: your permanent home, place of birth, etc.
 - **Citizenship**
   - status of being a citizen of a country (by land, blood, naturalization, descent, etc.)
   - stateless person: someone not considered a national by any state
@@ -147,18 +148,18 @@ These terms are commonly confused. Note that they can all be in different countr
 
 Each jurisdiction has its own rules for determining tax residency. Some countries apply residency tests (ex: SRT in the UK, substantial presence test in the US, etc.).
 
-Tax residency is a question of **fact**. Usually, tax authorities publish guidelines on tax residency that you can read online. The fine print can be found in the applicable tax act(s) as well as case law. Finally, any DTTs that are in place will overwrite local laws.
+Tax residency is a question of **fact**. Usually, tax authorities publish guidelines on tax residency that you can read online. The fine print can be found in the tax act(s) and case law. Finally, any DTTs that are in place will overwrite local laws.
 
 ### Individual residency
 
-An individual is taxed based on where they are a tax resident. The following factors are commonly taken into account:
+An individual is taxed based on where they are a tax resident. The following factors are commonly (but not always) taken into account:
 
 - **183 day rule**
   - automatically a tax resident if you spend more than 183 days in any 12-month period
 - **center of vital interests**
   - based on residential ties (business, economic, social, etc.)
     - ex: primary residence, property, job/business, bank accounts, documents/IDs, memberships
-  - may trump the 183-day rule depending on the DTT
+  - may supersede the 183-day rule depending on the DTT
 - habitual (or permanent) **abode**, principal place of **sojourn**, etc. of person and/or their **spouse and dependents**
 - nationality/**citizenship** (ex: US)
 
@@ -178,7 +179,7 @@ A company is taxed based on where it is a tax resident. Tax authorities consider
   - X% of executives/members on the board of directors are resident in the country
   - economic substance (headquarters, operations, employees, etc.) is in the country
 
-In most cases, the company is taxed **where it is managed and controlled** regardless of where it's registered. Ex: if you form an offshore company in Belize but continue to live and work from Canada, your company is still a tax resident of Canada and is be subject to Canadian taxes.
+In most cases, the company is taxed **where it is managed and controlled** regardless of where it's registered. Ex: if you form an offshore company in Belize but continue to live and work from Canada, your company is still a tax resident of Canada and is subject to Canadian taxes.
 
 Most countries apply both registration and management & control. Some only apply one or the other, but may still have CFC and/or hybrid mismatch rules to counteract tax avoidance.
 

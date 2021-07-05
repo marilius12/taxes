@@ -1,6 +1,6 @@
 # Lowest tax countries
 
-These are countries with tax rates in the single-digits and low-to-mid teens.
+These are the countries with tax rates in the single-digits and low-to-mid teens.
 
 ## Table of Contents
 
@@ -14,8 +14,8 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
   - 3% if you exceed GEL 500k in a tax year
   - if you exceed GEL 500k in 2 consecutive years, this status is revoked
 - if your transactions exceed GEL 100k/year, must register for **VAT**
-  - some activities are exempt from VAT, but you can claim back VAT on purchases
-- NOTE: GE doesn't have CRS or CFC, so banks are risk-averse which can affect your business
+  - B2B activities with foreign companies are exempt from VAT, but you can also claim it back on purchases
+- NOTE: GE doesn't have CRS (until 2023), and banks have been risk-averse since 2019-2020 which can affect your business
 
 ### Resources
 
@@ -27,13 +27,12 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 
 - also known as **sole trader** or PFA (Persoană Fizică Autorizată)
 - can opt for an annual **income norm** (norma de venit, Art. 69, [see more](./income-norms-in-romania.md))
-  - earn less than **EUR 100k** in **turnover**
+  - must earn less than **EUR 100k** in **turnover**
   - **self-employed** in one of the listed activities
   - pay tax on a fixed quota regardless of your actual income
 - pay **10% PIT + socials** (**capped**)
 - socials: 25% social (CAS) + 10% health (CASS)
   - base: 12 \* min wage RON 2,300 (2021) = RON 27,600
-  - total contributions RON 27,600 \* 0.35 = **RON 9,660** (EUR 1,965) / year
 - requires residency in RO, headquarters (ex: rental agreement), experience or degree
 - if income exceeds RON 300k/year, need to register for VAT
 - see [example calculation](./example-calculations.md#sole-proprietor-in-romania-)
@@ -49,13 +48,13 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 
 - incorporated (**LLC**) with **turnover** less than **EUR 1M** in fiscal year
   - LLC = SRL (Societate cu răspundere limitată)
-  - if EUR 1M exceeded, you pay 16% CIT on the excess
-  - once RON 300k is exceeded, must register for VAT
+  - if EUR 1M exceeded, you pay 16% CIT **on the excess**
+  - once RON 300k/y is exceeded, must register for VAT
 - **3%** tax on **turnover** with **no employees**
   - **1%** with **1 or more** full-time (40h/week) employee(s)
   - can hire yourself and pay min salary of RON 2300/mo (2021)
 - also: **10% PIT + socials**, **5% divs**
-- socials on gross salary
+- socials on gross salary are **uncapped**
   - employee: 25% social insurance (CAS), 10% health insurance (CASS)
   - employer: 2.25% labor insurance (CAM)
 - see [example calculation](./example-calculations.md#micro-enterprise-in-romania-)
@@ -74,8 +73,8 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
   - self-insured person within Social Security Code
 - pay **10% PIT + socials** (**capped**)
   - pension fund 19.8% + health insurance 8%
-  - base: min BGN 7,800 (650 min wage in 2021 \* 12), max BGN 36,000 (3,000 \* 12)
-- **25% deduction** on gross income (operating expenses)
+  - base: min BGN 7,800 (BGN 650 min wage in 2021 \* 12), max BGN 36,000 (BGN 3,000 \* 12)
+- **25% deduction** on gross income (operating expenses) (Art. 29 3.)
 - must register for VAT if income exceeds BGN 50k in fiscal year
 - see [example calculation](./example-calculations.md#freelancer-in-bulgaria-)
 
