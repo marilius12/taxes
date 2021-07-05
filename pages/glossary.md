@@ -7,7 +7,7 @@
 - CFC: Controlled Foreign Corporation
 - CGT: Capital Gains Tax
 - CIT: Corporate Income Tax
-- CRS: Common Reporting Standard
+- DTA: Double Taxation Agreement
 - DTT: Double Taxation Treaty
 - EE: Employee
 - EI: Employment Insurance
@@ -28,7 +28,7 @@
 - SSC: Social Security Contributions
 - TR: Tax Residency
 - TRC: Tax Registration Certificate
-- WTH: Witholding (i.e. WTH tax)
+- WTH: Withholding (i.e. WTH tax)
 
 ### Countries and currencies
 
@@ -54,6 +54,12 @@
 - ATO: Australian Taxation Office (AU)
 - IRD: Inland Revenue Department (NZ)
 - HMRC: Her Majesty's Revenue and Customs (UK)
+
+### Information Exchange
+
+- CRS: Common Reporting Standard (EU, UK, CA, AU, etc.)
+- FATCA: Foreign Account Tax Compliance Act (US)
+- FBAR: Foreign Bank & Financial Accounts (US)
 
 ## Abbreviations
 

@@ -12,7 +12,7 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 - cannot engage in **[prohibited activities](https://matsne.gov.ge/ka/document/view/1164635?publication=0)** (forex, gambling, consulting, etc.)
 - **1%** tax on **turnover**, can hire employees and contractors
   - 3% if you exceed GEL 500k in a tax year
-  - if you exceed GEL 500k in 2 consecutive years, this status is recoved
+  - if you exceed GEL 500k in 2 consecutive years, this status is revoked
 - if your transactions exceed GEL 100k/year, must register for **VAT**
   - some activities are exempt from VAT, but you can claim back VAT on purchases
 - NOTE: GE doesn't have CRS or CFC, so banks are risk-averse which can affect your business
@@ -55,10 +55,9 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
   - **1%** with **1 or more** full-time (40h/week) employee(s)
   - can hire yourself and pay min salary of RON 2300/mo (2021)
 - also: **10% PIT + socials**, **5% divs**
-- socials on salary
+- socials on gross salary
   - employee: 25% social insurance (CAS), 10% health insurance (CASS)
   - employer: 2.25% labor insurance (CAM)
-  - base = gross salary, **capped** at annual min wage: RON 2,300/mo \* 12 = **RON 27,600**
 - see [example calculation](./example-calculations.md#micro-enterprise-in-romania-)
 
 ### Resources
@@ -119,8 +118,8 @@ These are countries with tax rates in the single-digits and low-to-mid teens.
 - also: hasn't been a tax resident of CY for last 20y (prior to 2015)
   - status granted for 17 years max
 - **CIT 12.5%**, **div 0%**, **int 0%**, **CGT 0%** (mostly)
-  - exempt from SDC (Special Defence Contribution)
-- **100% exeption** on salary from a non-CY employer
+  - exempt from SDC (Special Defense Contribution)
+- **100% exemption** on salary from a non-CY employer
   - must work outside CY for 90+ days/year
 - **50% exemption** on salary from CY employer for 10y if you earn **EUR 100k+**
   - **20% exemption** for 5y if you earn less than EUR 100k

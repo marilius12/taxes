@@ -32,4 +32,4 @@
 - [/r/TaxEU](https://www.reddit.com/r/TaxEU/) (EU/EEA)
 - [/r/tax](https://www.reddit.com/r/tax/) (US)
 - [/r/cantax](https://www.reddit.com/r/cantax/) (Canada)
-- [/r/digitalnomads](https://www.reddit.com/r/digitalnomad/)
+- [/r/digitalnomad](https://www.reddit.com/r/digitalnomad/)

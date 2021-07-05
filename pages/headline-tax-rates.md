@@ -37,7 +37,7 @@ See the [glossary](./glossary.md) for abbreviations.
 
 ## Important notes
 
-- Socials are capped in _some_ countries (ex: Bulgaria, Romania, Serbia, etc.) based on the min/avg salary (or a multiple thereof). In other countries, only _some_ socials are capped (ex: Montenegro). Yet in other countries, only citizens and PRs are subject to socials, while temporary residents are exempt (ex: Bulgaria) or can contribute voluntarily (ex: Malaysia). In others, socials are not capped (ex: Panama).
+- Socials are capped in _some_ countries (ex: Bulgaria, Serbia, etc.) based on the min/avg salary (or a multiple thereof). In other countries, only _some_ socials are capped (ex: health ins in Romania, pension & disability in Montenegro). Yet in other countries, only citizens and PRs are subject to socials, while temporary residents are exempt (ex: Bulgaria) or can contribute voluntarily (ex: Malaysia). In others, socials are not capped (ex: Panama).
 
 - CGT can be flat or progressive based on how many years the asset is held. In some countries, only a portion of the gain (ex: 50%) is taxed. Rates may differ for rental properties (as opposed to shares).
 

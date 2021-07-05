@@ -1,6 +1,6 @@
 # Example calculations
 
-Note that the math doesn't account for business expenses, legal fees (ex: consulation, company formation), accounting fees (ex: tax remittance, tax returns, etc.), private health insurance, visa fees, etc.
+Note that the math doesn't account for business expenses, legal fees (ex: consultation, company formation), accounting fees (ex: tax remittance, tax returns, etc.), private health insurance, visa fees, etc.
 
 ## Table of Contents
 
@@ -8,16 +8,16 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 
 - IT consultant in Bucharest, gross income EUR 80k/y, income norm system
 
-|                  | Amount                               |
-| ---------------- | ------------------------------------ |
-| Turnover         | RON 393,363.75                       |
-| Income norm      | RON 35,000                           |
-| Income tax (10%) | RON 3,500 = 10% \* RON 35,000        |
-| Base for socials | RON 27,600/y = RON 2,300.00/mo \* 12 |
-| Social sec (25%) | RON 6,900 = 25% \* RON 27,600        |
-| Health ins (10%) | RON 2,760 = 10% \* RON 27,600        |
-| Total tax        | RON 13,160 = 3,500 + 6,900 + 2,760   |
-| Effective tax    | **3.35%** = 13,160 / 393,363.75      |
+|                  | Amount                                      |
+| ---------------- | ------------------------------------------- |
+| Turnover         | RON 394,184 = EUR 80,000 \* 4.9273          |
+| Income norm      | RON 35,000                                  |
+| Base for socials | RON 27,600/y = RON 2,300.00/mo \* 12        |
+| Social sec (25%) | RON 6,900 = 25% \* RON 27,600               |
+| Health ins (10%) | RON 2,760 = 10% \* RON 27,600               |
+| Income tax (10%) | RON 2,534 = 10% \* (35,000 - 6,900 - 2,760) |
+| Total tax        | RON 12,194 = 6,900 + 2,760 + 2,534          |
+| Effective tax    | **3.09%** = 12,194 / 394,184                |
 
 ## Micro-enterprise in Romania 🇷🇴
 
@@ -31,10 +31,8 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 | Turnover        | RON 393,363.75                                         |
 | Salary          | RON 2,300                                              |
 | Socials (2.25%) | RON 51.75                                              |
-| 1% tax\*        | RON 3,933.64 = 393,363.75 \* 0.01                      |
+| 1% tax          | RON 3,933.64 = 393,363.75 \* 0.01                      |
 | Net income      | RON 387,078.36 = 393,363.75 - 2,300 - 51.75 - 3,933.64 |
-
-\* Assuming that salary and socials are not deductible (is this correct?)
 
 ### Employee
 

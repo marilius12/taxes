@@ -37,9 +37,9 @@
   - ex: Bulgaria, Romania, Georgia, Hungary, etc.
 - **Progressive tax**
   - variable tax based on tax brackets, imposes higher burden on higher-income earners
-  - ex: US, Canada, Astralia, UK, France, Germany, Sweden, etc.
+  - ex: US, Canada, Australia, UK, France, Germany, Sweden, etc.
 - **Lump-sum tax**
-  - fixed sum (ex: EUR 100k) is paid annualy on certain/most income; works best for HNWI
+  - fixed sum (ex: EUR 100k) is paid annually on certain/most income; works best for HNWI
   - ex: Italy, Greece, Switzerland, etc.
 - **Tax holidays/exemptions**
   - special tax programs often for 3/5/10 years to attract workers, entrepreneurs, investors, etc.
@@ -61,7 +61,7 @@
 - **Property tax**: paid by real estate owners
 - **Import tax/duty/tariff**: paid on goods and resources imported from other countries
 - **Stamp duty**: paid on documents, licenses, cards, checks, receipts, etc.
-- **Excise tax**: paid by consumers on certains goods (ex: tobacco, alcohol, fuel, air tickets, luxury items)
+- **Excise tax**: paid by consumers on certain goods (ex: tobacco, alcohol, fuel, air tickets, luxury items)
   - **Sin tax**: paid on products deemed harmful (ex: tobacco, alcohol, fast food, soft drinks, etc.)
 - **Energy tax**: paid by consumers and/or producers of fuels, oil, gas, etc.
   - **Carbon tax**: paid by producers of carbon-based fuels (coal, oil, gas)
@@ -141,14 +141,13 @@ These terms are commonly confused. Note that they can all be in different countr
   - varies by country: Cyprus, UK, Ireland, Malta, Italy, Greece
 - **Citizenship**
   - status of being a citizen of a country (by land, blood, naturalization, descent, etc.)
-    - example map of countries by birthright citizenship on [Reddit](https://www.reddit.com/r/MapPorn/comments/nn7evq/places_where_birthright_citizenship_is_based_on/)
   - stateless person: someone not considered a national by any state
 
 ## Tax residency rules
 
 Each jurisdiction has its own rules for determining tax residency. Some countries apply residency tests (ex: SRT in the UK, substantial presence test in the US, etc.).
 
-Tax residency is a question of **fact**. Usually, tax authorities publish guidelines on tax residency that you can read online. The fine print can be found in the applicalbe tax act(s) as well as case law. Finally, any DTTs that are in place will overwrite local laws.
+Tax residency is a question of **fact**. Usually, tax authorities publish guidelines on tax residency that you can read online. The fine print can be found in the applicable tax act(s) as well as case law. Finally, any DTTs that are in place will overwrite local laws.
 
 ### Individual residency
 
@@ -167,7 +166,7 @@ For most people leaving western countries, the best course of action is to make 
 
 In some countries, to become a **tax non-resident**, you must establish tax residency elsewhere. If you don't, they may still consider you a tax resident there (ex: factual resident in Canada). As such, you may have to acquire a tax ID number or a tax certificate in the country you are moving to.
 
-As a non-resident of your home country, if you receive local sourced income, you may still have to file a **tax return**. However, if a DTT is in place, that income is usually tax exempt, because the other country already taxes your wordwide income. Some notable exemptions are the US (see foreign earned income exclusion).
+As a non-resident of your home country, if you receive local sourced income, you may still have to file a **tax return**. However, if a DTT is in place, that income is usually tax exempt, because the other country already taxes your worldwide income. Some notable exemptions are the US (see foreign earned income exclusion).
 
 ### Corporate residency
 
@@ -209,16 +208,16 @@ TODO
 
 TODO
 
-## Tax Avodance vs. Tax Evasion
+## Tax Avoidance vs. Tax Evasion
 
 - **Tax optimization**
   - **legally** and ethically structuring your affairs in a way to owe less in taxes
   - tax planning, where arrangements are consistent with the intent of the law
-  - ex: incrorporation if you're self-employed, contributing to retirement funds (for deductions), relocating to another jurisdiction, taking advantage of tax incentives or programs, etc.
+  - ex: incorporation if you're self-employed, contributing to retirement funds (for deductions), relocating to another jurisdiction, taking advantage of tax incentives or programs, etc.
 - **Tax avoidance**
-  - also **legal** but often unethical, using agreesive or abusive tax planning that pushes the limits of the laws
-  - ex: complex international tax planning (escpecially, by multinationals), using tax loopholes, hybrid mismatch, holding or flow-through companies, etc.
-  - often met with countermeasures, ex: laws/ammendments, anti-avoidance rules, blacklisting, CRS, OECD, etc.
+  - also **legal** but often unethical, using aggressive or abusive tax planning that pushes the limits of the laws
+  - ex: complex international tax planning (especially, by multinationals), using tax loopholes, hybrid mismatch, holding or flow-through companies, etc.
+  - often met with countermeasures, ex: laws/amendments, anti-avoidance rules, blacklisting, CRS, OECD, etc.
 - **Tax evasion**
   - **illegal**, not paying taxes owed, under-reporting income, ignoring laws, has criminal consequences
   - ex: claiming non-deductible expenses, providing false information, money laundering, etc.

@@ -20,7 +20,7 @@ For example, if you travel abroad throughout the year but your family, primary r
 
 > If I live 4 months in 3 different countries, I don't have to pay taxes anywhere.
 
-In theory, it's possible to not be a tax resident of any country. In practice, it might be difficult to bank without a tax residency somewhere. In addition, to become a tax non-resident, you need to sever ties with your home country - this typically involves establishing ties elsewhere. In some places (ex: Canada), you must establish tax residency in another country, otherwise you remain a tax resident of your home country even if you no longer live there.
+In theory, it's possible to not be a tax resident of any country. In practice, you are most certainly a tax resident somewhere depending on the laws of the countries you visit and the country you are domiciled in. Typically, your tax residency is in the country you spend the most time in and/or have the most ties with (family, property, bank accounts, etc.). Otherwise, you might default to being a tax resident of your country of citizenship.
 
 > Once I am no longer a tax resident of my home country, I don't have to pay taxes there.
 
@@ -28,4 +28,4 @@ Most countries will still tax your local-sourced income. For example, as a tax n
 
 > If I invest in stocks through my foreign company, I can pay a lower withholding tax on dividends.
 
-Most countries have **anti-treaty shopping** provisions, in particular, **limitation on benefits clauses**. If you want to benefit from a reduced WTH tax rate in a foreign country, you will need to establish enonomic substance there.
+Most countries have **anti-treaty shopping** provisions, in particular, **limitation on benefits clauses**. If you want to benefit from a reduced WTH tax rate in a foreign country, you will need to establish economic substance there.

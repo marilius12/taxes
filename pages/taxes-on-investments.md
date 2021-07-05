@@ -91,5 +91,5 @@ _Registered_ accounts are specialized tax-advantaged accounts. They work best fo
 - low-risk investments
   - contribution room is limited and non-recoverable if you sell for a loss
   - safe investments lower the risk of losing your principal (for a degree, retirement, etc.)
-    - i.e. core portfolio with low volalility, limited downside risk, and steady growth
+    - i.e. core portfolio with low volatility, limited downside risk, and steady growth
     - ex: broad-market index funds (ETFs), blue-chip stocks, value stocks
