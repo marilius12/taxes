@@ -10,8 +10,9 @@ import { Node } from "unist";
 import urls from "rehype-urls";
 import { UrlWithStringQuery } from "url";
 import slug from "rehype-slug";
-import html from "rehype-stringify";
+import wrap from "rehype-wrap";
 import minify from "rehype-preset-minify";
+import html from "rehype-stringify";
 import vfile from "to-vfile";
 import report from "vfile-reporter";
 
@@ -55,6 +56,10 @@ const processor = unified()
             a:link { color: #0070F3 }
             header nav a { padding: 0 0.5em }
             header nav a:first-child { padding-left: 0 }
+            @media screen and (max-width: 900px) {
+              .table-container { overflow-x: auto }
+            }
+            table th, table td { white-space: nowrap }
           </style>
         </head>
         <body>
@@ -74,6 +79,7 @@ const processor = unified()
   })
   .use(urls, rewriteUrls)
   .use(slug)
+  .use(wrap, { selector: "table", wrapper: ".table-container" })
   .use(minify)
   .use(html);
 
