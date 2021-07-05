@@ -11,7 +11,7 @@ import { Node } from "unist";
 import urls from "rehype-urls";
 import { UrlWithStringQuery } from "url";
 import slug from "rehype-slug";
-import wrap from "rehype-wrap";
+import wrap from "rehype-wrap-all";
 import minify from "rehype-preset-minify";
 import html from "rehype-stringify";
 import vfile from "to-vfile";
@@ -114,7 +114,10 @@ async function emitMinifedCss(
 ) {
   const original = await fsp.readFile(src, "utf8");
 
-  const minified = new CleanCSS().minify(original);
+  const { styles, errors, warnings } = new CleanCSS().minify(original);
 
-  await fsp.writeFile(dest, minified.styles, "utf8");
+  errors.forEach(console.error);
+  warnings.forEach(console.warn);
+
+  await fsp.writeFile(dest, styles, "utf8");
 }

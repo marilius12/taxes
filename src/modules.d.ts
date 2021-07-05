@@ -2,7 +2,7 @@ declare module "rehype-template";
 
 declare module "rehype-urls";
 
-declare module "rehype-wrap";
+declare module "rehype-wrap-all";
 
 declare module "rehype-preset-minify";
 
