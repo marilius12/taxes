@@ -203,7 +203,7 @@ Several important concepts and/or rules apply in determining the tax residency o
   - company registered offshore but managed onshore
   - considered a tax resident onshore and thus subject to domestic taxes
 - **Hybrid mismatch**
-  - differences in tax laws between countries that may be exploted for BEPS and tax avoidance
+  - differences in tax laws between countries that may be exploited for BEPS and tax avoidance
   - often target discrepancies in tax residency, registration vs. POEM, domicile, etc.
   - ex 1: Double Irish where a company is registered in Ireland but managed from the US
   - ex 2: UK, Cyprus recognize tax domicile, while most countries like Canada don't
