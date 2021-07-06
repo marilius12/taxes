@@ -36,7 +36,7 @@ async function main() {
 
   const promises = files.map(convertMdToHtml);
 
-  promises.push(emitMinifedCss());
+  promises.push(emitMinifiedCss());
 
   await Promise.all(promises);
 }
@@ -116,7 +116,7 @@ function rewriteUrls(url: UrlWithStringQuery, node: Node) {
   return url.href.replace(/^\.\/(.+)\.md/, "/$1");
 }
 
-async function emitMinifedCss(
+async function emitMinifiedCss(
   src = `./${SRC_DIR}/sp.css`,
   dest = `./${OUT_DIR}/style.css`
 ) {
