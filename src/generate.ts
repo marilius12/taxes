@@ -61,9 +61,8 @@ const processor = unified()
             <nav>
               <a href="/">Home</a>/
               <a href="/basics-of-taxation">Basics</a>/
-              <a href="/common-mistakes">Myths</a>/
               <a href="/glossary">Glossary</a>/
-              <a href="https://github.com/marilius12/taxes">GitHub</a>
+              <a href="/resources">Resources</a>
             </nav>
           </header>
           <main>${node}</main>
