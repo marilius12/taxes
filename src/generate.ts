@@ -6,8 +6,7 @@ import toc from "remark-toc";
 import gfm from "remark-gfm";
 import remark2rehype from "remark-rehype";
 import { template, html as h, doctype } from "rehype-template";
-import CleanCSS from "clean-css";
-import { Node } from "unist";
+import { Node, Literal } from "unist";
 import urls from "rehype-urls";
 import { UrlWithStringQuery } from "url";
 import slug from "rehype-slug";
@@ -16,6 +15,7 @@ import minify from "rehype-preset-minify";
 import html from "rehype-stringify";
 import vfile from "to-vfile";
 import report from "vfile-reporter";
+import CleanCSS from "clean-css";
 
 const IN_DIR = "pages";
 const OUT_DIR = "dist";
@@ -47,13 +47,13 @@ const processor = unified()
   .use(gfm)
   .use(remark2rehype)
   .use(template, {
-    template: (node: Node) => h`
+    template: (nodes: Node[]) => h`
       ${doctype}
       <html>
         <head>
           <meta charset="utf-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <title>Taxes</title>
+          <title>Taxes - ${extractTitle(nodes)}</title>
           <link rel="stylesheet" href="/style.css" />
         </head>
         <body>
@@ -65,7 +65,7 @@ const processor = unified()
               <a href="/resources">Resources</a>
             </nav>
           </header>
-          <main>${node}</main>
+          <main>${nodes}</main>
         </body>
       </html>
     `,
@@ -89,6 +89,15 @@ async function convertMdToHtml(filename: string) {
   newVFile.dirname = OUT_DIR;
 
   await vfile.write(newVFile);
+}
+
+function extractTitle(nodes: Node[]) {
+  const h1 = nodes.find(({ tagName }) => tagName === "h1") as Node;
+  const h1Text = (h1.children as Literal[])[0].value as string;
+  return h1Text.replace(
+    /International taxes for freelancers and digital nomads/,
+    "Homepage"
+  );
 }
 
 function rewriteUrls(url: UrlWithStringQuery, node: Node) {

@@ -2,7 +2,7 @@
 
 These are the countries with tax rates in the single-digits and low-to-mid teens.
 
-## Table of Contents
+## Table of contents
 
 ## Individual Entrepreneur (IE) with Small Business Status (SBS) in Georgia 🇬🇪
 

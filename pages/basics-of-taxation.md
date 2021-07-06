@@ -1,8 +1,8 @@
-# Basics of Taxation
+# Basics of taxation
 
-## Table of Contents
+## Table of contents
 
-## Types of Taxes
+## Types of taxes
 
 ### Based on the origin
 
@@ -80,7 +80,7 @@
 - **State/provincial**: levied by the state (ex: US), province (ex: Canada), region (ex: Italy), etc.
 - **Municipal/local**: levied by the county (ex: US), city (ex: LA), district, etc.
 
-## Types of Income
+## Types of income
 
 - **Gross income**: total income before any expenses, deductions, or taxes
 - **Net income**: income after all expenses, deductions, and taxes
@@ -92,7 +92,7 @@ Companies also distinguish revenue and profit which are slightly different:
 - **Revenue** (**turnover**): gross sales of goods/products
 - **Profit**: net sales i.e. gross sales minus all expenses, debts, costs, etc.
 
-## Tax Base
+## Tax base
 
 **Tax base (taxation basis)** is the portion of income that is subject to tax (also, **taxable income**).
 
@@ -100,7 +100,7 @@ _Individuals_ pay taxes (PIT and socials) on their gross income minus deductions
 
 _Corporations_ pay taxes (CIT) on their profits (or sometimes a lower rate on revenues). Profits are then distributed to shareholders as dividends (which are then taxed _again_ at the personal level).
 
-## Legal Structure
+## Legal structure
 
 Most freelancers and digital nomads will fall into one of the following:
 
@@ -117,7 +117,7 @@ _Self-employed_ can pay less PIT by deducting **business expenses** from gross i
 
 Despite tax integration, _corporations_ are often the most tax-efficient because they can pay a reduced **small business** CIT rate at the corporate level, and a flat **dividend tax** at the personal level (typically, lower than PIT). As a director/manager, you can decide how much you pay yourself in salary and thus in PIT and socials.
 
-## Residency vs. Tax residency
+## Residency vs. tax residency
 
 These terms are commonly confused. Note that they can all be in different countries simultaneously!
 
@@ -183,7 +183,7 @@ In most cases, the company is taxed **where it is managed and controlled** regar
 
 Most countries apply both registration and management & control. Some only apply one or the other, but may still have CFC and/or hybrid mismatch rules to counteract tax avoidance.
 
-### Double Taxation
+### Double taxation
 
 Unfortunately, you could be a tax resident of **multiple countries**. If there is a **double taxation treaty (DTT)** between countries, you may qualify for treaty relief. In this case, DTT will overwrite local tax laws. Which country ends up charging you the tax is determined by the **tie breaker rules** in the DTT where your permanent home and center of vital interests will factor in.
 
@@ -209,7 +209,7 @@ Several important concepts and/or rules apply in determining the tax residency o
   - ex 2: UK, Cyprus recognize tax domicile, while most countries like Canada don't
   - ex 3: countries like Germany don't require to establish tax residency elsewhere upon exit
 
-## Tax Avoidance vs. Tax Evasion
+## Tax avoidance vs. tax evasion
 
 - **Tax optimization**
   - **legally** and ethically structuring your affairs in a way to owe less in taxes

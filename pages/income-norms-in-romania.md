@@ -48,6 +48,12 @@ Some categories of people can also adjust their income by applying correction co
 
 Based on art. 69², you need to file form 212 (Declarație unică privind impozitul pe venit și contribuțiile sociale datorate de persoane fizice) to assess your income tax and social contributions. Here's one for [2021](https://static.anaf.ro/static/10/Anaf/formulare/D_212_OPANAF_14_2021.pdf).
 
+### Translations
+
+- Agenţia Naţionala de Administrare Fiscală (ANAF) - National Agency for Fiscal Administration
+- Persoană Fizică Autorizată (PFA) - Authorized natural person (sole prop)
+- Declarație privind venitul estimat/norma de venit - Statement of estimated income / income norm
+
 ## Resources
 
 - [The tax system in Romania](https://youtu.be/euNyFGY5HHc)
@@ -55,9 +61,3 @@ Based on art. 69², you need to file form 212 (Declarație unică privind impozi
 - [Differences between PFA in real system and PFA with income norm (RO)](https://www.calculatorvenituri.ro/diferente-intre-pfa-in-sistem-real-si-pfa-cu-norma-de-venit)
 - [IT activities - PFA with income norm (RO)](https://www.contabil-it.ro/activitati-it-pfa-cu-norma-de-venit-i/)
 - [PFA income norm and possible adjustments to the norm (RO)](https://www.contzilla.ro/pfa-la-norma-de-venit-si-posibilitatea-de-ajustare-a-normei/)
-
-## Translations
-
-- Agenţia Naţionala de Administrare Fiscală (ANAF) - National Agency for Fiscal Administration
-- Persoană Fizică Autorizată (PFA) - Authorized natural person (sole prop)
-- Declarație privind venitul estimat/norma de venit - Statement of estimated income / income norm
