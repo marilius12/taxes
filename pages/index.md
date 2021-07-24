@@ -1,6 +1,6 @@
 # International taxes for freelancers and digital nomads
 
-## Getting Started
+## Getting started
 
 - [Lowest tax countries (🇬🇪 Georgia, 🇧🇬 Bulgaria, 🇷🇴 Romania, etc.)](./lowest-tax-countries.md)
 
@@ -10,7 +10,7 @@
 
 - [Basics about taxation (tax residency, CFC, PE, etc.)](./basics-of-taxation.md)
 
-- [Reducing taxes on income](./tax-optimization-strategies.md) and [investments](./taxes-on-investments.md)
+- [Reducing taxes on income](./tax-optimization-strategies.md) and [investments](./taxes-on-investments.md) (also, [WTH taxes](./taxes-for-retirees.md))
 
 - [Common mistakes and misconceptions](./common-mistakes.md)
 

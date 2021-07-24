@@ -13,6 +13,7 @@
 - DTT: Double Taxation Treaty
 - EE: Employee
 - EI: Employment Insurance
+- EM: Emerging Market
 - EMI: Electronic Money Institution
 - ER: Employer
 - FMV: Fair Market Value

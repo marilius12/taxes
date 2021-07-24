@@ -73,6 +73,7 @@
 - **Exit/departure tax**: paid by expatriates on their assets when becoming a tax non-resident of their country
 - **Solidarity tax**: paid by higher-income earners to support low and middle-income households
 - **User fees**: paid for admission to parks, museums, also toll fees for roads and bridges
+- **Withholding tax**: paid by a non-resident individual/company on income sourced locally (ex: divs, interest, rent, etc.)
 
 ### Based on geography
 
