@@ -33,7 +33,7 @@ This works best for people with moderate income, high tax burden, and high CoL. 
   - if on the list of high value-added activities (tech, doctors, management, etc.)
   - other domestic income is subject to regular PIT 14.5-48%
 - foreign-sourced income may be **exempt from PIT**
-  - if taxed in the source sate _and_ not deemed derived in PT
+  - if taxed in the source state _and_ not deemed derived in PT
   - also: not earned in a country on the black list (ex: tax haven)
 - NOTE: management & control and PE rules apply
   - must pay PT taxes on PT-sourced income
