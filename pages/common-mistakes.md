@@ -22,9 +22,17 @@ For example, if you travel abroad throughout the year but your family, primary r
 
 In theory, it's possible to not be a tax resident of any country. In practice, you are most certainly a tax resident somewhere depending on the laws of the countries you visit and the country you are domiciled in. Typically, your tax residency is in the country you spend the most time in and/or have the most ties with (family, property, bank accounts, etc.). Otherwise, you might default to being a tax resident of your country of citizenship.
 
+> If I live in a territorial-tax country, I can earn passive income from abroad tax-free.
+
+When you earn income that is sourced in a foreign country, that country will usually deduct a **non-resident withholding tax** before the payment is even received. For example, if a US company pays you, a foreign person, a dividend, it will withhold 30% from the distribution thus diminishing your dividend yield. Although this tax is non-refundable, it's usually reduced by a tax treaty with your home country (ex: from 30% to 15%). If your country then taxes those dividends again as worldwide income, you can offset double taxation by claiming foreign tax credits on your tax return.
+
+> If I work for a company remotely, I can travel abroad and not pay any taxes there.
+
+Following the previous paragraph, non-resident withholding tax is usually applied to foreign passive income, such as dividends, interest, royalties, and rent. However, it may also apply to **active income** earned abroad. As such, you do **not** have to be a tax resident in a foreign country to owe taxes there. For instance, if you work remotely in a foreign country as a non-resident, your work will be local sourced and thus subject to the non-resident WTH tax. Most often though, the DTT with your home country will overwrite the local tax code, and you will only pay taxes to one country, the one in which you maintain your center of vital interests (i.e. residential ties). However, if there isn't a DTT between these countries, you may owe taxes to both.
+
 > Once I am no longer a tax resident of my home country, I don't have to pay taxes there.
 
-Most countries will still tax your local-sourced income. For example, as a tax non-resident, if you keep a rental property in your home country, your rental income will be subject to **withholding tax**. The same applies to other income sourced locally like interest or dividends. You may also need to file a non-resident income tax return to report this income.
+Same as above, your home country will still levy non-resident withholding taxes on any income sourced locally. For example, as a tax non-resident, if you keep a rental property when you leave Canada, your rental income will be subject to the 25% withholding tax. This tax also applies to any other local-sourced income like interest or dividends (although the rate on those may be reduced with a tax treaty). You may also need to file a non-resident income tax return to report this income.
 
 > If I invest in stocks through my offshore company, I can pay a lower withholding tax on dividends.
 
