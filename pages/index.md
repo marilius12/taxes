@@ -10,7 +10,7 @@
 
 - [Basics about taxation (tax residency, CFC, PE, etc.)](./basics-of-taxation.md)
 
-- [Reducing taxes on income](./tax-optimization-strategies.md) and [investments](./taxes-on-investments.md) (also, [WTH taxes](./taxes-for-retirees.md))
+- [Reducing taxes on income](./tax-optimization-strategies.md) and [investments](./taxes-on-investments.md) (also, [WTH taxes](./withholding-taxes.md))
 
 - [Common mistakes and misconceptions](./common-mistakes.md)
 

@@ -1,14 +1,4 @@
-# Taxes for retirees
-
-Most sources of retirement income are passive:
-
-- Pension
-- Rental
-- Dividends
-- Interest
-- Royalties
-
-## Withholding tax
+# Withholding taxes
 
 When you earn foreign-source income, a **non-resident withholding tax** will typically be deducted before the payment is received. For example, when you, as a foreign person, receive a dividend from a US corporation, a 30% tax will be automatically withheld at the source. This rate can be reduced if the country you are a tax resident of has a tax treaty with the US (ex: 15% for Canadian residents, see [WTH taxes in US](https://taxsummaries.pwc.com/united-states/corporate/withholding-taxes)).
 
