@@ -57,7 +57,7 @@
 - **Interest tax**: paid on interest accrued in bank accounts, bonds, CDs, etc.
 - **Royalty tax**: paid by property owners for use of that property (copyright, patent, trademark, etc.)
 - **Payroll (social security) tax**: paid by both employees and employers, as well as self-employed to fund pensions, healthcare, employment insurance, parental leave, etc.
-- **Sales tax/GST/VAT**: paid by consumers when buying products and services
+- **Sales tax/GST/VAT**: paid by both consumers and producers when buying products and services
 - **Property tax**: paid by real estate owners
 - **Import tax/duty/tariff**: paid on goods and resources imported from other countries
 - **Stamp duty**: paid on documents, licenses, cards, checks, receipts, etc.
@@ -118,11 +118,11 @@ _Self-employed_ can pay less PIT by deducting **business expenses** from gross i
 
 Despite tax integration, _corporations_ are often the most tax-efficient because they can pay a reduced **small business** CIT rate at the corporate level, and a flat **dividend tax** at the personal level (typically, lower than PIT). As a director/manager, you can decide how much you pay yourself in salary and thus in PIT and socials.
 
-## Residency vs. tax residency
+## Legal residency vs. tax residency
 
 These terms are commonly confused. Note that they can all be in different countries simultaneously!
 
-- **Residency**
+- **Legal residency**
   - legal status (privilege) to stay in another country as a foreign citizen
   - **temporary residency (TR)**: 1-5 years, foreign students, workers, business partners, etc., may lead to PR
   - **permanent residency (PR)**: renewed every 5-10 years, entitled to most rights except voting, may lead to citizenship
@@ -133,7 +133,7 @@ These terms are commonly confused. Note that they can all be in different countr
   - usually, you are a tax resident of **one** country
   - unfortunately, you could be a tax resident of **two or more** countries
     - DTTs may or may not be in place to offset double taxation
-  - in theory, you could be a tax resident of **no** country (although this complicates banking)
+  - in theory, you could be a tax resident of **no** country (although this complicates banking and investing)
 - **E-residency**
   - neither legal nor tax residency; just an online registration for government services
 - **Domicile**
@@ -151,26 +151,30 @@ Each jurisdiction has its own rules for determining tax residency. Some countrie
 
 Tax residency is a question of **fact**. Usually, tax authorities publish guidelines on tax residency that you can read online. The fine print can be found in the tax act(s) and case law. Finally, any DTTs that are in place will overwrite local laws.
 
-### Individual residency
+## Individual residency
 
 An individual is taxed based on where they are a tax resident. The following factors are commonly (but not always) taken into account:
 
 - **183 day rule**
-  - automatically a tax resident if you spend more than 183 days in any 12-month period
+  - automatically a tax resident if you spend more than 183 days in any 12-month period (barring a DTT or visa terms)
+- **permanent home**
+  - tax resident if you have have your primary residence (dwelling) in the country, even if you spend less than 183 days there
 - **center of vital interests**
-  - based on residential ties (business, economic, social, etc.)
-    - ex: primary residence, property, job/business, bank accounts, documents/IDs, memberships
-  - may supersede the 183-day rule depending on the DTT
-- habitual (or permanent) **abode**, principal place of **sojourn**, etc. of person and/or their **spouse and dependents**
+  - may include personal, economic, familial, social, business, etc. ties
+  - ex: spouse/common-law partner, dependends, property, job/business, bank accounts, documents/IDs, memberships, etc.
+- **habitual abode**
+  - dwelling that you habitually return to (ex: from travels) even if you don't live there most of the year
+- place of **sojourn**
+  - sojourning means staying temporarily (i.e. temporary residence) even for a short time
 - nationality/**citizenship** (ex: US)
 
 For most people leaving western countries, the best course of action is to make a **clean break** i.e. sever all ties with your home country (sell your home, car, close bank accounts, etc.), and permanently move yourself, your family, and your business to the new country. Alternatively, you could sever all **significant ties** (like your primary residence) but keep some **secondary ties** (like your driver's license or private pension fund).
 
-In some countries, to become a **tax non-resident**, you must establish tax residency elsewhere. If you don't, they may still consider you a tax resident there (ex: factual resident in Canada). As such, you may have to acquire a tax ID number or a tax certificate in the country you are moving to.
+In some countries, to become a **tax non-resident**, you must establish tax residency elsewhere. If you don't, they may still consider you a tax resident there (ex: deemed resident in Canada). You may also want to acquire a tax ID number or a tax certificate in the country you are moving to.
 
-As a non-resident of your home country, if you receive local sourced income, you may still have to file a **tax return**. However, if a DTT is in place, that income is usually tax exempt, because the other country already taxes your worldwide income. Some notable exemptions are the US (see foreign earned income exclusion).
+As a non-resident of your home country, if you receive local sourced income, you have to pay a **non-resident withholding tax** and file a tax return. However, if a DTT is in place, that income is usually tax exempt, because the other country already taxes your worldwide income. Some notable exemptions are the US (see foreign earned income exclusion).
 
-### Corporate residency
+## Corporate residency
 
 A company is taxed based on where it is a tax resident. Tax authorities consider the place of:
 
@@ -183,14 +187,6 @@ A company is taxed based on where it is a tax resident. Tax authorities consider
 In most cases, the company is taxed **where it is managed and controlled** regardless of where it's registered. Ex: if you form an offshore company in Belize but continue to live and work from Canada, your company is still a tax resident of Canada and is subject to Canadian taxes.
 
 Most countries apply both registration and management & control. Some only apply one or the other, but may still have CFC and/or hybrid mismatch rules to counteract tax avoidance.
-
-### Double taxation
-
-Unfortunately, you could be a tax resident of **multiple countries**. If there is a **double taxation treaty (DTT)** between countries, you may qualify for treaty relief. In this case, DTT will overwrite local tax laws. Which country ends up charging you the tax is determined by the **tie breaker rules** in the DTT where your permanent home and center of vital interests will factor in.
-
-If there is no DTT in place (often the case for blacklisted or tax haven countries), then you might be subject to double taxation. However, the other country would usually have no tax, very low tax, or territorial tax (where foreign-sourced income is exempt from taxes).
-
-## Corporate residency
 
 Several important concepts and/or rules apply in determining the tax residency of a company.
 
@@ -209,6 +205,19 @@ Several important concepts and/or rules apply in determining the tax residency o
   - ex 1: Double Irish where a company is registered in Ireland but managed from the US
   - ex 2: UK, Cyprus recognize tax domicile, while most countries like Canada don't
   - ex 3: countries like Germany don't require to establish tax residency elsewhere upon exit
+
+## Double taxation
+
+Unfortunately, you could be a tax resident of **multiple countries**. Luckily though, if those countries have a **double taxation treaty (DTT)**, you may still be deemed a tax resident of one country, but not the other, based on the **tie-breaker rules** (often found in Article IV). The country you would be deemed a tax resident of is typically the one in which you have your:
+
+1. permanent home _or_
+2. center of vital interests _or_
+3. habitual abode _or_
+4. citizenship
+
+If you satisfy one of these tests, you'd qualify for double taxation relief, as the DTT would overwrite (supersede) any local tax laws. If none of the tests apply, the question is settled in court by mutual agreement of the countries.
+
+If there is no DTT in place (often the case for blacklisted or tax haven countries), then you might be subject to double taxation. However, the other country would usually have no tax, very low tax, or territorial tax (where foreign-sourced income is exempt from taxes). In other cases, you may be exempt from tax based on the terms of your visa (ex: digital nomad visa).
 
 ## Tax avoidance vs. tax evasion
 
