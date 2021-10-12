@@ -13,8 +13,8 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - **1%** tax on **turnover**, can hire employees and contractors
   - 3% if you exceed GEL 500k in a tax year
   - if you exceed GEL 500k in 2 consecutive years, this status is revoked
-- if your transactions exceed GEL 100k/year, must register for **VAT**
-  - B2B activities with foreign companies are exempt from VAT, but you can also claim it back on purchases
+- if your VATable transactions exceed GEL 100k/year, must register for **VAT**
+  - B2B activities with foreign companies are exempt from VAT, but you can also claim it back on business purchases
 - NOTE: GE doesn't have CRS (until 2023), and banks have been risk-averse since 2019-2020 which can affect your business
 
 ### Resources
