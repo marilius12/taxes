@@ -2,7 +2,7 @@
 
 ## Acronyms
 
-- ATAD: Anti-tax Avoidance Directives
+- ATAD: Anti-tax Avoidance Directive
 - BEPS: Base Erosion and Profit Shifting
 - CBI: Citizenship By Investment
 - CFC: Controlled Foreign Corporation
@@ -20,15 +20,16 @@
 - FX: Foreign Exchange
 - FY: Fiscal Year
 - HNWI: High-net-worth Individual
-- IT: Intellectual Property
+- IP: Intellectual Property
 - PIT: Personal Income Tax
 - POEM: Place of Effective Management
-- PR: Permanent Resident
+- PR: Permanent Residency
 - RA: Revenue Agency
 - RS: Revenue Service
 - SMB: Small and Medium-sized Business
 - SME: Small and Medium-sized Enterprise
 - SSC: Social Security Contributions
+- TIEA: Tax Information Exchange Agreement
 - TR: Tax Residency
 - TRC: Tax Registration Certificate
 - WTH: Withholding (i.e. WTH tax)
