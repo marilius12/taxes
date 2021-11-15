@@ -130,3 +130,16 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - [Cyprus - Individual Residence](https://taxsummaries.pwc.com/cyprus/individual/residence)
 - [The Cyprus Non-Domicile concept for tax purposes](https://totalserve.eu/Assets/Images/uploadedContent/CMS/documentsImages/informationsheetno1291483607458.pdf)
 - [Cyprus Tax Residency and Non-Dom Rules](https://home.kpmg/content/dam/kpmg/cy/pdf/2020/Cyprus_Tax_Residency_and_Non-Dom_Rules_February2020.pdf)
+
+## Small Entrepreneur in Republika Srpska (Bosnia) 🇧🇦
+
+- small entreprenuer = "мали предузетник" (SR) or "mali preduzetnik" (BS)
+- earn up to **BAM 50k** (~ USD 30k) in **turnover**, can have up to 3 employees
+- pay **2%** tax on turnover, at least BAM 600 anually
+- not required to register for VAT (only when turnover exceeds BAM 50k)
+
+### Resources
+
+- [Law on Income Tax (Zakon o porezu na dohodak Republike Srpske)](https://advokat-prnjavorac.com/zakoni/Zakon-o-porezu-na-dohodak-Republike-Srpske.pdf) Article 21
+- [Income tax regulations in RS](https://poreskaupravars.org/fizicka-lica/propisi-o-porezu-na-dohodak/?lang=cir)
+- [From freelancer to self-employed](https://www.smartoffice.ba/blog/85-od-freelancera-do-samostalnog-preduzetnika)

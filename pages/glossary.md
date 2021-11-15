@@ -30,6 +30,7 @@
 - SME: Small and Medium-sized Enterprise
 - SSC: Social Security Contributions
 - TIEA: Tax Information Exchange Agreement
+- TIN: Tax Identification Number
 - TR: Tax Residency
 - TRC: Tax Registration Certificate
 - WTH: Withholding (i.e. WTH tax)
@@ -49,6 +50,7 @@
 - PL: Poland - PLN (zloty)
 - PT: Portugal - EUR
 - RO: Romania - RON (leu)
+- RS: Republika Srpska - BAM/KM (convertible mark)
 - SI: Slovenia - EUR
 
 ### Tax agencies
