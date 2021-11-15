@@ -131,6 +131,19 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - [The Cyprus Non-Domicile concept for tax purposes](https://totalserve.eu/Assets/Images/uploadedContent/CMS/documentsImages/informationsheetno1291483607458.pdf)
 - [Cyprus Tax Residency and Non-Dom Rules](https://home.kpmg/content/dam/kpmg/cy/pdf/2020/Cyprus_Tax_Residency_and_Non-Dom_Rules_February2020.pdf)
 
+## Corporation in Albania 🇦🇱
+
+- **exempt** from CIT (15%) with **turnover** up to **ALL 14M** (~ USD 131k)
+- also: **8% divs** (individual), min salary **ALL 30k/mo** (2021)
+  - **socials**: 16.7% ER + 11.2% EE
+- VAT registration threshold (on taxable supplies) at ALL 10M
+
+### Resources
+
+- [DPT > Entrepreneurs > Acting like a Business > Income Tax](https://www.tatime.gov.al/c/4/96/107/tatimi-mbi-te-ardhurat)
+- [Albania - Taxes on corporate income](https://taxsummaries.pwc.com/albania/corporate/taxes-on-corporate-income)
+- [International Tax - Albania Highlights 2021](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-albaniahighlights-2021.pdf)
+
 ## Small Entrepreneur in Republika Srpska (Bosnia) 🇧🇦
 
 - small entreprenuer = "мали предузетник" (SR) or "mali preduzetnik" (BS)

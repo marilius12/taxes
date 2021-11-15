@@ -39,6 +39,7 @@
 
 > Hint: country code is usually the same as its domain extension (TLD).
 
+- AL: Albania - ALL (lek)
 - BG: Bulgaria - BGN (lev)
 - CY: Cyprus - EUR
 - GE: Georgia - GEL (lari)
