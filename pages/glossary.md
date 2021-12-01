@@ -51,7 +51,6 @@
 - PL: Poland - PLN (zloty)
 - PT: Portugal - EUR
 - RO: Romania - RON (leu)
-- RS: Republika Srpska - BAM/KM (convertible mark)
 - SI: Slovenia - EUR
 
 ### Tax agencies

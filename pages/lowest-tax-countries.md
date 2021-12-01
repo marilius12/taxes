@@ -106,6 +106,19 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - [Corporate Income Tax Act (CITA) (BG)](https://www.lex.bg/laws/ldoc/2135540562)
 - [2021 Tax Rates and Social Security Contributions in Bulgaria](https://www.kgmp-legal.com/en/2021-tax-rates-and-social-security-contributions-in-bulgaria/)
 
+## Corporation in Albania 🇦🇱
+
+- **exempt** from CIT (15%) with **turnover** up to **ALL 14M** (~ USD 131k)
+- also: **8% divs** (individual), min salary **ALL 30k/mo** (2021)
+  - **socials**: 16.7% ER + 11.2% EE
+- VAT registration threshold (on taxable supplies) at ALL 10M
+
+### Resources
+
+- [DPT > Entrepreneurs > Acting like a Business > Income Tax](https://www.tatime.gov.al/c/4/96/107/tatimi-mbi-te-ardhurat)
+- [Albania - Taxes on corporate income](https://taxsummaries.pwc.com/albania/corporate/taxes-on-corporate-income)
+- [International Tax - Albania Highlights 2021](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-albaniahighlights-2021.pdf)
+
 ## Non-domicile status in Cyprus 🇨🇾
 
 - **60 day rule** for tax residency
@@ -130,29 +143,3 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - [Cyprus - Individual Residence](https://taxsummaries.pwc.com/cyprus/individual/residence)
 - [The Cyprus Non-Domicile concept for tax purposes](https://totalserve.eu/Assets/Images/uploadedContent/CMS/documentsImages/informationsheetno1291483607458.pdf)
 - [Cyprus Tax Residency and Non-Dom Rules](https://home.kpmg/content/dam/kpmg/cy/pdf/2020/Cyprus_Tax_Residency_and_Non-Dom_Rules_February2020.pdf)
-
-## Corporation in Albania 🇦🇱
-
-- **exempt** from CIT (15%) with **turnover** up to **ALL 14M** (~ USD 131k)
-- also: **8% divs** (individual), min salary **ALL 30k/mo** (2021)
-  - **socials**: 16.7% ER + 11.2% EE
-- VAT registration threshold (on taxable supplies) at ALL 10M
-
-### Resources
-
-- [DPT > Entrepreneurs > Acting like a Business > Income Tax](https://www.tatime.gov.al/c/4/96/107/tatimi-mbi-te-ardhurat)
-- [Albania - Taxes on corporate income](https://taxsummaries.pwc.com/albania/corporate/taxes-on-corporate-income)
-- [International Tax - Albania Highlights 2021](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-albaniahighlights-2021.pdf)
-
-## Small Entrepreneur in Republika Srpska (Bosnia) 🇧🇦
-
-- small entreprenuer = "мали предузетник" (SR) or "mali preduzetnik" (BS)
-- earn up to **BAM 50k** (~ USD 30k) in **turnover**, can have up to 3 employees
-- pay **2%** tax on turnover, at least BAM 600 anually
-- not required to register for VAT (only when turnover exceeds BAM 50k)
-
-### Resources
-
-- [Law on Income Tax (Zakon o porezu na dohodak Republike Srpske)](https://advokat-prnjavorac.com/zakoni/Zakon-o-porezu-na-dohodak-Republike-Srpske.pdf) Article 21
-- [Income tax regulations in RS](https://poreskaupravars.org/fizicka-lica/propisi-o-porezu-na-dohodak/?lang=cir)
-- [From freelancer to self-employed](https://www.smartoffice.ba/blog/85-od-freelancera-do-samostalnog-preduzetnika)
