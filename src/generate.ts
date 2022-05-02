@@ -1,19 +1,22 @@
 import fs from "fs";
 import path from "path";
-import unified from "unified";
+import { unified } from "unified";
 import markdown from "remark-parse";
 import toc from "remark-toc";
 import gfm from "remark-gfm";
 import remark2rehype from "remark-rehype";
+// @ts-expect-error
 import { template, html as h, doctype } from "rehype-template";
-import { Node, Literal } from "unist";
+import { Node as DefaultNode, Literal } from "unist";
+// @ts-expect-error
 import urls from "rehype-urls";
 import { UrlWithStringQuery } from "url";
 import slug from "rehype-slug";
+// @ts-expect-error
 import wrap from "rehype-wrap-all";
 import minify from "rehype-preset-minify";
 import html from "rehype-stringify";
-import vfile from "to-vfile";
+import { read, write } from "to-vfile";
 import report from "vfile-reporter";
 import CleanCSS from "clean-css";
 
@@ -76,11 +79,10 @@ const processor = unified()
   .use(minify)
   .use(html);
 
-// TODO waiting on unifiedjs/unified#121 to land. Currently, stuck on vfile v4.
 async function convertMdToHtml(filename: string) {
   if (path.extname(filename) !== ".md") return; // LICENSE
 
-  const vFile = await vfile.read(`${IN_DIR}/${filename}`);
+  const vFile = await read(`${IN_DIR}/${filename}`);
 
   const newVFile = await processor.process(vFile);
   console.error(report(newVFile));
@@ -88,12 +90,18 @@ async function convertMdToHtml(filename: string) {
   newVFile.extname = ".html";
   newVFile.dirname = OUT_DIR;
 
-  await vfile.write(newVFile);
+  await write(newVFile);
+}
+
+interface Node extends DefaultNode {
+  tagName: string;
+  children: Literal[];
+  properties: Record<string, any>;
 }
 
 function extractTitle(nodes: Node[]) {
   const h1 = nodes.find(({ tagName }) => tagName === "h1") as Node;
-  const h1Text = (h1.children as Literal[])[0].value as string;
+  const h1Text = h1.children[0].value as string;
   return h1Text.replace(
     /International taxes for freelancers and digital nomads/,
     "Homepage"
