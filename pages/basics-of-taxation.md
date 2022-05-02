@@ -168,11 +168,9 @@ An individual is taxed based on where they are a tax resident. The following fac
   - sojourning means staying temporarily (i.e. temporary residence) even for a short time
 - nationality/**citizenship** (ex: US)
 
-For most people leaving western countries, the best course of action is to make a **clean break** i.e. sever all ties with your home country (sell your home, car, close bank accounts, etc.), and permanently move yourself, your family, and your business to the new country. Alternatively, you could sever all **significant ties** (like your primary residence) but keep some **secondary ties** (like your driver's license or private pension fund).
+For most people leaving western countries, the best course of action is to make a **clean break** i.e. sever all ties with your home country (sell your home, car, close bank accounts, etc.), and permanently move yourself, your family, and your business to the new country. Alternatively, you could sever all **significant ties** (like your primary residence) but keep some **secondary ties** (like your driver's license or private pension fund). If you qualify for treaty relief under a DTT, you could have mixed ties in both countries, but only pay taxes in one based on the **tie-breaker rules**.
 
-In some countries, to become a **tax non-resident**, you must establish tax residency elsewhere. If you don't, they may still consider you a tax resident there (ex: deemed resident in Canada). You may also want to acquire a tax ID number or a tax certificate in the country you are moving to.
-
-As a non-resident of your home country, if you receive local sourced income, you have to pay a **non-resident withholding tax** and file a tax return. However, if a DTT is in place, that income is usually tax exempt, because the other country already taxes your worldwide income. Some notable exemptions are the US (see foreign earned income exclusion).
+As a non-resident of your home country, if you receive local sourced income, you have to pay a **non-resident withholding tax** and file a tax return.
 
 ## Corporate residency
 

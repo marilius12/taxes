@@ -12,9 +12,9 @@ In almost any country, your company is a tax resident if it has its **mind, mana
 
 Territorial-tax countries like Panama and Georgia still tax your **local-sourced income**. It doesn't matter where the clients are. If you live and work in a country, then your income is sourced locally and is thus subject to the local income tax. For individuals, the territorial tax exemption mostly applies to passive income from abroad - it does not apply to active earned income. Failure to disclose this income would constitute tax fraud.
 
-> Once I am a tax resident in a tax haven country, I can live and work abroad tax-free.
+> Once I become a tax resident in a tax haven country, I can live and work abroad tax-free.
 
-Some countries like Cyprus offer tax residency if you spend a few weeks or months there. Unfortunately, being a tax resident in one of these countries, and even having a tax ID or tax certificate, does not prevent you from also becoming a tax resident in another country where you spend the rest of the year. Unless there is a double-tax treaty between the two countries, you will be liable for taxes in both.
+Some countries like Cyprus offer tax residency if you spend a few weeks or months there. Unfortunately, being a tax resident in one of these countries, even having a tax ID or tax certificate, does not prevent you from _also_ becoming a tax resident in another country where you spend the rest of the year. Unless there is a double-tax treaty between the two countries, you will be liable for taxes in both.
 
 > If I stay less than 183 days in a country, I don't have to pay any tax.
 
@@ -22,11 +22,13 @@ The 183-day rule is one of many in determining one's tax residency status. Most 
 
 > If I'm not a tax resident in a country, I can live and work there without paying any tax.
 
-Most countries levy **non-resident withholding tax** on income that is sourced locally. As such, you do **not** have to be a tax resident in a foreign country to owe taxes there. For instance, if you work remotely in a foreign country as a non-resident, your work will be local sourced and thus subject to the non-resident WTH tax. Often though, the DTT with your home country will overwrite the local tax code, and you will only pay taxes to one of the two countries, the one in which you have your permanent home or other ties. However, if there isn't a DTT between them, you may owe taxes to both.
+Most countries levy **non-resident withholding tax** on income that is sourced locally. As such, you do **not** have to be a tax resident in a foreign country to owe taxes there. For instance, if you work remotely in a foreign country as a non-resident, your work is local sourced and thus subject to the non-resident WTH tax. Often though, the DTT with your home country will overwrite the local tax code, and you will only pay taxes to one of the two countries - the one in which you have your permanent home or other ties. However, if there isn't a DTT between them, you may owe taxes to both.
 
 > If I live 4 months in 3 different countries, I don't have to pay taxes anywhere.
 
-In theory, it's possible to not be a tax resident of any country. In practice, you are most certainly a tax resident somewhere depending on the laws of the countries you visit and the country you are domiciled in. Typically, your tax residency is in the country you spend the most time in and/or have the most ties with (family, property, bank accounts, etc.). Otherwise, you might default to being a tax resident of your country of citizenship. Being a tax resident of no country also complicates banking and investing, as you're still liable for WTH tax.
+While it is possible to not be a tax resident of any country (by becoming a non-resident in your home country and not triggering tax residency anywhere else), as mentioned above, you may still be liable for withholding taxes on local-sourced income in the countries you visit.
+
+Note that in practice, you are most likely a tax resident somewhere depending on the laws of the countries you visit and/or are docimiled in. Typically, your tax residency is in the country you have your permanent home, center of vital interests, habitual abode (home you return to), or citizenship. The specific rules vary by country and may also be overwritten by DTTs.
 
 > If I live in a territorial-tax country, I can earn passive income from abroad tax-free.
 
