@@ -10,7 +10,7 @@ To qualify, you need to:
 - engage in one of the listed activities (other than liberal professions in art. 67 para. (2))
 - earn less than **EUR 100k** in **gross income** per year
 
-Here's the current list (in Romanian) - [Normele anuale de venit (2021)](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Normevenit2021/Norme_venit_2021.html). For example, in Bucharest, for "information technology consultancy activities", CAEN code 6202, the norm is **RON 35,000** (USD ~8.5k):
+Here's the current list (in Romanian) - [Normele anuale de venit (2022)](https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Normevenit2022/Norme_venit_2022.html). For example, in Bucharest, for "information technology consultancy activities", CAEN code 6202, the norm is **RON 35,000** (USD ~8.5k):
 
 > 120. Servicii executate in domeniul informaticii, altele decit cele care genereaza drepturi de autor sau drepturi conexe dreptului de autor - 6202: activitati de consultanta in tehnologia informatiei (35000) - 6203: activitati de management (gestiune si exploatare) a mijloacelor de calcul (35000)
 

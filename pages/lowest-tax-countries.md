@@ -33,7 +33,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - pay tax on a fixed quota regardless of your actual income
 - pay **10% PIT + socials** (**capped**)
 - socials: 25% social (CAS) + 10% health (CASS)
-  - base: 12 \* min wage RON 2,300 (2021) = RON 27,600
+  - base: 12 \* min wage RON 2,550 (2022) = RON 30,600
 - requires residency in RO, headquarters (ex: rental agreement), experience or degree
 - if income exceeds RON 300k/year, need to register for VAT
 - see [example calculation](./example-calculations.md#sole-proprietor-in-romania-)
@@ -47,13 +47,13 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 ## Micro-enterprise in Romania 🇷🇴
 
-- incorporated (**LLC**) with **turnover** less than **EUR 1M** in fiscal year
+- incorporated (**LLC**) with **turnover** less than **EUR 500k** (2022) in fiscal year
   - LLC = SRL (Societate cu răspundere limitată)
   - if EUR 1M exceeded, you pay 16% CIT **on the excess**
   - once RON 300k/y is exceeded, must register for VAT
 - **3%** tax on **turnover** with **no employees**
   - **1%** with **1 or more** full-time (40h/week) employee(s)
-  - can hire yourself and pay min salary of RON 2300/mo (2021)
+  - can hire yourself and pay min salary of RON 2,550/mo (2022)
 - also: **10% PIT + socials**, **5% divs**
 - socials on gross salary are **uncapped**
   - employee: 25% social insurance (CAS), 10% health insurance (CASS)
@@ -74,7 +74,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - self-insured person within Social Security Code
 - pay **10% PIT + socials** (**capped**)
   - pension fund 19.8% + health insurance 8%
-  - base: min BGN 7,800 (BGN 650 min wage in 2021 \* 12), max BGN 36,000 (BGN 3,000 \* 12)
+  - base: min BGN 8,520 (BGN 710 min wage in 2022 \* 12), max BGN 40,800 (BGN 3,400 \* 12)
 - **25% deduction** on gross income (operating expenses) (Art. 29 3.)
 - must register for VAT if income exceeds BGN 50k in fiscal year
 - see [example calculation](./example-calculations.md#freelancer-in-bulgaria-)
@@ -96,8 +96,8 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - pension fund: 14.12-14.82% employer, 10.58% employee
   - health ins: 4.8% employer, 3.2% employee
   - **capped**
-    - min base: BGN 650/mo (BGN 7,800/y) - same as min wage (2021)
-    - max base: BGN 3,000/mo (BGN 36,000/y)
+    - min base: BGN 710/mo (BGN 8,520/y) (same as min wage, 2022)
+    - max base: BGN 3,400/mo (BGN 40,800/y)
 - must register for VAT if income exceeds BGN 50k/y
 - see [example calculation](./example-calculations.md#corporation-in-bulgaria-)
 
@@ -109,7 +109,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 ## Corporation in Albania 🇦🇱
 
 - **exempt** from CIT (15%) with **turnover** up to **ALL 14M** (~ USD 131k)
-- also: **8% divs** (individual), min salary **ALL 30k/mo** (2021)
+- also: **8% divs** (individual), min salary **ALL 32k/mo** (2022)
   - **socials**: 16.7% ER + 11.2% EE
 - VAT registration threshold (on taxable supplies) at ALL 10M
 
