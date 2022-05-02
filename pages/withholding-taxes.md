@@ -6,13 +6,21 @@ Unfortunately, the WTH tax is **[non-refundable](https://ibkr.info/node/946)**. 
 
 The WTH tax is deducted from foreign-source payments such as dividends, interest, and royalties. Rental income (along with REITs) is often subject to the standard WTH tax that can't be reduced by a tax treaty (ex: 30% in US). Capital gains and directors fees may also be subject to WTH tax.
 
-The rate of withholding also depends on the type of investment account (margin, registered, etc.) (see [taxes on investments](./taxes-on-investments.md)). Unfortunately, there may be multiple levels of WTH taxes (ex: divs from a US-listed ETF that holds international stocks). Level 1 WTH tax is levied by the foreign country where the corporation is domiciled and is often non-recoverable, while Level 2 WTH tax is levied by the country where the security is listed. For a US/Canada perspective, see [this white paper](https://www.pwlcapital.com/wp-content/uploads/2018/06/2016-06-17_-Bender-Bortolotti_Foreign_Withholding_Taxes_Hyperlinked.pdf).
+The rate of withholding also depends on the type of investment account (margin, registered, etc.) (see [taxes on investments](./taxes-on-investments.md)). Unfortunately, there may be multiple levels of WTH taxes (ex: divs from a US-listed ETF that holds international stocks). Level 1 WTH tax is levied by the foreign country where the corporation is domiciled and is often non-recoverable, while Level 2 WTH tax is levied by the country where the security is listed ([read more](https://indexfundinvestor.eu/2019/03/06/how-do-i-calculate-the-taxes-for-my-etf/)). For a US/Canada perspective, see [this white paper](https://www.pwlcapital.com/wp-content/uploads/2018/06/2016-06-17_-Bender-Bortolotti_Foreign_Withholding_Taxes_Hyperlinked.pdf).
 
 ## Workarounds for WTH taxes
 
-1\. Invest in contries with a **zero** or **low** non-resident WTH tax
+1\. Invest in funds domiciled in countries that don't levy WTH tax
 
-- some countries don't levy a WTH tax on dividends, ex: UK (LON), HK (HKG)
+- some countries don't tax dividends to non-residents at Level 2, ex: Ireland (ISE), Luxembourg (XLUX)
+  - ex: dividends from a US-listed ETF are subject to 30% WTH tax unless covered by a tax treaty
+  - the same underlying stocks could instead be held in an Ireland-listed ETF
+    - divs would be taxed at 15% (under US-Ireland treaty, Level 1) and 0% (Ireland fund, Level 2)
+- NOTE unliked US-listed ETFs, foreign-listed ETFs are not subject to **US estate tax** at 18-40%
+
+2\. Invest in contries with a **zero** or **low** non-resident WTH tax
+
+- some countries don't levy a WTH tax on dividends, ex: UK (LON), Hong Kong (HKG),
 - other countries have a low WTH tax, ex: 10% in China (SHG)
 - NOTE foreign divs from interlisted stocks are still subject to WTH tax
   - ex: US company is listed on both NYSE (USD) and TSX (CAD)
@@ -21,20 +29,20 @@ The rate of withholding also depends on the type of investment account (margin, 
   - which stock exchange the shares are traded on and in which currency is irrelevant
 - NOTE companies in EM countries (ex: Russia) have low P/Es and high div yield
 
-2\. Move to a country with a **lower** WTH rate based on a **tax treaty**
+3\. Move to a country with a **lower** WTH rate based on a **tax treaty**
 
 - some countries that signed DTTs have a lower WTH tax
 - ex: US WTH tax is generally 30%, but is 10% for tax residents of Bulgaria, Romania, etc.
 - ex: Japan has a 20% WTH tax that can be reduced to 10-15%
 
-3\. Invest in **domestic companies**
+4\. Invest in **domestic companies**
 
 - divs from local companies are often subject to lower tax rates and/or tax credits
   - ex: qualified divs in US, eligible divs in Canada, etc.
 - in lower tax brackets, you may be exempt from tax and/or have a negative tax to offset other income
   - NOTE div income above a certain threshold may affect your pension (ex: OAS clawback in Canada)
 
-4\. Earn **capital gains**
+5\. Earn **capital gains**
 
 - WTH tax is usually _not_ applied to capital gains
 - instead of dividends or interest, earn from capital appreciation
