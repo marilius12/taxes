@@ -8,15 +8,15 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 - special tax regime for sole proprietors
   - must be **self-employed** (**contractor**, not employee)
-- earn less than **GEL 500k** (~ USD 160k) in **turnover**/year
+- earn less than **GEL 500k** (~ USD 170k) in **turnover**/year
 - cannot engage in **[prohibited activities](https://matsne.gov.ge/ka/document/view/1164635?publication=0)** (forex, gambling, consulting, etc.)
 - **1%** tax on **turnover**, can hire employees and contractors
   - 3% if you exceed GEL 500k in a tax year
   - if you exceed GEL 500k in 2 consecutive years, this status is revoked
 - if your VATable transactions exceed GEL 100k/year, must register for **VAT**
-  - B2B activities with foreign companies are exempt from VAT
+  - B2B activities with foreign companies are **exempt** from VAT
   - you can claim VAT back on business purchases if VAT-registered
-- NOTE: GE doesn't have CRS (until 2023), and banks have been risk-averse since 2019-2020 which can affect your business
+- NOTE: GE doesn't have CRS (until 2023), and banks have been more risk-averse since 2019-2020
 
 ### Resources
 
@@ -28,7 +28,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 - also known as **sole trader** or PFA (Persoană Fizică Autorizată)
 - can opt for an annual **income norm** (norma de venit, Art. 69, [see more](./income-norms-in-romania.md))
-  - must earn less than **EUR 100k** in **turnover**
+  - must earn less than **EUR 100k** (2023: EUR 25k) in **turnover**
   - **self-employed** in one of the listed activities
   - pay tax on a fixed quota regardless of your actual income
 - pay **10% PIT + socials** (**capped**)
@@ -47,14 +47,16 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 ## Micro-enterprise in Romania 🇷🇴
 
-- incorporated (**LLC**) with **turnover** less than **EUR 500k** (2022) in fiscal year
+- incorporated (**LLC**) with **turnover** less than **EUR 500k** in fiscal year
   - LLC = SRL (Societate cu răspundere limitată)
-  - if EUR 1M exceeded, you pay 16% CIT **on the excess**
   - once RON 300k/y is exceeded, must register for VAT
-- **3%** tax on **turnover** with **no employees**
-  - **1%** with **1 or more** full-time (40h/week) employee(s)
-  - can hire yourself and pay min salary of RON 2,550/mo (2022)
-- also: **10% PIT + socials**, **5% divs**
+  - revenues from consulting and management must not exceed 20%
+  - can register up to 3 micro-enterprises
+- **1%** tax on **turnover**
+  - requires **1 or more** full-time (40h/week) employee(s)
+  - can hire yourself (as a director) and pay min salary of RON 2,550/mo (2022)
+  - otherwise, switch to 16% CIT
+- also: **8% divs**, **10% PIT + socials**
 - socials on gross salary are **uncapped**
   - employee: 25% social insurance (CAS), 10% health insurance (CASS)
   - employer: 2.25% labor insurance (CAM)
