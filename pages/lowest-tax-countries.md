@@ -100,6 +100,19 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - [Albania - Taxes on corporate income](https://taxsummaries.pwc.com/albania/corporate/taxes-on-corporate-income)
 - [International Tax - Albania Highlights 2021](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-albaniahighlights-2021.pdf)
 
+## Corporation in Montenegro 🇲🇪
+
+- **exempt** from CIT (9%) for the first **8 years** up to **EUR 200k** in profit
+  - must be based in an economically underdeveloped municipality (Northern region)
+  - does not apply to: agriculture, transport, shipyards, fisheries, steel, trade, and hospitality
+  - must submit a request to the tax authority, which decides whether to grant the tax exemption
+- also: **9% divs** (individual), min salary **EUR 532.50/mo** (2022) + socials
+
+### Resources
+
+- [Law on Personal Income Tax (ME)](https://www.paragraf.me/propisi-crnegore/zakon-o-porezu-na-dohodak-fizickih-lica.html) III TYPES OF INCOME, Article 32
+- [Montenegro Zero Tax Company? 8 years tax free - Is it for you?](https://youtu.be/5wAt7V23G5Q)
+
 ## Non-domicile status in Cyprus 🇨🇾
 
 - **60 day rule** for tax residency
