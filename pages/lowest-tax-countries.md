@@ -24,27 +24,6 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - [1% tax: Freelancers/Individuals & Small Businesses](https://expathub.ge/tax-freelancers-individuals-small-businesses-georgia/)
 - [Tax Heaven Pay Just 1% of Tax for Your Business](https://devskey.com/tax-heaven-pay-just-1-of-tax-for-your-business-register-individual-entrepreneurship-business-in-georgia/)
 
-## Sole proprietor in Romania 🇷🇴
-
-- also known as **sole trader** or PFA (Persoană Fizică Autorizată)
-- can opt for an annual **income norm** (norma de venit, Art. 69, [see more](./income-norms-in-romania.md))
-  - must earn less than **EUR 100k** (2023: EUR 25k) in **turnover**
-  - **self-employed** in one of the listed activities
-  - pay tax on a fixed quota regardless of your actual income
-- pay **10% PIT + socials** (**capped**)
-- socials: 25% social (CAS) + 10% health (CASS)
-  - base: 12 \* min wage RON 2,550 (2022) = RON 30,600
-- requires residency in RO, headquarters (ex: rental agreement), experience or degree
-- if income exceeds RON 300k/year, need to register for VAT
-- see [example calculation](./example-calculations.md#sole-proprietor-in-romania-)
-
-### Resources
-
-- [Fiscal Code of Romania (RO)](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_11022020.htm), TITLE IV - Income tax, CHAPTER II - Income from self-employment
-- [How to Set up a Sole Proprietor (PFA) in Romania](https://www.letsdeel.com/blog/sole-proprietor-pfa-in-romania)
-- [How to register a tax regime of Authorized Natural Persons](https://www.romania-insider.com/register-authorized-physical-person-pfa-2018)
-- [Taxation of income from independent activities imposed on the basis of income norms (RO)](https://www.ceccarbusinessmagazine.ro/impozitarea-veniturilor-din-activitati-independente-impuse-pe-baza-de-norme-de-venit-a4881/)
-
 ## Micro-enterprise in Romania 🇷🇴
 
 - incorporated (**LLC**) with **turnover** less than **EUR 500k** in fiscal year

@@ -4,21 +4,6 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 
 ## Table of contents
 
-## Sole proprietor in Romania 🇷🇴
-
-- IT consultant in Bucharest, gross income EUR 80k/y, income norm system
-
-|                  | Amount                                      |
-| ---------------- | ------------------------------------------- |
-| Turnover         | RON 396,000 = EUR 80,000 \* 4.95            |
-| Income norm      | RON 35,000                                  |
-| Base for socials | RON 30,600/y = RON 2,550/mo \* 12           |
-| Social sec (25%) | RON 7,650 = RON 30,600 \* 25%               |
-| Health ins (10%) | RON 3,060 = RON 30,600 \* 10%               |
-| Income tax (10%) | RON 2,429 = (35,000 - 7,650 - 3,060) \* 10% |
-| Total tax        | RON 13,139 = 7,650 + 3,060 + 2,429          |
-| Effective tax    | **3.32%** = 13,139 / 396,000                |
-
 ## Micro-enterprise in Romania 🇷🇴
 
 - gross income EUR 80k/y, 1 employee (yourself), min salary, the rest in dividends, EUR/RON 4.95
