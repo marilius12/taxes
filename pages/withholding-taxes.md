@@ -20,7 +20,7 @@ The rate of withholding also depends on the type of investment account (margin, 
 
 2\. Invest in contries with a **zero** or **low** non-resident WTH tax
 
-- some countries don't levy a WTH tax on dividends, ex: UK (LON), Hong Kong (HKG),
+- some countries don't levy a WTH tax on dividends, ex: UK (LON), Ireland (ISE), Hong Kong (HKG), Singapore (SGX)
 - other countries have a low WTH tax, ex: 10% in China (SHG)
 - NOTE foreign divs from interlisted stocks are still subject to WTH tax
   - ex: US company is listed on both NYSE (USD) and TSX (CAD)
