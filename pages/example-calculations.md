@@ -61,12 +61,13 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 ## Freelancer in Bulgaria 🇧🇬
 
 - gross income 80k EUR, based on [this video](https://youtu.be/NV3heKehLCw)
+- see [this article](https://dmitryfrank.com/articles/bulgaria_freelance_taxes) for a comprehensive breakdown
 
 |                        | Amount                                        |
 | ---------------------- | --------------------------------------------- |
 | Gross income           | BGN 150,000                                   |
 | Social contrib 19.8%\* | BGN 8,078.4 = 19.8% \* 3,400 \* 12            |
-| Health contrib 8%      | BGN 3,264 = 8% \* 3,400 \* 12                 |
+| Health contrib 8%\*\*  | BGN 3,264 = 8% \* 3,400 \* 12                 |
 | Total socials          | BGN 11,342.40 = 8,078.4 + 3,264               |
 | Recognized costs 25%   | BGN 37,500 = 25% \* 150,000                   |
 | Taxable income         | BGN 101,157.60 = 150,000 - 11,342.40 - 37,500 |
@@ -76,10 +77,12 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 | Effective tax          | **14.30%** = 21,458.16 / 150,000              |
 
 \* The max monthly insurance base is BGN 3,400 (2022).
+\*\* The health insurance is only payable by EU citizens or permanent residents.
 
 ## Corporation in Bulgaria 🇧🇬
 
 - gross income 80k EUR, based on [this video](https://youtu.be/NV3heKehLCw)
+- see [this article](https://dmitryfrank.com/articles/bulgaria_freelance_taxes) for a comprehensive breakdown
 
 ### Corporate
 
