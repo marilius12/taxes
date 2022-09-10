@@ -21,6 +21,7 @@
 - FY: Fiscal Year
 - HNWI: High-net-worth Individual
 - IP: Intellectual Property
+- NMW: National Minimum Wage
 - PIT: Personal Income Tax
 - POEM: Place of Effective Management
 - PR: Permanent Residency

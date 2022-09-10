@@ -31,10 +31,10 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - once RON 300k/y is exceeded, must register for VAT
   - revenues from consulting and management must not exceed 20%
   - can register up to 3 micro-enterprises
-- **1%** tax on **turnover**
+- **1%** tax on **turnover** in quarterly installments
   - requires **1 or more** full-time (40h/week) employee(s)
   - can hire yourself (as a director) and pay min salary of RON 2,550/mo (2022)
-  - otherwise, switch to 16% CIT
+  - otherwise, must switch to 16% CIT
 - also: **8% divs**, **10% PIT + socials**
 - socials on gross salary are **uncapped**
   - employee: 25% social insurance (CAS), 10% health insurance (CASS)
@@ -89,7 +89,9 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 ## Corporation in Albania 🇦🇱
 
-- **exempt** from CIT (15%) with **turnover** up to **ALL 14M** (~ USD 131k)
+- **exempt** from CIT with net income up to **ALL 14M** (~ USD 131k)
+  - taxable income over ALL 14M is taxed at CIT 15%
+  - CIT is reduced to **5%** for automotive, software production/development, agricultural coop, and agrotourism entities (for 10 years)
 - also: **8% divs** (individual), min salary **ALL 32k/mo** (2022)
   - **socials**: 16.7% ER + 11.2% EE
 - VAT registration threshold (on taxable supplies) at ALL 10M
@@ -98,7 +100,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 - [DPT > Entrepreneurs > Acting like a Business > Income Tax](https://www.tatime.gov.al/c/4/96/107/tatimi-mbi-te-ardhurat)
 - [Albania - Taxes on corporate income](https://taxsummaries.pwc.com/albania/corporate/taxes-on-corporate-income)
-- [International Tax - Albania Highlights 2021](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-albaniahighlights-2021.pdf)
+- [International Tax - Albania Highlights 2022](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-albaniahighlights-2022.pdf)
 
 ## Corporation in Montenegro 🇲🇪
 
