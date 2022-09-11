@@ -25,6 +25,23 @@ This works best for people with moderate income, high tax burden, and high CoL. 
 - [Tax Breaks for Workers Moving to Italy](https://www.clearygottlieb.com/news-and-insights/publication-listing/tax-breaks-for-workers-moving-to-italy-new-official-guidelines-released)
 - [How to pay only 3% of taxes on average in Italy](https://youtu.be/XxqULB8QSJs)
 
+## Simplified regime in Portugal 🇵🇹
+
+- tax deduction between **5% to 90%** of gross income up to **EUR 200k**
+  - assumed as expenses and based on the category of income
+  - ex: 65% deduction if the activity is classified as "Other income from services"
+  - ex: 25% for software devs under "Liberal Profession"
+- further **50% discount** in 1st tax year, **25%** discount in 2nd year
+- progressive PIT **14.5-48%** + socials **21.4%** (self-employed)
+- optimal for high-margin/low-expenses self-employed persons
+
+### Resources
+
+- [Simplified regime of Category B](https://www.pwc.pt/en/pwcinforfisco/tax-guide/2019/pit.html#simplified)
+- [Category B - Business and Professional Income (PT)](http://www.oa.pt/upl/%7Bdd511b3d-4c0a-4f89-bbeb-dfce2f989c4c%7D.pdf)
+  - You can translate the PDF using a website like [onlinedoctranslator.com](https://www.onlinedoctranslator.com/en/)
+- [Best Way to Save on Taxes for Digital Nomads in Portugal](https://youtu.be/ovkDTz5tVE4)
+
 ## Portugal Non-Habitual Residency (NHR) program 🇵🇹
 
 - to qualify: have not been a tax resident of PT for 5 years
