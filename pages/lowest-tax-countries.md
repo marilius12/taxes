@@ -109,7 +109,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - must be based in an economically underdeveloped municipality (Northern region)
   - does not apply to: agriculture, transport, shipyards, fisheries, steel, trade, and hospitality
   - must submit a request to the tax authority, which decides whether to grant the tax exemption
-- also: **9% divs** (individual), min salary **EUR 532.50/mo** (2022) + socials
+- also: **15% divs** (individual), min salary **EUR 532.50/mo** (2022) + socials
 
 ### Resources
 
