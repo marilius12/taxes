@@ -158,7 +158,7 @@ An individual is taxed based on where they are a tax resident. The following fac
 - **183 day rule**
   - automatically a tax resident if you spend more than 183 days in any 12-month period (barring a DTT or visa terms)
 - **permanent home**
-  - tax resident if you have have your primary residence (dwelling) in the country, even if you spend less than 183 days there
+  - tax resident if you have your primary residence (dwelling) in the country, even if you spend less than 183 days there
 - **center of vital interests**
   - may include personal, economic, familial, social, business, etc. ties
   - ex: spouse/common-law partner, dependends, property, job/business, bank accounts, documents/IDs, memberships, etc.
