@@ -34,6 +34,7 @@
 - TIN: Tax Identification Number
 - TR: Tax Residency
 - TRC: Tax Registration Certificate
+- WHT: Withholding tax
 - WTH: Withholding (i.e. WTH tax)
 
 ### Countries and currencies

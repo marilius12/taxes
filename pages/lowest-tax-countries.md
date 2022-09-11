@@ -93,7 +93,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - **exempt** from CIT with net income up to **ALL 14M** (~ USD 131k)
   - taxable income over ALL 14M is taxed at CIT 15%
   - CIT is reduced to **5%** for automotive, software production/development, agricultural coop, and agrotourism entities (for 10 years)
-- also: **8% divs** (individual), min salary **ALL 32k/mo** (2022)
+- also: **8% divs** (individual), **0-23% PIT**, min salary **ALL 32k/mo** (2022)
   - **socials**: 16.7% ER + 11.2% EE
 - VAT registration threshold (on taxable supplies) at ALL 10M
 
