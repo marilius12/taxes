@@ -10,8 +10,8 @@ This works best for people with moderate income, high tax burden, and high CoL. 
 - has not been a tax resident of IT in the past 2 years
 - must remain a tax resident of IT for 2 years and work mostly in IT (183+ days/tax year)
 - **70%** exemption on PIT (IRPEF) from employment/self-employment
-  - **90%** if you move to a **southern region**
-    - Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sardinia, Sicillia
+- **90%** if you move to a **southern region**
+  - Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sardinia, Sicillia
 - still have to pay **regional** (1.23-3.33%) + **municipal** (0-0.8%) tax
 - also **socials** (INPS)
   - employee: **10%** (your IT employer pays 30%)
@@ -77,7 +77,7 @@ This works best for people with moderate income, high tax burden, and high CoL. 
 - **50%** of income is exempt from income tax and solidarity contrib
   - applies to employment and business income earned in GR
   - PIT 9-44%, solidarity contrib 0-10% (some income), socials
-- status granted for 7 years
+- status granted for **7 years**
 
 ### Resources
 

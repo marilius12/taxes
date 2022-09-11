@@ -54,7 +54,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - **not** registered as sole trader (ET, Едноличен Търговец)
   - self-insured person within Social Security Code
 - pay **10% PIT + socials** (**capped**)
-  - pension fund 19.8% + health insurance 8% (EU citizens or permanent residents only)
+  - pension fund 19.8% + health insurance 8% (здравни осигуровки, EU citizens or permanent residents only)
   - base: min BGN 8,520 (BGN 710 min wage in 2022 \* 12), max BGN 40,800 (BGN 3,400 \* 12)
 - **25% deduction** on gross income (operating expenses) (Art. 29 3.)
   - not required to provide any receipts

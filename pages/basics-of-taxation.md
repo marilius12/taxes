@@ -40,7 +40,7 @@
   - ex: US, Canada, Australia, UK, France, Germany, Sweden, etc.
 - **Lump-sum tax**
   - fixed sum (ex: EUR 100k) is paid annually on certain/most income; works best for HNWI
-  - ex: Italy, Greece, Switzerland, etc.
+  - ex: Italy, Greece, Switzerland, Malta, etc.
 - **Tax holidays/exemptions**
   - special tax programs often for 3/5/10 years to attract workers, entrepreneurs, investors, etc.
   - ex: Uruguay, Peru, Portugal, etc.
