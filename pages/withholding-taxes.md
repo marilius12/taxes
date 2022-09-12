@@ -2,7 +2,7 @@
 
 When a company makes a payment to an individual or an entity, it may be required to withold a percentage of the amount and remit it to the tax authority. For example, when an employer pays out a salary, it withholds income tax (as well as payroll deductions) from the employee's paycheck. A company may also withhold taxes when paying out dividends, interest, royalties, rent, and directors fees. Other payments may be exempt from withholding (ex: payments for services to resident companies) or be subject to a lower (or zero) rate (ex: payments to parent companies or major shareholders, i.e. **participation exemption**).
 
-WTH tax applies to **domestically sourced income**. For example, if a US company hires a remote contractor in Canada, it should not withhold any tax from payments because the work is not US-sourced (nor is the contractor a US person). In some countries (ex: US, Canada), payments to **residents** are also exempt from withholding, meaning that the tax must be paid individually upon filing a tax return. In others (ex: Bulgaria, Montegero), the tax is withheld at the source for both residents and non-residents, therefore the residents do not pay the tax at the individual level.
+WTH tax applies to **domestically sourced income**. For example, if a US company hires a remote contractor in Canada, it should not withhold any tax from payments because the work is not US-sourced (and the contractor is not a US person). In some countries (ex: US, Canada, UK), payments to **residents** are also exempt from withholding, meaning that they declare the income and pay taxes later, when filing a tax return. In others (ex: Bulgaria, Mexico), the tax is withheld at the source for both residents and non-residents, therefore the residents do not pay the tax again at the individual level.
 
 ## Non-resident WHT
 
@@ -70,6 +70,6 @@ Read more in [this article](https://indexfundinvestor.eu/2019/03/06/how-do-i-cal
 
 ## Resources
 
+- [PwC WHT rates by country](https://taxsummaries.pwc.com/quick-charts/withholding-tax-wht-rates)
+- [US WHT by tax treaty](https://taxsummaries.pwc.com/united-states/corporate/withholding-taxes) (select a country and navigate to Corporate, Withholding taxes)
 - [Deloitte Tax Guides](https://dits.deloitte.com/#TaxGuides) (click on a country and scroll down to Withholding tax table)
-- [PwC Tax Summaries](https://taxsummaries.pwc.com/) (select a country and navigate to Corporate, Withholding taxes)
-- [Major stock exchanges](https://en.wikipedia.org/wiki/List_of_stock_exchanges#Major_stock_exchanges)
