@@ -170,33 +170,37 @@ An individual is taxed based on where they are a tax resident. The following fac
 
 For most people leaving western countries, the best course of action is to make a **clean break** i.e. sever all ties with your home country (sell your home, car, close bank accounts, etc.), and permanently move yourself, your family, and your business to the new country. Alternatively, you could sever all **significant ties** (like your primary residence) but keep some **secondary ties** (like your driver's license or private pension fund). If you qualify for treaty relief under a DTT, you could have mixed ties in both countries, but only pay taxes in one based on the **tie-breaker rules**.
 
-As a non-resident of your home country, if you receive local sourced income, you have to pay a **non-resident withholding tax** and file a tax return.
+As a non-resident of your home country, if you receive local sourced income, a **non-resident withholding tax** is automaticaly deducted at the source (see [WTH taxes](./withholding-taxes)). For some types of income (ex: employment), you may also have to file a non-resident tax return (even though some tax was already withheld).
 
 ## Corporate residency
 
-A company is taxed based on where it is a tax resident. Tax authorities consider the place of:
+A company is taxed based on three factors:
+
+- corporate residency (i.e. where the company is tax resident)
+- shareholder residency (i.e. where the executives/board members are individual tax residents)
+- source of income (i.e. where the income is sourced)
+
+When establishing corporate residency, tax authorities consider the place of:
 
 - **registration** (i.e. incorporation), _and/or_
 - **management and control**
-  - place of effective management (POEM) i.e. strategic decisions are made in the country
-  - X% of executives/members on the board of directors are resident in the country
-  - economic substance (headquarters, operations, employees, etc.) is in the country
+  - day-to-day management, director rules, senior management rules, etc.
+  - Place of Effective Management (POEM) i.e. where strategic decisions are made
 
-In most cases, the company is taxed **where it is managed and controlled** regardless of where it's registered. Ex: if you form an offshore company in Belize but continue to live and work from Canada, your company is still a tax resident of Canada and is subject to Canadian taxes.
+In most cases, the company is tax resident **where it is managed and controlled** regardless of where it's registered. Some countries (ex: Bulgaria, Thailand) only consider the place of registration, but also apply CFC and/or domestic source income rules to counteract tax avoidance.
 
-Most countries apply both registration and management & control. Some only apply one or the other, but may still have CFC and/or hybrid mismatch rules to counteract tax avoidance.
-
-Several important concepts and/or rules apply in determining the tax residency of a company.
-
+- **Controlled Foreign Corporation (CFC)**
+  - company is registered offshore but controlled by a resident onshore
+    - "control" may include voting rights, shareholder value, operations/activities, etc. (see [OECD on CFC](https://qdd.oecd.org/subject.aspx?Subject=CFC))
+  - considered a tax resident onshore and thus subject to domestic taxes
+- **Source income**
+  - if the income is sourced locally, it is subject to local taxes
+  - determined by **economic substance** i.e. where headquarters, offices, employees, etc. are
+  - ex: if you form an offshore company in Belize but continue to live and work from Canada, your company is still a tax resident of Canada and is subject to Canadian taxes
 - **Permanent Establishment (PE)**
   - fixed place of business that includes an office, branch, factory, etc.
   - defaults to the principal place where the business is conducted
   - **nexus**: economic presence (i.e. business activity) in some jurisdiction
-- **Mind, management and control**
-  - place where directors or B of D make business decisions and are tax residents
-- **Controlled Foreign Corporation (CFC)**
-  - company registered offshore but managed onshore
-  - considered a tax resident onshore and thus subject to domestic taxes
 - **Hybrid mismatch**
   - differences in tax laws between countries that may be exploited for BEPS and tax avoidance
   - often target discrepancies in tax residency, registration vs. POEM, domicile, etc.
