@@ -221,6 +221,8 @@ If you satisfy one of these tests, you'd qualify for double taxation relief, as 
 
 If there is no DTT in place (often the case for blacklisted or tax haven countries), then you might be subject to double taxation. However, the other country would usually have no tax, very low tax, or territorial tax (where foreign-sourced income is exempt from taxes). In other cases, you may be exempt from tax based on the terms of your visa (ex: digital nomad visa).
 
+If you run your business in a foreign country (as a dependent agent), depending on the type of activities or presence of a fixed place of business, you may constitute **permanent establishment**. In that case, your business would be taxable on the portion of income that you generated (or is attributable to, based on how much time you spent there) in said country.
+
 ## Tax avoidance vs. tax evasion
 
 - **Tax optimization**
