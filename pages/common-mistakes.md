@@ -6,11 +6,11 @@ Most countries tax your **worldwide income** meaning that regardless of where yo
 
 > If I open a company in a tax haven country, I don't have to pay any corporate tax.
 
-In almost any country, your company is a tax resident if it has its **management and control** there. It usually doesn't matter where the business is registered, and those countries that only consider the place of registration (ex: Bulgaria, Thailand, Georgia, etc.) also apply **CFC** and/or **source income** rules. For example, if you a. manage your business, or b. are a tax resident of, or c. have source income in your home country, your company is also a tax resident in that country.
+In almost any country, your company is a tax resident if it has its **management and control** there. It usually doesn't matter where the business is registered, and those countries that only consider the place of registration (ex: Bulgaria, Thailand, etc.) also apply **CFC** and/or **source income** rules. For example, if you a. manage your business, or b. are a tax resident of, or c. have source income in your home country, your company is also a tax resident in that country.
 
 > If I live in a territorial-tax country and only work for foreign clients, I don't have to pay any income tax.
 
-Territorial-tax countries like Panama and Georgia still tax your **local-sourced income**. It doesn't matter where the clients are. If you live and work in a country, then your income is sourced locally and is thus subject to the local income tax. For individuals, the territorial tax exemption mostly applies to passive income from abroad - it does not apply to active earned income. Failure to disclose this income would constitute tax fraud.
+Territorial-tax countries (ex: Panama, Malaysia, etc.) still tax your **local-sourced income**. It doesn't matter where the clients are. If you live and work in a country, then your income is sourced locally and is thus subject to the local income tax. For individuals, the territorial tax exemption mostly applies to passive income from abroad - it does not apply to active earned income. Failure to disclose this income would constitute tax fraud.
 
 > Once I become a tax resident in a tax haven country, I can live and work anywhere tax-free.
 
