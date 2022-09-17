@@ -97,11 +97,11 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 
 ### Personal
 
-|                     | Amount                                |
-| ------------------- | ------------------------------------- |
-| Pre-tax dividends   | BGN 132,631.44                        |
-| Dividend tax 5%     | BGN 6,631.57 = 132,631.44 \* 5%       |
-| After-tax dividends | BGN 125999.87 = 132,631.44 - 6,631.57 |
+|                     | Amount                                 |
+| ------------------- | -------------------------------------- |
+| Pre-tax dividends   | BGN 132,631.44                         |
+| Dividend tax 5%     | BGN 6,631.57 = 132,631.44 \* 5%        |
+| After-tax dividends | BGN 125,999.87 = 132,631.44 - 6,631.57 |
 
 ### Total
 

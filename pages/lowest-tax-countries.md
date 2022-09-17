@@ -4,12 +4,13 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 ## Table of contents
 
-## Individual Entrepreneur (IE) with Small Business Status (SBS) in Georgia 🇬🇪
+## Small business in Georgia 🇬🇪
 
-- special tax regime for sole proprietors
-  - must be **self-employed** (**contractor**, not employee)
-- earn less than **GEL 500k** (~ USD 170k) in **turnover**/year
-- cannot engage in **[prohibited activities](https://matsne.gov.ge/ka/document/view/1164635?publication=0)** (forex, gambling, consulting, etc.)
+- Individual Entrepreneur (IE) with Small Business Status (SBS)
+  - special tax regime for sole proprietors
+    - must be **self-employed** (**contractor**, not employee)
+  - earn less than **GEL 500k** (~ USD 170k) in **turnover**/year
+  - cannot engage in **[prohibited activities](https://matsne.gov.ge/ka/document/view/1164635?publication=0)** (forex, gambling, consulting, etc.)
 - **1%** tax on **turnover**, can hire employees and contractors
   - 3% if you exceed GEL 500k in a tax year
   - if you exceed GEL 500k in 2 consecutive years, this status is revoked

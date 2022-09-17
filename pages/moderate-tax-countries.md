@@ -1,6 +1,6 @@
 # Moderate tax countries
 
-This works best for people with moderate income, high tax burden, and high CoL. The tax rates below are average at best, especially if you're in the 20-25% bracket already. Still, most of these countries are part of the EU, have many DTTs and a relatively affordable CoL. Bonus if you speak their language or have ethnic roots. We'll start with those in Southern Europe as they're often desirable to live in (although not the lowest in tax).
+These work best for people with moderate income, high tax burden, and high CoL. The tax rates below are average at best, especially if you're in the 20-25% bracket already. Still, most of these countries are part of the EU, have many DTTs and a relatively affordable CoL. Bonus if you speak their language or have ethnic roots. We'll start with those in Southern Europe as they're often desirable to live in (although not the lowest in tax).
 
 ## Table of contents
 
