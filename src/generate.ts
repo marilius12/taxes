@@ -12,8 +12,6 @@ import { Node as DefaultNode, Literal } from "unist";
 import urls from "rehype-urls";
 import { UrlWithStringQuery } from "url";
 import slug from "rehype-slug";
-// @ts-expect-error
-import wrap from "rehype-wrap-all";
 import minify from "rehype-preset-minify";
 import html from "rehype-stringify";
 import { read, write } from "to-vfile";
@@ -62,9 +60,9 @@ const processor = unified()
         <body>
           <header>
             <nav>
-              <a href="/">Home</a>/
-              <a href="/basics-of-taxation">Basics</a>/
-              <a href="/glossary">Glossary</a>/
+              <a href="/">Home</a>
+              <a href="/basics-of-taxation">Basics</a>
+              <a href="/glossary">Glossary</a>
               <a href="/resources">Resources</a>
             </nav>
           </header>
@@ -75,7 +73,6 @@ const processor = unified()
   })
   .use(urls, rewriteUrls)
   .use(slug)
-  .use(wrap, { selector: "table", wrapper: ".table-container" })
   .use(minify)
   .use(html);
 
@@ -125,12 +122,18 @@ function rewriteUrls(url: UrlWithStringQuery, node: Node) {
 }
 
 async function emitMinifiedCss(
-  src = `./${SRC_DIR}/sp.css`,
+  src = `./${SRC_DIR}/style.css`,
   dest = `./${OUT_DIR}/style.css`
 ) {
-  const original = await fsp.readFile(src, "utf8");
+  const simpleCss = await fsp.readFile(
+    "./node_modules/simpledotcss/simple.min.css",
+    "utf8"
+  );
+  const custom = await fsp.readFile(src, "utf8");
 
-  const { styles, errors, warnings } = new CleanCSS().minify(original);
+  const { styles, errors, warnings } = new CleanCSS().minify(
+    `${simpleCss}${custom}`
+  );
 
   errors.forEach(console.error);
   warnings.forEach(console.warn);
