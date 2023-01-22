@@ -88,10 +88,9 @@ These work best for people with moderate income, high tax burden, and high CoL. 
 ## Sole Proprietor (SP) in Slovenia 🇸🇮
 
 - sole trader (samostojni podjetnik) under "normiranec" status
+- max turnover **EUR 50k** as a "full" SP (self-employed)
 - **80% deduction** on **gross** income (considered normalized expenses/costs)
   - only 20% is subject to a flat 20% tax, thus **4%** effective rate
-- max turnover **EUR 100k** as a "full" SP (self-employed)
-  - cannot surpass EUR 300k in 2 consecutive years (avg EUR 150k/year)
 - also: socials (see [Individual - Other taxes](https://taxsummaries.pwc.com/slovenia/individual/other-taxes))
   - self-employed: 38.20% (employee: 22.10% + employer: 16.10%)
   - **capped** around EUR 28k based on avg salary in SI
