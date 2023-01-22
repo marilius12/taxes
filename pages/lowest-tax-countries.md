@@ -44,7 +44,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 ### Resources
 
-- [Fiscal Code of Romania (RO)](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_11022020.htm), TITLE III - Micro-enterprise income tax, Article 47-57
+- [Fiscal Code of Romania (RO)](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm), TITLE III - Micro-enterprise income tax, Article 47-57
 - [Micro-Enterprise in Romania: 1% Corporate Tax](https://zugimpex.com/knowledgebase/micro-enterprise-in-romania-1-corporate-tax.html)
 - [2021 Tax Guideline for Romania](https://accace.com/tax-guideline-for-romania/)
 

@@ -35,7 +35,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 | Total tax            | RON 12,303 = 7,650 + 3,060 + 1,593          |
 | Net salary           | RON 18,297 = 30,600 - 12,303                |
 
-\* See Article 77 of the [Fiscal Code](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_11022020.htm) for a table of personal deductions (DP) based on salary
+\* See Article 77 of the [Fiscal Code](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm) for a table of personal deductions (DP) based on salary
 
 #### Dividends
 
