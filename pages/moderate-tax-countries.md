@@ -100,7 +100,6 @@ These work best for people with moderate income, high tax burden, and high CoL. 
 - [Determining the tax base using standardized expenses](https://spot.gov.si/sl/teme/davek-od-dohodka-iz-dejavnosti#ugotavljanje-davcne-osnove-z-upostevanjem-normiranih-odhodkov-el370)
 - [How to be a sole proprietor in Slovenia?](https://data.si/en/blog/sole-proprietor-slovenia-2/)
 - [Sole proprietor in Slovenia – benefits of normalized expenses](https://data.si/en/blog/sole-proprietor-normalized-expenses/)
-- [Little Known TAX HAVEN in Europe for Freelancers](https://youtu.be/nSRj46PkozQ)
 - [Sole proprietor (s.p.) income tax?](https://www.expat.com/forum/viewtopic.php?id=762117)
 
 ## Small company in Lithuania 🇱🇹
