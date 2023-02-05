@@ -153,6 +153,8 @@ Tax residency is a question of **fact**. Usually, tax authorities publish guidel
 
 ## Individual residency
 
+> Canadians, see [tax residency in Canada](./tax-residency-in-canada.md).
+
 An individual is taxed based on where they are a tax resident. The following factors are commonly (but not always) taken into account:
 
 - **183 day rule**
