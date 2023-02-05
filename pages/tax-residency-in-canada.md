@@ -81,13 +81,11 @@ See [Determining your residency status](https://www.canada.ca/en/revenue-agency/
 
 ## Non-Resident
 
-If you are **not** a deemed resident **nor** a factual resident, then you are a **non-resident** of Canada. You become a non-resident on the latest of:
+If you are **not** a deemed resident **nor** a factual resident, then you are a **non-resident** of Canada. The date you become a non-resident, reported as **departure date** on your tax return, can only be determined after reviewing all relevants facts and circumstances. Generally, it's the latest of:
 
 - the date you leave,
 - the date your spouse or common-law partner and dependants leave, or
 - the date you become a resident in another country
-
-This date is reported as the **departure date** on your tax return.
 
 One exception is if you were a resident of another country prior to entering Canada, and you are returning to re-establish your residency there. In that case, you become a non-resident on the date you leave Canada.
 
