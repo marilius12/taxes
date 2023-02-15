@@ -1,6 +1,6 @@
 # Tax Residency in Canada
 
-During a tax year, an individual is subject to Canadian income tax either as:
+During a tax year, an individual is subject to Canadian income tax as:
 
 - **resident**: taxed on worldwide income from all sources, or
 - **non-resident**: taxed on Canadian-sourced income only
