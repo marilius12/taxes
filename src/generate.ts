@@ -14,8 +14,6 @@ import { UrlWithStringQuery } from "url";
 import slug from "rehype-slug";
 import minify from "rehype-preset-minify";
 import html from "rehype-stringify";
-import { read, write } from "to-vfile";
-import report from "vfile-reporter";
 import CleanCSS from "clean-css";
 
 const IN_DIR = "pages";
@@ -79,15 +77,16 @@ const processor = unified()
 async function convertMdToHtml(filename: string) {
   if (path.extname(filename) !== ".md") return; // LICENSE
 
-  const vFile = await read(`${IN_DIR}/${filename}`);
+  const filepath = path.join(IN_DIR, filename);
+  const buff = await fsp.readFile(filepath);
 
-  const newVFile = await processor.process(vFile);
-  console.error(report(newVFile));
+  const vfile = await processor.process(buff);
+  console.log(`✓ ${filepath}`);
 
-  newVFile.extname = ".html";
-  newVFile.dirname = OUT_DIR;
-
-  await write(newVFile);
+  await fsp.writeFile(
+    `${OUT_DIR}/${filename.replace(".md", ".html")}`,
+    String(vfile)
+  );
 }
 
 interface Node extends DefaultNode {
