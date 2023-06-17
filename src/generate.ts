@@ -5,16 +5,15 @@ import markdown from "remark-parse";
 import toc from "remark-toc";
 import gfm from "remark-gfm";
 import remark2rehype from "remark-rehype";
-// @ts-expect-error
-import { template, html as h, doctype } from "rehype-template";
 import { Node as DefaultNode, Literal } from "unist";
 // @ts-expect-error
 import urls from "rehype-urls";
 import { UrlWithStringQuery } from "url";
 import slug from "rehype-slug";
-import minify from "rehype-preset-minify";
 import html from "rehype-stringify";
+import { minify } from "html-minifier-terser";
 import CleanCSS from "clean-css";
+import revisionHash from "rev-hash";
 
 const IN_DIR = "pages";
 const OUT_DIR = "dist";
@@ -31,13 +30,11 @@ async function main() {
 
   await fsp.mkdir(OUT_DIR);
 
+  const cssFilename = await emitMinifiedCss();
+
   const files = await fsp.readdir(IN_DIR);
 
-  const promises = files.map(convertMdToHtml);
-
-  promises.push(emitMinifiedCss());
-
-  await Promise.all(promises);
+  await Promise.all(files.map((f) => convertMdToHtml(f, cssFilename)));
 }
 
 const processor = unified()
@@ -45,63 +42,71 @@ const processor = unified()
   .use(toc, { maxDepth: 2 })
   .use(gfm)
   .use(remark2rehype)
-  .use(template, {
-    template: (nodes: Node[]) => h`
-      ${doctype}
-      <html>
-        <head>
-          <meta charset="utf-8" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <title>Taxes - ${extractTitle(nodes)}</title>
-          <link rel="stylesheet" href="/style.css" />
-        </head>
-        <body>
-          <header>
-            <nav>
-              <a href="/">Home</a>
-              <a href="/basics-of-taxation">Basics</a>
-              <a href="/glossary">Glossary</a>
-              <a href="/resources">Resources</a>
-            </nav>
-          </header>
-          <main>${nodes}</main>
-        </body>
-      </html>
-    `,
-  })
   .use(urls, rewriteUrls)
   .use(slug)
-  .use(minify)
   .use(html);
 
-async function convertMdToHtml(filename: string) {
+async function convertMdToHtml(filename: string, cssFilename: string) {
   if (path.extname(filename) !== ".md") return; // LICENSE
 
   const filepath = path.join(IN_DIR, filename);
-  const buff = await fsp.readFile(filepath);
 
+  const buff = await fsp.readFile(filepath);
   const vfile = await processor.process(buff);
-  console.log(`✓ ${filepath}`);
+
+  const template = `
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Taxes - ${formatTitle(filename)}</title>
+        <link rel="stylesheet" href="/${cssFilename}" />
+      </head>
+      <body>
+        <header>
+          <nav>
+            <a href="/">Home</a>
+            <a href="/basics-of-taxation">Basics</a>
+            <a href="/glossary">Glossary</a>
+            <a href="/resources">Resources</a>
+          </nav>
+        </header>
+        <main>${String(vfile)}</main>
+      </body>
+    </html>
+  `;
+  const html = await minify(template, {
+    collapseBooleanAttributes: true,
+    collapseWhitespace: true,
+    removeComments: true,
+    removeEmptyAttributes: true,
+    removeEmptyElements: true,
+    removeRedundantAttributes: true,
+  });
 
   await fsp.writeFile(
-    `${OUT_DIR}/${filename.replace(".md", ".html")}`,
-    String(vfile)
+    path.join(OUT_DIR, filename.replace(".md", ".html")),
+    html
   );
+
+  console.log(`✓ ${filepath}`);
+}
+
+function formatTitle(filename: string) {
+  const page = filename.slice(0, filename.indexOf("."));
+  if (page === "index") return "Homepage";
+  return capitalize(page).replaceAll("-", " ").replace("canada", "Canada");
+}
+
+function capitalize(s: string) {
+  return s[0].toUpperCase() + s.slice(1);
 }
 
 interface Node extends DefaultNode {
   tagName: string;
   children: Literal[];
   properties: Record<string, any>;
-}
-
-function extractTitle(nodes: Node[]) {
-  const h1 = nodes.find(({ tagName }) => tagName === "h1") as Node;
-  const h1Text = h1.children[0].value as string;
-  return h1Text.replace(
-    /International taxes for freelancers and digital nomads/,
-    "Homepage"
-  );
 }
 
 function rewriteUrls(url: UrlWithStringQuery, node: Node) {
@@ -121,21 +126,25 @@ function rewriteUrls(url: UrlWithStringQuery, node: Node) {
 }
 
 async function emitMinifiedCss(
-  src = `./${SRC_DIR}/style.css`,
-  dest = `./${OUT_DIR}/style.css`
+  srcFile = path.join(SRC_DIR, "style.css"),
+  destDir = OUT_DIR
 ) {
   const simpleCss = await fsp.readFile(
     "./node_modules/simpledotcss/simple.min.css",
     "utf8"
   );
-  const custom = await fsp.readFile(src, "utf8");
+  const customCss = await fsp.readFile(srcFile, "utf8");
 
   const { styles, errors, warnings } = new CleanCSS().minify(
-    `${simpleCss}${custom}`
+    `${simpleCss}${customCss}`
   );
 
   errors.forEach(console.error);
   warnings.forEach(console.warn);
 
-  await fsp.writeFile(dest, styles, "utf8");
+  const filename = `style.${revisionHash(styles)}.css`;
+
+  await fsp.writeFile(path.join(destDir, filename), styles, "utf8");
+
+  return filename;
 }
