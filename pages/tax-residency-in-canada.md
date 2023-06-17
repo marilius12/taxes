@@ -1,4 +1,4 @@
-# Tax Residency in Canada
+# Tax residency in Canada
 
 During a tax year, an individual is subject to Canadian income tax as:
 
