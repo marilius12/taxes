@@ -6,7 +6,7 @@ International taxes for freelancers and digital nomads https://taxes.pages.dev
 
 - HTML, CSS (front-end)
 - Node.js, TypeScript (static-site generator)
-- [SPCSS](https://github.com/susam/spcss) (website stylesheet)
+- [Simple.css](https://github.com/kevquirk/simple.css) (website stylesheet)
 - Markdown (website content)
 - [Unified.js](https://unifiedjs.com) (markdown parser)
 - Cloudflare Pages (free hosting)
