@@ -35,7 +35,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 | Total tax            | RON 12,303 = 7,650 + 3,060 + 1,593          |
 | Net salary           | RON 18,297 = 30,600 - 12,303                |
 
-\* See Article 77 of the [Fiscal Code](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm) for a table of personal deductions (DP) based on salary
+\* See Article 77 of the [Fiscal Code](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm) for a table of personal deductions (deducere personală, or DP) based on salary.
 
 #### Dividends
 
@@ -43,11 +43,11 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 | ------------------- | --------------------------------------- |
 | Pre-tax dividends   | RON 360,751.50                          |
 | Dividend tax (8%)   | RON 28,860.12 = 360,751.50 \* 8%        |
-| Health ins base     | RON 30,600 = RON 2,550/mo \* 12         |
-| Health ins (10%)    | RON 0 = 30,600 \* 10% - 3,060           |
+| Health ins base     | RON 15,300 = RON 2,550/mo \* 6          |
+| Health ins (10%)    | RON 0 = 15,300 \* 10% - 3,060           |
 | After-tax dividends | RON 331,891.38 = 360,751.50 - 28,860.12 |
 
-> Note, from [PwC Tax Summaries](https://taxsummaries.pwc.com/romania/individual/income-determination), dividend income is taxed at 8% but is also considered towards health insurance contributions. Max base is RON 30,600 = min wage RON 2,550/mo (2022) \* 12.
+> Note, from [PwC Tax Summaries](https://taxsummaries.pwc.com/romania/individual/income-determination), dividend income is taxed at 8% but is also considered towards health insurance contributions. Max base is RON 15,300 = 6 \* min wage RON 2,550/mo (2022).
 
 ### Total
 
