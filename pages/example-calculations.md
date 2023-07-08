@@ -11,7 +11,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 
 ### Employer
 
-|                   | Amount                                            |
+| &nbsp;            | Amount                                            |
 | ----------------- | ------------------------------------------------- |
 | Turnover          | RON 396,000                                       |
 | Salary            | RON 30,600 = RON 2,550/mo \* 12                   |
@@ -24,7 +24,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 
 #### Salary
 
-|                      | Amount                                      |
+| &nbsp;               | Amount                                      |
 | -------------------- | ------------------------------------------- |
 | Gross salary         | RON 30,600 = RON 2,550/mo \* 12             |
 | Social ins (25%)     | RON 7,650 = 30,600 \* 25%                   |
@@ -39,7 +39,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 
 #### Dividends
 
-|                     | Amount                                  |
+| &nbsp;              | Amount                                  |
 | ------------------- | --------------------------------------- |
 | Pre-tax dividends   | RON 360,751.50                          |
 | Dividend tax (8%)   | RON 28,860.12 = 360,751.50 \* 8%        |
@@ -51,7 +51,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 
 ### Total
 
-|                  | Amount                                        |
+| &nbsp;           | Amount                                        |
 | ---------------- | --------------------------------------------- |
 | Turnover         | RON 396,000                                   |
 | Total tax        | RON 45,811.62 = 4,648.50 + 12,303 + 28,860.12 |
@@ -63,7 +63,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 - gross income 80k EUR, based on [this video](https://youtu.be/NV3heKehLCw)
 - see [this article](https://dmitryfrank.com/articles/bulgaria_freelance_taxes) for a comprehensive breakdown
 
-|                        | Amount                                        |
+| &nbsp;                 | Amount                                        |
 | ---------------------- | --------------------------------------------- |
 | Gross income           | BGN 150,000                                   |
 | Social contrib 19.8%\* | BGN 8,078.4 = 19.8% \* 3,400 \* 12            |
@@ -86,7 +86,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 
 ### Corporate
 
-|                      | Amount                                     |
+| &nbsp;               | Amount                                     |
 | -------------------- | ------------------------------------------ |
 | Gross income         | BGN 150,000                                |
 | Corp tax 10%         | BGN 15,000 = 150,000 \* 10%                |
@@ -97,7 +97,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 
 ### Personal
 
-|                     | Amount                                 |
+| &nbsp;              | Amount                                 |
 | ------------------- | -------------------------------------- |
 | Pre-tax dividends   | BGN 132,631.44                         |
 | Dividend tax 5%     | BGN 6,631.57 = 132,631.44 \* 5%        |
@@ -105,7 +105,7 @@ Note that the math doesn't account for business expenses, legal fees (ex: consul
 
 ### Total
 
-|               | Amount                               |
+| &nbsp;        | Amount                               |
 | ------------- | ------------------------------------ |
 | Gross income  | BGN 150,000                          |
 | Total tax     | BGN 24,000.13 = 17,368.56 + 6,631.57 |
