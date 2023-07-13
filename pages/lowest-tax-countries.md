@@ -40,7 +40,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - socials on gross salary are **uncapped**
   - employee: 25% social insurance (CAS), 10% health insurance (CASS)
   - employer: 2.25% labor insurance (CAM)
-- see [example calculation](./example-calculations.md#micro-enterprise-in-romania-)
+- see [example calculation](./example-calculations.md)
 
 ### Resources
 
@@ -60,7 +60,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - **25% deduction** on gross income (operating expenses) (Art. 29 3.)
   - not required to provide any receipts
 - must register for VAT if income exceeds BGN 50k in fiscal year
-- see [example calculation](./example-calculations.md#freelancer-in-bulgaria-)
+- see [example calculation](./example-calculations.md)
 
 ### Resources
 
@@ -82,7 +82,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
     - min base: BGN 710/mo (BGN 8,520/y) (same as min wage, 2022)
     - max base: BGN 3,400/mo (BGN 40,800/y)
 - must register for VAT if income exceeds BGN 50k/y
-- see [example calculation](./example-calculations.md#corporation-in-bulgaria-)
+- see [example calculation](./example-calculations.md)
 
 ### Resources
 

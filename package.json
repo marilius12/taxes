@@ -8,7 +8,7 @@
   "author": "marilius12",
   "license": "MIT",
   "scripts": {
-    "generate": "node --loader ts-node/esm src/generate.ts",
+    "generate": "rm -rf dist; rollup -c; node --loader ts-node/esm src/generate.tsx",
     "serve": "serve dist"
   },
   "repository": {
@@ -20,8 +20,9 @@
   },
   "homepage": "https://github.com/marilius12/taxes#readme",
   "dependencies": {
-    "clean-css": "^5.3.2",
     "html-minifier-terser": "^7.2.0",
+    "preact": "^10.16.0",
+    "preact-render-to-string": "^6.2.0",
     "rehype-slug": "^5.1.0",
     "rehype-stringify": "^9.0.3",
     "rehype-urls": "^1.1.1",
@@ -29,16 +30,19 @@
     "remark-parse": "^10.0.2",
     "remark-rehype": "^10.1.0",
     "remark-toc": "^8.0.1",
-    "rev-hash": "^4.0.0",
     "simpledotcss": "^2.2.1",
     "unified": "^10.1.2"
   },
   "devDependencies": {
-    "@types/clean-css": "^4.2.6",
+    "@rollup/plugin-node-resolve": "^15.1.0",
+    "@rollup/plugin-terser": "^0.4.3",
+    "@rollup/plugin-typescript": "^11.1.2",
     "@types/html-minifier-terser": "^7.0.0",
-    "@types/node": "^20.3.1",
+    "@types/node": "^20.4.2",
+    "rollup": "^3.26.2",
+    "rollup-plugin-import-css": "^3.3.1",
     "serve": "^14.2.0",
     "ts-node": "^10.9.1",
-    "typescript": "^5.1.3"
+    "typescript": "^5.1.6"
   }
 }
