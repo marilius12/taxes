@@ -89,6 +89,22 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - [Corporate Income Tax Act (CITA) (BG)](https://www.lex.bg/laws/ldoc/2135540562)
 - [2021 Tax Rates and Social Security Contributions in Bulgaria](https://www.kgmp-legal.com/en/2021-tax-rates-and-social-security-contributions-in-bulgaria/)
 
+## Sole Proprietor in Poland 🇵🇱
+
+- sole proprietorship = Jednoosobowa działalność gospodarcza (JDG)
+- lump-sum tax on **revenue** (ryczałt od przychodów ewidencjonowanych)
+  - from **2%** to **17%** depending on the type of activity
+  - cannot write off expenses (works best with high margins)
+    - with low margins, opt for the flat-rate tax at **19%**
+- also: health insurance and social security (ZUS), tiered
+
+### Resources
+
+- [Flat-rate Income Tax Act (PL)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981440930)
+- [Lump-sum tax on registered income (PL)](https://www.biznes.gov.pl/pl/portal/00263), also on [taxes.gov.pl](https://www.podatki.gov.pl/pit/abc-pit/ryczalt-od-przychodow-ewidencjonowanych/)
+- [The amount of contributions for people running a business (PL)](https://www.zus.pl/baza-wiedzy/skladki-wskazniki-odsetki/skladki/wysokosc-skladek-na-ubezpieczenia-spoleczne)
+- [Tax calculator for B2B contractors in Poland](https://www.podatki.wtf/) and [Calculator B2B (PL)](https://www.kalkulatorb2b.pl/)
+
 ## Corporation in Albania 🇦🇱
 
 - **exempt** from CIT with net income up to **ALL 14M** (~ USD 131k)

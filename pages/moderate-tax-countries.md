@@ -113,23 +113,6 @@ These work best for people with moderate income, high tax burden, and high CoL. 
 - [Lithuania - Taxes on corporate income](https://taxsummaries.pwc.com/lithuania/corporate/taxes-on-corporate-income)
 - [Lithuania - Taxes on personal income](https://taxsummaries.pwc.com/lithuania/individual/taxes-on-personal-income)
 
-## Self-employed in Poland 🇵🇱
-
-- sole proprietor **19% flat tax + socials (capped)**
-- socials paid in a lump sum regardless of income
-  - social security: base is 60% of avg mon. wage
-    - don't have to pay social sec for first 6 mo
-    - next 24 mo, can pay preferential (lower) contributions
-  - health ins: base is 75% of avg mon. wage
-- **bonus**: if you're under 26, the first PLN 85,528 is **exempt** from tax
-  - surplus is taxed as usual using a progressive PIT of 17-32%
-  - only applies to **employment income**
-
-### Resources
-
-- [Poland - Taxes on personal income](https://taxsummaries.pwc.com/poland/individual/taxes-on-personal-income)
-- [Poland - Other taxes](https://taxsummaries.pwc.com/poland/individual/other-taxes)
-
 ## Corporation in Hungary 🇭🇺
 
 - CIT 9%, divs 15%, PIT 15% + socials
