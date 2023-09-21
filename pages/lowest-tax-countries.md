@@ -40,13 +40,14 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - socials on gross salary are **uncapped**
   - employee: 25% social insurance (CAS), 10% health insurance (CASS)
   - employer: 2.25% labor insurance (CAM)
-- see [example calculation](./example-calculations.md)
+- see [example calculation](/example-calculations)
 
 ### Resources
 
 - [Fiscal Code of Romania (RO)](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm), TITLE III - Micro-enterprise income tax, Article 47-57
-- [Micro-Enterprise in Romania: 1% Corporate Tax](https://zugimpex.com/knowledgebase/micro-enterprise-in-romania-1-corporate-tax.html)
+- [Micro-Enterprise in Romania: 1% Corporate Tax](https://zugimpex.com/know-how/micro-enterprise-in-romania-1-corporate-tax.html)
 - [2021 Tax Guideline for Romania](https://accace.com/tax-guideline-for-romania/)
+- [Calcule modificari fiscale 2024 (RO)](https://docs.google.com/spreadsheets/u/0/d/1_kT2lQhNyt9I2GIcLl-Q50pWdnKZWQd5Cv5OZfHKhA4/htmlview)
 
 ## Freelancer in Bulgaria 🇧🇬
 
@@ -60,7 +61,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - **25% deduction** on gross income (operating expenses) (Art. 29 3.)
   - not required to provide any receipts
 - must register for VAT if income exceeds BGN 50k in fiscal year
-- see [example calculation](./example-calculations.md)
+- see [example calculation](/example-calculations)
 
 ### Resources
 
@@ -82,7 +83,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
     - min base: BGN 710/mo (BGN 8,520/y) (same as min wage, 2022)
     - max base: BGN 3,400/mo (BGN 40,800/y)
 - must register for VAT if income exceeds BGN 50k/y
-- see [example calculation](./example-calculations.md)
+- see [example calculation](/example-calculations)
 
 ### Resources
 

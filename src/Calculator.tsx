@@ -761,7 +761,7 @@ const MicroEnterpriseInRomania = ({ grossYearlyIncomeUSD }: CommonProps) => {
 
       <p>
         Based in part on{" "}
-        <ExternalLink href="https://zugimpex.com/knowledgebase/micro-enterprise-in-romania-1-corporate-tax.html">
+        <ExternalLink href="https://zugimpex.com/know-how/micro-enterprise-in-romania-1-corporate-tax.html">
           this article
         </ExternalLink>
         .
