@@ -158,3 +158,22 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - [Cyprus - Individual Residence](https://taxsummaries.pwc.com/cyprus/individual/residence)
 - [The Cyprus Non-Domicile concept for tax purposes](https://totalserve.eu/Assets/Images/uploadedContent/CMS/documentsImages/informationsheetno1291483607458.pdf)
 - [Cyprus Tax Residency and Non-Dom Rules](https://home.kpmg/content/dam/kpmg/cy/pdf/2020/Cyprus_Tax_Residency_and_Non-Dom_Rules_February2020.pdf)
+
+## Self-employed in the UAE 🇦🇪
+
+- **9% CIT** (as of June 2023)
+  - first **AED 375k** (USD 102k) of profit is exempt
+  - qualifying income of a **free zone** (QFZP) is also exempt
+  - salary is exempt but beware of **GAAR** (general anti-abuse rule)
+- **natural person** is also subject to CIT if turnover exceeds **AED 1M** (USD 272k)
+  - applies to business income when unincorporated (ex: freelancer)
+- **Small Business Relief** until Dec 2026
+  - exempt from CIT, simplified tax return
+  - turnover must not exceed **AED 3M** (USD 816k)
+- **0% tax** on employment, investment, and real estate income
+
+### Resources
+
+- [Corporate Tax FAQs](https://mof.gov.ae/corporate-tax-faq/)
+- [Corporate - Tax credits and incentives](https://taxsummaries.pwc.com/united-arab-emirates/corporate/tax-credits-and-incentives)
+- [Corporate - Tax administration](https://taxsummaries.pwc.com/united-arab-emirates/corporate/tax-administration)
