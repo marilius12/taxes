@@ -30,6 +30,27 @@ These work best for people with moderate income, high tax burden, and high CoL. 
 - [INPS Clarification (IT)](https://www.consulentidellavoro.it/files/PDF/2023/CNO/Riunione_TavoloTecnico_AdE_Inps_CNO.pdf) part B, 2. Social security tax base for impatriated self-employed workers (page 6)
 - [How to pay only 3% of taxes on average in Italy](https://youtu.be/XxqULB8QSJs)
 
+## Sole Proprietor in Slovenia 🇸🇮
+
+- "full" SP (samostojni podjetnik) under "normiranec" status
+  - must be an EU citizen or have lived in SI for at least 1 year
+- turnover must not exceed **EUR 100k**
+- flat **20% tax** after normalized expenses/costs
+  - **80% deduction** on first EUR 0-50k for a 4% effective tax
+  - **40% deduction** on next EUR 50k-100k for a 12% effective tax
+- also: socials (see [Individual - Other taxes](https://taxsummaries.pwc.com/slovenia/individual/other-taxes))
+  - self-employed: 38.20% (employee: 22.10% + employer: 16.10%)
+  - **capped** around EUR 28k based on avg salary in SI
+- **25%** flat tax on cap gains, divs, and rental income
+  - CGT is reduced depending on the holding period
+
+### Resources
+
+- [Determining the tax base using standardized expenses (SL)](https://spot.gov.si/sl/teme/davek-od-dohodka-iz-dejavnosti#ugotavljanje-davcne-osnove-z-upostevanjem-normiranih-odhodkov-el370)
+- [Comparison between ordinary and standardized SP (SL)](https://spot.gov.si/sl/teme/primerjava-med-navadnim-in-normiranim-s-p/)
+- [SP and DOO with standardized costs (SL)](https://mladipodjetnik.si/podjetniski-koticek/racunovodstvo/normirana-obdavcitev)
+- [Sole proprietor in Slovenia – benefits of normalized expenses](https://data.si/en/blog/sole-proprietor-normalized-expenses/)
+
 ## Simplified regime in Portugal 🇵🇹
 
 - tax deduction between **5% to 90%** of gross income up to **EUR 200k**
@@ -38,7 +59,7 @@ These work best for people with moderate income, high tax burden, and high CoL. 
   - ex: 25% for software devs under "Liberal Profession"
 - further **50% discount** in 1st tax year, **25%** discount in 2nd year
 - progressive PIT **14.5-48%** + socials **21.4%** (self-employed)
-- optimal for high-margin/low-expenses self-employed persons
+- optimal for high-margin/low-expense self-employed persons
 
 ### Resources
 
@@ -89,23 +110,6 @@ These work best for people with moderate income, high tax burden, and high CoL. 
 - [Greece - Other tax credits and incentives](https://taxsummaries.pwc.com/greece/individual/other-tax-credits-and-incentives)
 - [Greece – Recently-Introduced Measures Aim to Attract New Tax Residents](https://home.kpmg/xx/en/home/insights/2021/01/flash-alert-2021-008.html)
 - [Special solidarity contribution abolished for certain income for FY 2020 and 2021](https://www.taxathand.com/article/15649/Greece/2020/Special-solidarity-contribution-abolished-for-certain-income-for-FY-2020-and-2021)
-
-## Sole Proprietor (SP) in Slovenia 🇸🇮
-
-- sole trader (samostojni podjetnik) under "normiranec" status
-- max turnover **EUR 50k** as a "full" SP (self-employed)
-- **80% deduction** on **gross** income (considered normalized expenses/costs)
-  - only 20% is subject to a flat 20% tax, thus **4%** effective rate
-- also: socials (see [Individual - Other taxes](https://taxsummaries.pwc.com/slovenia/individual/other-taxes))
-  - self-employed: 38.20% (employee: 22.10% + employer: 16.10%)
-  - **capped** around EUR 28k based on avg salary in SI
-
-### Resources
-
-- [Determining the tax base using standardized expenses](https://spot.gov.si/sl/teme/davek-od-dohodka-iz-dejavnosti#ugotavljanje-davcne-osnove-z-upostevanjem-normiranih-odhodkov-el370)
-- [How to be a sole proprietor in Slovenia?](https://data.si/en/blog/sole-proprietor-slovenia-2/)
-- [Sole proprietor in Slovenia – benefits of normalized expenses](https://data.si/en/blog/sole-proprietor-normalized-expenses/)
-- [Sole proprietor (s.p.) income tax?](https://www.expat.com/forum/viewtopic.php?id=762117)
 
 ## Small company in Lithuania 🇱🇹
 
