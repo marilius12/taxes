@@ -3,7 +3,7 @@
   "type": "module",
   "name": "taxes",
   "version": "1.0.0",
-  "main": "build/generate.js",
+  "main": "src/generate.tsx",
   "description": "International taxes for freelancers and digital nomads.",
   "author": "marilius12",
   "license": "MIT",
