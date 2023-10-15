@@ -1,6 +1,6 @@
 # Moderate tax countries
 
-These work best for people with moderate income, high tax burden, and high CoL. The tax rates below are average at best, especially if you're in the 20-25% bracket already. Still, most of these countries are part of the EU, have many DTTs and a relatively affordable CoL. Bonus if you speak their language or have ethnic roots. We'll start with those in Southern Europe as they're often desirable to live in (although not the lowest in tax).
+These work best for people with moderate income, high tax burden, and high CoL. The tax rates below are average at best, especially if you're in the 20-25% bracket already. Still, most of these countries are part of the EU, have many DTTs and a relatively affordable CoL. Bonus if you speak their language or have ethnic roots.
 
 ## Table of contents
 
@@ -42,7 +42,7 @@ These work best for people with moderate income, high tax burden, and high CoL. 
   - self-employed: 38.20% (employee: 22.10% + employer: 16.10%)
   - **capped** around EUR 28k based on avg salary in SI
 - **25%** flat tax on cap gains, divs, and rental income
-  - CGT is reduced depending on the holding period
+  - CGT can be reduced depending on the holding period
 
 ### Resources
 
@@ -50,6 +50,24 @@ These work best for people with moderate income, high tax burden, and high CoL. 
 - [Comparison between ordinary and standardized SP (SL)](https://spot.gov.si/sl/teme/primerjava-med-navadnim-in-normiranim-s-p/)
 - [SP and DOO with standardized costs (SL)](https://mladipodjetnik.si/podjetniski-koticek/racunovodstvo/normirana-obdavcitev)
 - [Sole proprietor in Slovenia – benefits of normalized expenses](https://data.si/en/blog/sole-proprietor-normalized-expenses/)
+
+## Self-employed in Czechia 🇨🇿
+
+- self-empoyed = Osoba samostatně výdělečně činná (OSVČ)
+- deducting **fixed expenses** (paušální výdaje)
+  - **80%** in agriculture, forestry, crafts up to CZK 1.6M
+  - **60%** in trande business up to CZK 1.2M
+  - **40%** in liberal professions up to CZK 800k
+  - **30%** on rent up to CZK 600k
+- PIT of **15%** up to CZK 1.8M, **23%** on excess + socials
+- however, if income < CZK 2M, opt for a **lump-sum tax** (paušální daň)
+
+### Resources
+
+- [Income Tax Act, Sect. 7, Para. 7 (CS)](http://www.zakonyprolidi.cz/cs/1992-586#p7-7)
+- [Expenses as a percentage of income (CS)](https://www.financnisprava.cz/cs/dane/dane/dan-z-prijmu/fyzicke-osoby/podnikatel-osvc#vydaje)
+- [Flax-rate regime (CS)](https://www.financnisprava.cz/cs/dane/dane/dan-z-prijmu/pausalni-dan/obecne-informace)
+- [Self-employed tax calculator (CS)](https://www.kalkulackaosvc.cz/?type=fee)
 
 ## Simplified regime in Portugal 🇵🇹
 

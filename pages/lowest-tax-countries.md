@@ -165,7 +165,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - first **AED 375k** (USD 102k) of profit is exempt
   - qualifying income of a **free zone** (QFZP) is also exempt
   - salary is exempt but beware of **GAAR** (general anti-abuse rule)
-- **natural person** is also subject to CIT if turnover exceeds **AED 1M** (USD 272k)
+- **natural persons** are also subject to CIT if turnover exceeds **AED 1M** (USD 272k)
   - applies to business income when unincorporated (ex: freelancer)
 - **Small Business Relief** until Dec 2026
   - exempt from CIT, simplified tax return
