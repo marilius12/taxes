@@ -11,25 +11,30 @@ import urls from "rehype-urls";
 import { UrlWithStringQuery } from "url";
 import slug from "rehype-slug";
 import html from "rehype-stringify";
-import { minify, Options } from "html-minifier-terser";
-import { render } from "preact-render-to-string";
-import { Calculator } from "./Calculator.js";
+import { minify } from "html-minifier-terser";
+import CleanCSS from "clean-css";
+import revisionHash from "rev-hash";
 
 const IN_DIR = "pages";
 const OUT_DIR = "dist";
+const SRC_DIR = "src";
 
 const fsp = fs.promises;
 
 main().catch(console.error);
 
 async function main() {
-  const [jsFile, cssFile] = await fsp.readdir(OUT_DIR);
+  if (fs.existsSync(OUT_DIR)) {
+    await fsp.rm(OUT_DIR, { recursive: true });
+  }
+
+  await fsp.mkdir(OUT_DIR);
+
+  const cssFilename = await emitMinifiedCss();
 
   const files = await fsp.readdir(IN_DIR);
 
-  const promises = files.map((f) => convertMdToHtml(f, cssFile));
-  promises.push(renderCalculator(cssFile, jsFile));
-  await Promise.all(promises);
+  await Promise.all(files.map((f) => convertMdToHtml(f, cssFilename)));
 }
 
 const processor = unified()
@@ -41,16 +46,7 @@ const processor = unified()
   .use(slug)
   .use(html);
 
-const htmlMinifierOpts: Options = {
-  collapseBooleanAttributes: true,
-  collapseWhitespace: true,
-  removeComments: true,
-  removeEmptyAttributes: true,
-  removeEmptyElements: true,
-  removeRedundantAttributes: true,
-};
-
-async function convertMdToHtml(filename: string, cssFile: string) {
+async function convertMdToHtml(filename: string, cssFilename: string) {
   if (path.extname(filename) !== ".md") return; // LICENSE
 
   const filepath = path.join(IN_DIR, filename);
@@ -58,32 +54,14 @@ async function convertMdToHtml(filename: string, cssFile: string) {
   const buff = await fsp.readFile(filepath);
   const vfile = await processor.process(buff);
 
-  const template = htmlTemplate(formatTitle(filename), String(vfile), cssFile);
-  const html = await minify(template, htmlMinifierOpts);
-
-  await fsp.writeFile(
-    path.join(OUT_DIR, filename.replace(".md", ".html")),
-    html
-  );
-
-  console.log(`✓ ${filepath}`);
-}
-
-function htmlTemplate(
-  title: string,
-  html: string,
-  cssFile: string,
-  jsFile?: string
-) {
-  return `
+  const template = `
     <!DOCTYPE html>
     <html>
       <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Taxes - ${title}</title>
-        <link rel="stylesheet" href="/${cssFile}" />
-        ${jsFile ? `<script src="/${jsFile}" defer></script>` : ""}
+        <title>Taxes - ${formatTitle(filename)}</title>
+        <link rel="stylesheet" href="/${cssFilename}" />
       </head>
       <body>
         <header>
@@ -94,10 +72,25 @@ function htmlTemplate(
             <a href="/resources">Resources</a>
           </nav>
         </header>
-        <main>${html}</main>
+        <main>${String(vfile)}</main>
       </body>
     </html>
   `;
+  const html = await minify(template, {
+    collapseBooleanAttributes: true,
+    collapseWhitespace: true,
+    removeComments: true,
+    removeEmptyAttributes: true,
+    removeEmptyElements: true,
+    removeRedundantAttributes: true,
+  });
+
+  await fsp.writeFile(
+    path.join(OUT_DIR, filename.replace(".md", ".html")),
+    html
+  );
+
+  console.log(`✓ ${filepath}`);
 }
 
 function formatTitle(filename: string) {
@@ -132,16 +125,26 @@ function rewriteUrls(url: UrlWithStringQuery, node: Node) {
   return url.href.replace(/^\.\/(.+)\.md/, "/$1");
 }
 
-async function renderCalculator(
-  cssFile: string,
-  jsFile: string,
-  filename = "example-calculations.html" // this page used to be in Markdown
+async function emitMinifiedCss(
+  srcFile = path.join(SRC_DIR, "style.css"),
+  destDir = OUT_DIR
 ) {
-  const jsxStr = render(<Calculator />);
+  const simpleCss = await fsp.readFile(
+    "./node_modules/simpledotcss/simple.min.css",
+    "utf8"
+  );
+  const customCss = await fsp.readFile(srcFile, "utf8");
 
-  const template = htmlTemplate(formatTitle(filename), jsxStr, cssFile, jsFile);
+  const { styles, errors, warnings } = new CleanCSS().minify(
+    `${simpleCss}${customCss}`
+  );
 
-  const html = await minify(template, htmlMinifierOpts);
+  errors.forEach(console.error);
+  warnings.forEach(console.warn);
 
-  await fsp.writeFile(path.join(OUT_DIR, filename), html);
+  const filename = `style.${revisionHash(styles)}.css`;
+
+  await fsp.writeFile(path.join(destDir, filename), styles, "utf8");
+
+  return filename;
 }

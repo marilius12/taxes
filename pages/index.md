@@ -54,7 +54,7 @@ IANAL and IANACPA. This is **not** legal or tax advice, nor a substitute thereof
 
 ## Privacy
 
-There are no hidden trackers or spyware on this site. The site doesn't use any cookies, and only uses JavaScript on the [calculator page](/example-calculations), so you are free to disable them completely.
+There are no hidden trackers or spyware on this site. In fact, this site doesn't use any cookies or JavaScript, so you are free to disable them completely.
 
 Note that the site is deployed with [Cloudflare Pages](https://pages.cloudflare.com/). You can view their TOS [here](https://www.cloudflare.com/terms/).
 
