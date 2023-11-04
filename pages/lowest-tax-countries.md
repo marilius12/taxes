@@ -105,9 +105,10 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 ## Corporation in Albania 🇦🇱
 
-- **exempt** from CIT with net income up to **ALL 14M** (~ USD 131k)
+- **exempt** from CIT with net income up to **ALL 14M** (~ USD 131k) until Dec 2029
+  - excludes certain professional services
   - taxable income over ALL 14M is taxed at CIT 15%
-  - CIT is reduced to **5%** for automotive, software production/development, agricultural coop, and agrotourism entities (for 10 years)
+  - CIT is reduced to **5%** for automotive, software production/development, agricultural coop, and agrotourism entities
 - also: **8% divs** (individual), **0-23% PIT**, min salary **ALL 34k/mo** (2023)
   - **socials**: 16.7% ER + 11.2% EE
 - VAT registration threshold (on taxable supplies) at ALL 10M
@@ -116,7 +117,8 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 - [DPT > Entrepreneurs > Acting like a Business > Income Tax](https://www.tatime.gov.al/c/4/96/107/tatimi-mbi-te-ardhurat)
 - [Albania - Taxes on corporate income](https://taxsummaries.pwc.com/albania/corporate/taxes-on-corporate-income)
-- [International Tax - Albania Highlights 2022](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-albaniahighlights-2022.pdf)
+- [New law on income tax significantly amends corporate, individual, and withholding tax](https://www.taxathand.com/article/29948/Albania/2023/New-law-on-income-tax-significantly-amends-corporate-individual-and-withholding-tax)
+- [Taxation of individuals' business income in 2024](https://kpmg.com/al/en/home/insights/2023/09/taxation-of-individuals--business-income-in-2024.html)
 
 ## Corporation in Montenegro 🇲🇪
 
