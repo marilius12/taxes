@@ -8,16 +8,14 @@
 
 - **Territorial tax**
   - only local-sourced income is taxed (ex: employment, corporate, rental income, etc. earned locally)
-    - NOTE: if you live and work in a country, your labor is considered local-sourced regardless of where your clients are located
   - foreign-sourced income is exempt (ex: dividends, interest, rental income, etc. from abroad)
   - ex: Panama, Costa Rica, Georgia, Thailand, Philippines, Singapore, Hong Kong, Malaysia, etc.
 - **Residence-based tax**
-  - worldwide income from all sources, local and foreign, is taxed if individual (or corporation) is as a **tax resident** of the country
-    - NOTE: if you live in a western country and open an offshore bank account in a tax haven like Cayman Islands, the interest you earn will still be taxable in your home country; if you fail to report this income, you are likely committing tax fraud and may face penalties (ex: FBAR)
+  - worldwide income from all sources, local and foreign, is taxed
   - ex: most of the world including Americas, Europe, Asia, etc. with a few exceptions
 - **Citizenship-based tax**
-  - certain income is taxed even if you are not a tax resident in the country and/or are a tax resident elsewhere
-  - ex: US, Myanmar, Hungary, Eritrea
+  - worldwide income of both resident and non-resident citizens is taxed
+  - ex: US (including green card holders), Eritrea, Myanmar, Tajikistan, Hungary
 - **Remittance-based tax**
   - certain income is not taxed until remitted in the country (or not taxed at all if remitted after X year/s)
   - ex: Gibraltar, Singapore, Malta, UK, Thailand
@@ -39,11 +37,11 @@
   - variable tax based on tax brackets; imposes higher burden on higher-income earners
   - ex: US, Canada, Australia, UK, France, Germany, Sweden, etc.
 - **Lump-sum tax**
-  - fixed sum (ex: EUR 100k) is paid annually on certain/most income; works best for HNWI
+  - fixed sum (ex: EUR 100k) is paid annually on certain/most income; works best for HNWIs
   - ex: Italy, Greece, Switzerland, Malta, etc.
 - **Tax holidays/exemptions**
   - special tax programs often for 3/5/10 years to attract workers, entrepreneurs, investors, etc.
-  - ex: Uruguay, Peru, Portugal, etc.
+  - ex: Uruguay, Peru, Spain, etc.
 
 > List of countries by their headline tax rates on [Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_tax_rates)
 
@@ -55,8 +53,8 @@
 - **Capital gains tax (CGT)**: paid on the sale of assets (investments, property, currencies, crypto, metals, etc.)
 - **Dividend tax**: paid by individuals that received dividends from a corp (or withheld by corp when distributing dividends)
 - **Interest tax**: paid on interest accrued in bank accounts, bonds, CDs, etc.
-- **Royalty tax**: paid by property owners for use of that property (copyright, patent, trademark, etc.)
-- **Payroll (social security) tax**: paid by both employees and employers, as well as self-employed to fund pensions, healthcare, employment insurance, parental leave, etc.
+- **Royalty tax**: paid by property owners on royalty income (payments for use of copyright, patent, trademark, etc.)
+- **Payroll (social security) tax**: paid by both employees and employers, as well as self-employed, to fund pensions, healthcare, unemployment, disability, parental leave, etc.
 - **Sales tax/GST/VAT**: paid by both consumers and producers when buying products and services
 - **Property tax**: paid by real estate owners
 - **Import tax/duty/tariff**: paid on goods and resources imported from other countries
@@ -65,7 +63,7 @@
   - **Sin tax**: paid on products deemed harmful (ex: tobacco, alcohol, fast food, soft drinks, etc.)
 - **Energy tax**: paid by consumers and/or producers of fuels, oil, gas, etc.
   - **Carbon tax**: paid by producers of carbon-based fuels (coal, oil, gas)
-- **Estate/death tax**: paid on the transfer of assets (investments, property, etc.) of a deceased person based on their FMV (either by will or intestacy)
+- **Estate/death tax**: paid on the transfer of assets (investments, property, etc.) of a deceased person (either by will or intestacy)
   - **Inheritance tax**: paid by beneficiaries (recipients, heirs) of the estate of a deceased person
 - **Transfer tax**: paid on transfer of title to property from one person to another
   - **Gift tax**: paid on money or property that one person gives to another
