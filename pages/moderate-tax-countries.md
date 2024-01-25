@@ -29,6 +29,7 @@ These work best for people with moderate income, high tax burden, and high CoL. 
 - [New tax regime for inbound workers](https://taxsummaries.pwc.com/italy/individual/income-determination)
 - [INPS Clarification (IT)](https://www.consulentidellavoro.it/files/PDF/2023/CNO/Riunione_TavoloTecnico_AdE_Inps_CNO.pdf) part B, 2. Social security tax base for impatriated self-employed workers (page 6)
 - [How to pay only 3% of taxes on average in Italy](https://youtu.be/XxqULB8QSJs)
+- [Reform of the Italian Impatriates Regime](https://taxing.it/italian-draft-finance-law-2024/)
 
 ## Sole Proprietor in Slovenia 🇸🇮
 
@@ -56,8 +57,8 @@ These work best for people with moderate income, high tax burden, and high CoL. 
 - self-empoyed = Osoba samostatně výdělečně činná (OSVČ)
 - deducting **fixed expenses** (paušální výdaje)
   - **80%** in agriculture, forestry, crafts up to CZK 1.6M
-  - **60%** in trande business up to CZK 1.2M
-  - **40%** in liberal professions up to CZK 800k
+  - **60%** in trade business up to CZK 1.2M
+  - **40%** in IP, copyright up to CZK 800k
   - **30%** on rent up to CZK 600k
 - PIT of **15%** up to CZK 1.8M, **23%** on excess + socials
 - however, if income < CZK 2M, opt for a **lump-sum tax** (paušální daň)
