@@ -4,7 +4,7 @@
 
 - [Lowest tax countries (🇬🇪 Georgia, 🇧🇬 Bulgaria, 🇷🇴 Romania, etc.)](./lowest-tax-countries.md)
 
-- [Moderate tax countries (🇮🇹 Italy, 🇵🇹 Portugal, 🇬🇷 Greece, etc.)](./moderate-tax-countries.md)
+- [Moderate tax countries (🇸🇮 Slovenia, 🇨🇿 Czechia, 🇵🇱 Poland, etc.)](./moderate-tax-countries.md)
 
 - [Headline tax rates (income tax, capital gains, dividends, etc.)](./headline-tax-rates.md)
 
