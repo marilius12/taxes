@@ -4,33 +4,6 @@ These work best for people with moderate income, high tax burden, and high CoL. 
 
 ## Table of contents
 
-## Inpatriate Regime (IR) in Italy 🇮🇹
-
-- must be an EU citizen or from a country that has a DTT with IT
-- has not been a tax resident of IT in the past 2 years
-- must be a tax resident of IT for 2 years and work mostly in IT (183+ days/tax year)
-- **70%** exemption on PIT (IRPEF) from employment/self-employment
-- **90%** if you move to a **southern region**
-  - Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sardegna, Sicilia
-- also **regional** (IRAP, 1.23-3.33%) + **municipal** (0-0.8%) tax
-- also **socials** (INPS)
-  - employee: **10%** (your IT employer pays 30%)
-  - self-employed: **24-34.23%** (see [Individual - Other taxes](https://taxsummaries.pwc.com/italy/individual/other-taxes))
-    - however, the tax base for socials is the **same** as for PIT
-- valid for 5 years (year of move to IT + following 4 years)
-  - can be extended by 5 years if you have 1 minor/dependent, or purchase real estate in IT
-  - exemption drops to 50% (90% if you have 3 minors/dependents)
-- **de minimis rule** (EU): state aid (i.e. tax break) cannot exceed EUR 200k over 3 years (regulation expires in Dec 2023)
-  - applies to self-employment and business income
-
-### Resources
-
-- [Impatriated workers - What is it (IT)](https://www.agenziaentrate.gov.it/portale/web/guest/lavoratori-rimpatriati-che-cos-%25c3%25a8-cittadini)
-- [New tax regime for inbound workers](https://taxsummaries.pwc.com/italy/individual/income-determination)
-- [INPS Clarification (IT)](https://www.consulentidellavoro.it/files/PDF/2023/CNO/Riunione_TavoloTecnico_AdE_Inps_CNO.pdf) part B, 2. Social security tax base for impatriated self-employed workers (page 6)
-- [How to pay only 3% of taxes on average in Italy](https://youtu.be/XxqULB8QSJs)
-- [Reform of the Italian Impatriates Regime](https://taxing.it/italian-draft-finance-law-2024/)
-
 ## Sole Proprietor in Slovenia 🇸🇮
 
 - "full" SP (samostojni podjetnik) under "normiranec" status
