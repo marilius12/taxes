@@ -60,32 +60,6 @@ These work best for people with moderate income, high tax burden, and high CoL. 
   - You can translate the PDF using a website like [onlinedoctranslator.com](https://www.onlinedoctranslator.com/en/)
 - [Best Way to Save on Taxes for Digital Nomads in Portugal](https://youtu.be/ovkDTz5tVE4)
 
-## Portugal Non-Habitual Residency (NHR) program 🇵🇹
-
-- to qualify: have not been a tax resident of PT for 5 years
-  - status granted for **10 years**
-- foreign-sourced income (ex: divs, royalties) may be **exempt from PIT**
-  - if taxed in the source state _and_ not deemed derived in PT
-  - also: not earned in a country on the black list (ex: tax haven)
-- NOTE: CFC, management & control, and PE rules apply
-  - must pay PT taxes on PT-sourced income
-- PT-sourced employment and self-employment income taxed at **20%**
-  - if on the list of high value-added activities (tech, doctors, management, etc.)
-  - also: **socials** at **21.4%** (self-employed)
-  - other domestic income is subject to regular PIT 14.5-48%
-
-### Resources
-
-- [Non-Habitual Resident](https://en.wikipedia.org/wiki/Non-Habitual_Resident)
-- [Portugal - Other tax credits and incentives](https://taxsummaries.pwc.com/portugal/individual/other-tax-credits-and-incentives)
-- [Deloitte Non-habitual residents](https://www2.deloitte.com/content/dam/Deloitte/pt/Documents/tax/NHR/Flyer_RNH2020_General.pdf)
-
-### Videos
-
-- [Portugal Tax Planning for Freelancers & Self Employed](https://youtu.be/wNHsNhQfzPY)
-- [Can you live in Portugal and pay no TAX? (Non habitual residency program explained)](https://youtu.be/dOcz39t4Nw8)
-- [Portugal Tax Myths - Why Portugal is bad for Freelancers and Digital Nomads?](https://youtu.be/9vM3KlHEJf4)
-
 ## Foreign professional in Greece 🇬🇷
 
 - alternative tax regime for foreigners (Jan 2021)
