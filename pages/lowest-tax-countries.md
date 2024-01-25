@@ -57,10 +57,10 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - self-insured person within Social Security Code
 - pay **10% PIT + socials** (**capped**)
   - pension fund 19.8% + health insurance 8% (здравни осигуровки, EU citizens or permanent residents only)
-  - base: min BGN 8,520 (BGN 710 min wage in 2022 \* 12), max BGN 40,800 (BGN 3,400 \* 12)
+  - base: min BGN 11,196 (BGN 933 min wage in 2024 \* 12), max BGN 45,000 (BGN 3,750 \* 12)
 - **25% deduction** on gross income (operating expenses) (Art. 29 3.)
   - not required to provide any receipts
-- must register for VAT if income exceeds BGN 50k in fiscal year
+- must register for VAT if turnover exceeds BGN 100k in fiscal year
 
 ### Resources
 
@@ -78,10 +78,9 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - socials 32.7-33.4%
   - pension fund: 14.12-14.82% employer, 10.58% employee
   - health ins: 4.8% employer, 3.2% employee (EU citizens or permanent residents only)
-  - **capped**
-    - min base: BGN 710/mo (BGN 8,520/y) (same as min wage, 2022)
-    - max base: BGN 3,400/mo (BGN 40,800/y)
-- must register for VAT if income exceeds BGN 50k/y
+  - min base: BGN 933/mo (BGN 11,196/y) (same as min wage, 2024)
+  - max base: BGN 3,750/mo (BGN 45,000/y)
+- must register for VAT if turnover exceeds BGN 100k/y
 
 ### Resources
 
