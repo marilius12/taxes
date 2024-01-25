@@ -31,10 +31,11 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - LLC = SRL (Societate cu răspundere limitată)
   - once RON 300k/y is exceeded, must register for VAT
   - revenues from consulting and management must not exceed 20%
-  - can register up to 3 micro-enterprises
-- **1%** tax on **turnover** in quarterly installments
-  - requires **1 or more** full-time (40h/week) employee(s)
-  - can hire yourself (as a director) and pay min salary of RON 2,550/mo (2022)
+- taxed on **turnover** in quarterly installments
+  - **1%** if revenue does not exceed EUR 60k
+  - **3%** if revenue exceeds EUR 60k or engaged in certain activities (Art. 51 (1) b)
+- requires **1 or more** full-time (40h/week) employee(s)
+  - can hire yourself (as a director) and pay min salary of RON 3,300/mo (2024)
   - otherwise, must switch to 16% CIT
 - also: **8% divs**, **10% PIT + socials**
 - socials on gross salary are **uncapped**
@@ -45,7 +46,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 - [Fiscal Code of Romania (RO)](https://static.anaf.ro/static/10/Anaf/legislatie/Cod_fiscal_norme_2023.htm), TITLE III - Micro-enterprise income tax, Article 47-57
 - [Micro-Enterprise in Romania: 1% Corporate Tax](https://zugimpex.com/know-how/micro-enterprise-in-romania-1-corporate-tax.html)
-- [2021 Tax Guideline for Romania](https://accace.com/tax-guideline-for-romania/)
+- [2023 Tax Guideline for Romania](https://accace.com/tax-guideline-for-romania/)
 - [Calcule modificari fiscale 2024 (RO)](https://docs.google.com/spreadsheets/u/0/d/1_kT2lQhNyt9I2GIcLl-Q50pWdnKZWQd5Cv5OZfHKhA4/htmlview)
 
 ## Freelancer in Bulgaria 🇧🇬
