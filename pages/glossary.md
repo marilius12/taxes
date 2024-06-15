@@ -34,6 +34,7 @@
 - TIN: Tax Identification Number
 - TR: Tax Residency
 - TRC: Tax Registration Certificate
+- UBO: Ultimate Beneficial Owner
 - WHT: Withholding tax
 - WTH: Withholding (i.e. WTH tax)
 

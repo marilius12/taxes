@@ -6,7 +6,7 @@
 
 > If I move to a territorial-tax country, I can work for a foreign employer/client and pay no tax.
 
-When considering territorial-tax countries (ex: Panama, Malaysia, etc.), it's important to clarify (using their tax code) how they define foreign-sourced income. In most cases, it doesn't matter where the employer/clients are. If you live and work in a country, then your income qualifies as **local-sourced** and is thus subject to domestic income tax and socials. For individuals, the territorial tax exemption mostly applies to passive income from abroad - it does not apply to active earned income.
+When considering territorial-tax countries (ex: Panama, Malaysia, etc.), it's important to clarify (using their tax code) how they define local source income. In most cases, it doesn't matter where the employer/clients are. If you live and work in a country, then your income qualifies as **local-sourced** and is thus subject to domestic income tax and socials. For individuals, the territorial tax exemption mostly applies to passive income from abroad - it does not apply to active earned income.
 
 > If I run my business through a foreign company, then I don't owe any tax under the territorial system.
 
@@ -20,7 +20,7 @@ When you earn income that is sourced in a foreign country, a **non-resident with
 
 > If I open a company in a tax haven country, I don't have to pay any corporate tax.
 
-In almost any country, your company is a tax resident if it has its **management and control** there. It usually doesn't matter where the business is registered, and those countries that consider the place of registration (ex: Bulgaria, Thailand, etc.) also apply **CFC** and/or **source income** rules. For example, if you a. manage your business, or b. are a tax resident of, or c. have source income in your home country, your company is also a tax resident in that country.
+It usually doesn't matter where the business is registered, because in most countries, a foreign company can be tax resident if it is managed locally (**management and control**), or if its major shareholders are residents there (**CFC**). A non-resident company can also be liable for tax on its **PE**, as well as local source income.
 
 > If my offshore company owns the IP, my other company can pay out its income as royalties tax-free.
 
@@ -38,13 +38,13 @@ It's possible to spend less than 183 days and still become a tax resident, or sp
 
 > If I live 4 months in 3 different countries, I don't have to pay taxes anywhere.
 
-A popular strategy is to establish a base in a tax-friendly country from which you travel the world. For instance, Cyprus offer tax residency if you spend a few weeks or months there. However, being a tax resident in one of these countries, even having a tax ID or a tax certificate, does not prevent you from _also_ becoming a tax resident in another country (the same rules as described above apply). Unless you are exempt under a double-tax treaty, doing work or running a business abroad can make you liable for income tax in that other country (based on PE and/or source income rules).
+A popular strategy is to establish a base in a tax-friendly country from which you travel the world. For instance, Cyprus offer tax residency if you spend a few weeks or months there. However, being a tax resident in one of these countries, even having a tax ID or a tax certificate, does not prevent you from _also_ becoming a tax resident in another country. Unless you are exempt under a double-tax treaty, doing work or running a business abroad can make you liable for income tax in that other country (based on PE and/or source of income rules).
 
 Another approach is to become a tax non-resident of your home country and travel abroad as a tax resident of nowhere, particularly to countries that have a simple days test for residency (ex: Paraguay, Costa Rica, etc.). While possible in theory, this creates challenges when dealing with banks and brokerages (having to declare tax residency or provide proof of address). Further, when expatriating from countries like Canada and Australia, unless you establish tax residency elsewhere, it may fall back to the country of your citizenship.
 
 > As long as I don't become a tax resident in a country, I can work there without paying any tax.
 
-Most countries tax both residents and non-residents on income that is sourced locally. As such, you do **not** have to be a tax resident in a foreign country to owe taxes there. For instance, if you stay in a foreign country and work remotely, even without triggering tax residency, your income is still technically local-sourced and thus subject to non-resident income tax. Often though, the DTT with your home country will overwrite the local tax code, and you will only pay taxes to one of the two countries - the one in which you have your permanent home or other ties. If however there isn't a DTT between them, you may owe taxes to both.
+Most countries tax both residents and non-residents on income that is sourced locally. As such, you do **not** have to be a tax resident in a foreign country to owe taxes there. For instance, if you stay in a foreign country and work remotely, even without triggering tax residency, your income is still technically local-sourced and thus subject to non-resident income tax. Often though, the DTT with your home country will overwrite the local tax code, and you will only pay taxes to one of the two countries - the one in which you have your permanent home or other ties. If however there isn't a DTT between them, or if you earn business income, you may owe taxes to both.
 
 ## Withholding tax myths
 
@@ -54,4 +54,4 @@ Your home country will still withhold non-resident tax on any income sourced loc
 
 > If I invest in stocks through my offshore company, I can pay a lower withholding tax on dividends.
 
-Most countries have **anti-treaty shopping** provisions, in particular, **limitation on benefits clauses**. If you want to benefit from a reduced WTH tax rate in a foreign country, you will need to establish economic substance there.
+Most countries have **anti-treaty shopping** provisions, in particular, the **limitation on benefits clause**. If you want to benefit from a reduced WTH tax rate in a foreign country, you will need to establish economic substance there.

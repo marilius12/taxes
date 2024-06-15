@@ -7,7 +7,7 @@
 ### Based on the origin
 
 - **Territorial tax**
-  - only local-sourced income is taxed (ex: employment, corporate, rental income, etc. earned locally)
+  - only local-sourced income is taxed (ex: employment, business, rental income, etc. earned locally)
   - foreign-sourced income is exempt (ex: dividends, interest, rental income, etc. from abroad)
   - ex: Panama, Costa Rica, Georgia, Thailand, Philippines, Singapore, Hong Kong, Malaysia, etc.
 - **Residence-based tax**
@@ -37,7 +37,7 @@
   - variable tax based on tax brackets; imposes higher burden on higher-income earners
   - ex: US, Canada, Australia, UK, France, Germany, Sweden, etc.
 - **Lump-sum tax**
-  - fixed sum (ex: EUR 100k) is paid annually on certain/most income; works best for HNWIs
+  - fixed sum (ex: EUR 100k) is paid annually on foreign income; works best for HNWIs
   - ex: Italy, Greece, Switzerland, Malta, etc.
 - **Tax holidays/exemptions**
   - special tax programs often for 3/5/10 years to attract workers, entrepreneurs, investors, etc.
@@ -93,9 +93,9 @@ Companies also distinguish revenue and profit which are slightly different:
 
 ## Tax base
 
-**Tax base (taxation basis)** is the portion of income that is subject to tax (also, **taxable income**).
+**Tax base (taxation basis)** is the portion of income that is subject to tax.
 
-_Individuals_ pay taxes (PIT and socials) on their gross income minus deductions (ex: personal allowance, pension fund contributions, etc.). Socials use your gross income as the tax base, but are sometimes capped (ex: 12 \* min or avg monthly wage).
+_Individuals_ pay taxes (PIT and socials) on their gross income minus deductions (ex: personal allowance, pension fund contributions, etc.). Socials use your gross income as the tax base, which is sometimes capped at a multiple of min/avg monthly wages.
 
 _Corporations_ pay taxes (CIT) on their profits (or sometimes a lower rate on revenues). Profits are then distributed to shareholders as dividends (which are then taxed _again_ at the personal level).
 
@@ -116,6 +116,24 @@ _Self-employed_ can pay less PIT by deducting **business expenses** from gross i
 
 Despite tax integration, _corporations_ are often the most tax-efficient because they can pay a reduced **small business** CIT rate at the corporate level, and a flat **dividend tax** at the personal level (typically, lower than PIT). As a director/manager, you can decide how much you pay yourself in salary and thus in PIT and socials.
 
+## Taxable income
+
+Individuals are taxed based on **tax residency** and **source of income**:
+
+- Worldwide-tax country
+  - A resident individual is taxed on income from all sources, local and foreign
+  - A non-resident individual is taxed only on local source income
+- Territorial-tax country
+  - Both a resident and a non-resident individual are taxed only on local source income
+
+Similarly, for companies:
+
+- Worldwide-tax country
+  - A resident company is taxed on income from all sources with possible exemptions on foreign PE (permanent establishment)
+  - A non-resident company is taxed on income from PE and local sources
+- Territorial-tax country
+  - Both a resident and a non-resident company are taxed on income from PE and local sources
+
 ## Legal residency vs. tax residency
 
 These terms are commonly confused. Note that they can all be in different countries simultaneously!
@@ -123,7 +141,7 @@ These terms are commonly confused. Note that they can all be in different countr
 - **Legal residency**
   - legal status (privilege) to stay in another country as a foreign citizen
   - **temporary residency (TR)**: 1-5 years, foreign students, workers, business partners, etc., may lead to PR
-  - **permanent residency (PR)**: renewed every 5-10 years, entitled to most rights except voting, may lead to citizenship
+  - **permanent residency (PR)**: renewed every 5-10 years, entitles to most rights except voting, may lead to citizenship
   - NOTE: legal and tax residency may differ; for example, banks may only ask to declare legal residency and address; sometimes, they may not care about your tax residency (although they do when withholding tax)
   - NOTE: residenc**y** is a legal condition or fact of living in a country, whereas a residenc**e** is the place where you live like your home or street address.
 - **Tax residency**
@@ -140,20 +158,17 @@ These terms are commonly confused. Note that they can all be in different countr
     - ex: Cyprus, UK, Ireland, Malta, Italy, Greece
   - NOTE: separate from legal domicile: your permanent home, place of birth, etc.
 - **Citizenship**
-  - status of being a citizen of a country (by land, blood, naturalization, descent, etc.)
+  - status of being a citizen of a country (by land, blood, naturalization, etc.)
+  - some countries allow dual citizenship, others require that you renouce all other citizenships (with the exception when it's acquired by birth, marriage, or investment)
   - stateless person: someone not considered a national by any state
-
-## Tax residency rules
-
-Each jurisdiction has its own rules for determining tax residency. Some countries apply residency tests (ex: SRT in the UK, substantial presence test in the US, etc.).
-
-Tax residency is a question of **fact**. Usually, tax authorities publish guidelines on tax residency that you can read online. The fine print can be found in the tax act(s) and case law. Finally, any DTTs that are in place will overwrite local laws.
 
 ## Individual residency
 
 > Canadians, see [tax residency in Canada](./tax-residency-in-canada.md).
 
-An individual is taxed based on where they are a tax resident. The following factors are commonly (but not always) taken into account:
+Each jurisdiction has its own rules for tax residency. Some countries apply residency tests (ex: SRT in the UK, substantial presence test in the US, etc.). Tax authorities publish general guidelines that you can read online. The fine print can be found in the tax act(s) and case law. Finally, if a DTT applies, it will override the domestic rules.
+
+Tax residency is a question of **fact**. The following factors are commonly (but not always) taken into account:
 
 - **183 day rule**
   - automatically a tax resident if you spend more than 183 days in any 12-month period (barring a DTT or visa terms)
@@ -174,39 +189,26 @@ As a non-resident of your home country, if you receive local sourced income, a *
 
 ## Corporate residency
 
-A company is taxed based on three factors:
+The exact rules on how a company is taxed are found in the tax code. A tax treaty, if applicable, will override these rules. While the details vary between countries, tax authorities consider one or more of the following:
 
-- corporate residency (i.e. where the company is tax resident)
-- shareholder residency (i.e. where the executives/board members are individual tax residents)
-- source of income (i.e. where the income is sourced)
+1. **Registration**
+   - If a company is incorporated in a country, it is tax resident there
+2. **Management and control**
+   - If a foreign company is managed in a country, it is tax resident there
+   - This can include director decisions, senior management, day-to-day management, etc.
+   - Related: **place of effective management (POEM)** where strategic decisions are made
+3. **Controlled Foreign Corporation (CFC)**
+   - If a majority shareholder is personally tax resident in a country, their foreign company is also resident there
+   - "Control" may include voting rights, shareholder value, operations/activities, etc. (see [OECD on CFC](https://qdd.oecd.org/subject.aspx?Subject=CFC))
+4. **Permanent establishment (PE)**
+   - If a foreign company has a fixed place of business in a country, it is taxable there
+   - This can include a branch, an office, a factory, etc.
+5. **Source of income**
+   - If a company generates income in a country, it is attributable and thus taxable there.
+   - This is determined by **economic substance** i.e. where the headquarters, offices, employees, etc. are.
+   - Related: **nexus** or economic presence (i.e. business activity) in a jurisdiction
 
-When establishing corporate residency, tax authorities consider the place of:
-
-- **registration** (i.e. incorporation), _and/or_
-- **management and control**
-  - day-to-day management, director rules, senior management rules, etc.
-  - Place of Effective Management (POEM) i.e. where strategic decisions are made
-
-In most cases, the company is tax resident **where it is managed and controlled** regardless of where it's registered. Some countries (ex: Bulgaria, Thailand) only consider the place of registration, but also apply CFC and/or domestic source income rules to counteract tax avoidance.
-
-- **Controlled Foreign Corporation (CFC)**
-  - company is registered offshore but controlled by a resident onshore
-    - "control" may include voting rights, shareholder value, operations/activities, etc. (see [OECD on CFC](https://qdd.oecd.org/subject.aspx?Subject=CFC))
-  - considered a tax resident onshore and thus subject to domestic taxes
-- **Source income**
-  - if the income is sourced locally, it is subject to local taxes
-  - determined by **economic substance** i.e. where headquarters, offices, employees, etc. are
-  - ex: if you form an offshore company in Belize but continue to live and work from Canada, your company is still a tax resident of Canada and is subject to Canadian taxes
-- **Permanent Establishment (PE)**
-  - fixed place of business that includes an office, branch, factory, etc.
-  - defaults to the principal place where the business is conducted
-  - **nexus**: economic presence (i.e. business activity) in some jurisdiction
-- **Hybrid mismatch**
-  - differences in tax laws between countries that may be exploited for BEPS and tax avoidance
-  - often target discrepancies in tax residency, registration vs. POEM, domicile, etc.
-  - ex 1: Double Irish where a company is registered in Ireland but managed from the US
-  - ex 2: UK, Cyprus recognize tax domicile, while most countries like Canada don't
-  - ex 3: countries like Germany don't require to establish tax residency elsewhere upon exit
+In most cases, the place of registration is irrevant for taxes. A foreign company can still be deemed resident if it is managed and controlled onshore, or if its shareholding are individually resident in the country. Likewise, a non-resident company is still taxed on its income from PE and other local source income.
 
 ## Double taxation
 
@@ -217,11 +219,19 @@ Unfortunately, you could be a tax resident of **multiple countries**. Luckily th
 3. habitual abode _or_
 4. citizenship
 
-If you satisfy one of these tests, you'd qualify for double taxation relief, as the DTT would overwrite (supersede) any local tax laws. If none of the tests apply, the question is settled in court by mutual agreement of the countries.
+If you satisfy one of these tests, you'd qualify for double taxation relief, as the DTT would override (supersede) any local tax laws. If none of the tests apply, the question is settled in court by mutual agreement of the countries.
 
 If there is no DTT in place (often the case for blacklisted or tax haven countries), then you might be subject to double taxation. However, the other country would usually have no tax, very low tax, or territorial tax (where foreign-sourced income is exempt from taxes). In other cases, you may be exempt from tax based on the terms of your visa (ex: digital nomad visa).
 
 If you run your business in a foreign country (as a dependent agent), depending on the type of activities or presence of a fixed place of business, you may constitute **permanent establishment**. In that case, your business would be taxable on the portion of income that you generated (or is attributable to, based on how much time you spent there) in said country.
+
+## Hybrid mismatch
+
+- Differences in tax laws between countries that may be exploited for BEPS and tax avoidance
+- Often target discrepancies in tax residency, registration vs. POEM, domicile, etc.
+- Ex 1: Double Irish where a company is registered in Ireland but managed from the US
+- Ex 2: UK, Cyprus recognize tax domicile, while most countries like Canada don't
+- Ex 3: countries like Germany don't require to establish tax residency elsewhere upon exit
 
 ## Tax avoidance vs. tax evasion
 

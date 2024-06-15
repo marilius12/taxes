@@ -46,7 +46,7 @@ Read more in [this article](https://indexfundinvestor.eu/2019/03/06/how-do-i-cal
   - ex: dividends from a US-listed ETF are subject to 30% WTH tax unless covered by a tax treaty
   - the same underlying stocks could instead be held in an Ireland-listed ETF
   - divs would be taxed at 15% (under US-Ireland treaty, Level 1) and 0% (Ireland fund, Level 2)
-- NOTE unliked US-listed ETFs, foreign-listed ETFs are not subject to **US estate tax** at 18-40%
+- NOTE unlike US-listed ETFs, foreign-listed ETFs are not subject to **US estate tax** at 18-40%
 
 3\. Move to a country with a **lower** WTH rate based on a **tax treaty**
 
