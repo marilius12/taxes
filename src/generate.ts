@@ -5,10 +5,10 @@ import markdown from "remark-parse";
 import toc from "remark-toc";
 import gfm from "remark-gfm";
 import remark2rehype from "remark-rehype";
-import { Node as DefaultNode, Literal } from "unist";
+import type { Node as DefaultNode, Literal } from "unist";
 // @ts-expect-error
 import urls from "rehype-urls";
-import { UrlWithStringQuery } from "url";
+import type { UrlWithStringQuery } from "url";
 import slug from "rehype-slug";
 import html from "rehype-stringify";
 import { minify } from "html-minifier-terser";
@@ -87,7 +87,7 @@ async function convertMdToHtml(filename: string, cssFilename: string) {
 
   await fsp.writeFile(
     path.join(OUT_DIR, filename.replace(".md", ".html")),
-    html
+    html,
   );
 
   console.log(`✓ ${filepath}`);
@@ -100,7 +100,7 @@ function formatTitle(filename: string) {
 }
 
 function capitalize(s: string) {
-  return s[0].toUpperCase() + s.slice(1);
+  return s[0]!.toUpperCase() + s.slice(1);
 }
 
 interface Node extends DefaultNode {
@@ -127,16 +127,16 @@ function rewriteUrls(url: UrlWithStringQuery, node: Node) {
 
 async function emitMinifiedCss(
   srcFile = path.join(SRC_DIR, "style.css"),
-  destDir = OUT_DIR
+  destDir = OUT_DIR,
 ) {
   const simpleCss = await fsp.readFile(
     "./node_modules/simpledotcss/simple.min.css",
-    "utf8"
+    "utf8",
   );
   const customCss = await fsp.readFile(srcFile, "utf8");
 
   const { styles, errors, warnings } = new CleanCSS().minify(
-    `${simpleCss}${customCss}`
+    `${simpleCss}${customCss}`,
   );
 
   errors.forEach(console.error);
