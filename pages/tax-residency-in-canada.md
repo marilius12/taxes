@@ -1,6 +1,6 @@
 # Tax residency in Canada
 
-During a tax year, an individual is subject to Canadian income tax as:
+During a tax year, an individual is subject to Canadian income tax as a:
 
 - **resident**: taxed on worldwide income from all sources, or
 - **non-resident**: taxed on Canadian-sourced income only
@@ -10,7 +10,7 @@ A resident of Canada can be further classified as either:
 - **deemed resident**, or
 - **factual resident**
 
-Confusingly, the term "resident" is not defined in the Income Tax Act, so its interpretation has been left to the courts through case law.
+Confusingly, the term "resident" is not defined in the Income Tax Act, so its interpretation has been left to courts through case law.
 
 Residency is determined case-by-case using all relevant facts and circumstances, including:
 

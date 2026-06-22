@@ -9,7 +9,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - Individual Entrepreneur (IE) with Small Business Status (SBS)
   - special tax regime for sole proprietors
     - must be **self-employed** (**contractor**, not employee)
-  - earn less than **GEL 500k** (~ USD 170k) in **turnover**/year
+  - earn less than **GEL 500k** (~ USD 180k) in **turnover**/year
   - cannot engage in **[prohibited activities](https://matsne.gov.ge/ka/document/view/1164635?publication=0)** (forex, gambling, consulting, etc.)
 - **1%** tax on **turnover**, can hire employees and contractors
   - 3% if you exceed GEL 500k in a tax year
@@ -27,17 +27,15 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 
 ## Micro-enterprise in Romania 🇷🇴
 
-- incorporated (**LLC**) with **turnover** less than **EUR 500k** in fiscal year
+- incorporated (**LLC**) with **turnover** less than **EUR 100k**/y
   - LLC = SRL (Societate cu răspundere limitată)
-  - once RON 300k/y is exceeded, must register for VAT
-  - revenues from consulting and management must not exceed 20%
-- taxed on **turnover** in quarterly installments
-  - **1%** if revenue <= EUR 60k
-  - **3%** if revenue > EUR 60k or engages in certain activities (Art. 51 (1) b)
+  - threshold was reduced from 1M to 500k to 250k
+  - once RON 395k/y is exceeded, must register for VAT
+- taxed on **turnover** at **1%** in quarterly installments
 - requires **1 or more** full-time (40h/week) employee(s)
-  - can hire yourself (as a director) and pay min salary of RON 3,300/mo (2024)
+  - can hire yourself (as a director) and pay min salary
   - otherwise, must switch to 16% CIT
-- also: **8% divs**, **10% PIT + socials**
+- also: **16% divs**, **10% PIT + socials**
 - socials on gross salary are **uncapped**
   - employee: 25% social insurance (CAS), 10% health insurance (CASS)
   - employer: 2.25% labor insurance (CAM)
@@ -57,10 +55,10 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - self-insured person within Social Security Code
 - pay **10% PIT + socials** (**capped**)
   - pension fund 19.8% + health insurance 8% (здравни осигуровки, EU citizens or permanent residents only)
-  - base: min BGN 11,196 (BGN 933 min wage in 2024 \* 12), max BGN 45,000 (BGN 3,750 \* 12)
+  - monthly base: EUR 550.66, max EUR 2,111.64 (2026)
 - **25% deduction** on gross income (operating expenses) (Art. 29 3.)
   - not required to provide any receipts
-- must register for VAT if turnover exceeds BGN 100k in fiscal year
+- must register for VAT if turnover exceeds EUR 51,130/y
 
 ### Resources
 
@@ -78,18 +76,15 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
 - socials 32.7-33.4%
   - pension fund: 14.12-14.82% employer, 10.58% employee
   - health ins: 4.8% employer, 3.2% employee (EU citizens or permanent residents only)
-  - min base: BGN 933/mo (BGN 11,196/y) (same as min wage, 2024)
-  - max base: BGN 3,750/mo (BGN 45,000/y)
-- must register for VAT if turnover exceeds BGN 100k/y
+- must register for VAT if turnover exceeds EUR 51,130/y
 
 ### Resources
 
 - [Corporate Income Tax Act (CITA) (BG)](https://www.lex.bg/laws/ldoc/2135540562)
-- [2021 Tax Rates and Social Security Contributions in Bulgaria](https://www.kgmp-legal.com/en/2021-tax-rates-and-social-security-contributions-in-bulgaria/)
 
 ## Corporation in Albania 🇦🇱
 
-- **exempt** from CIT with net income up to **ALL 14M** (~ USD 131k) until Dec 2029
+- **exempt** from CIT with net income up to **ALL 14M** (~ USD 170k) until Dec 2029
   - excludes certain professional services
   - taxable income over ALL 14M is taxed at CIT 15%
   - CIT is reduced to **5%** for automotive, software production/development, agricultural coop, and agrotourism entities
@@ -124,7 +119,7 @@ These are the countries with tax rates in the single-digits and low-to-mid teens
   - not reside in another country for **183+ days** (in aggregate)
   - not be a **tax resident** in any other country
   - have **defined ties** in CY
-    - carry out business in CY / employed in CY / director of a company in CY
+    - carry out business / employed / director of a company in CY
     - permanent residential property (owned or rented)
 - also: hasn't been a tax resident of CY for last 20y (prior to 2015)
   - status granted for 17 years max

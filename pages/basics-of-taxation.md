@@ -41,7 +41,7 @@
   - ex: Italy, Greece, Switzerland, Malta, etc.
 - **Tax holidays/exemptions**
   - special tax programs often for 3/5/10 years to attract workers, entrepreneurs, investors, etc.
-  - ex: Uruguay, Peru, Spain, etc.
+  - ex: Turkey, Uruguay, Peru, Spain, etc.
 
 > List of countries by their headline tax rates on [Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_tax_rates)
 
@@ -95,7 +95,7 @@ Companies also distinguish revenue and profit which are slightly different:
 
 **Tax base (taxation basis)** is the portion of income that is subject to tax.
 
-_Individuals_ pay taxes (PIT and socials) on their gross income minus deductions (ex: personal allowance, pension fund contributions, etc.). Socials use your gross income as the tax base, which is sometimes capped at a multiple of min/avg monthly wages.
+_Individuals_ pay taxes (PIT) on their gross income minus deductions (ex: personal allowance, pension fund contributions, etc.). Socials use your gross income as the tax base, which is sometimes capped at a multiple of min/avg monthly wages.
 
 _Corporations_ pay taxes (CIT) on their profits (or sometimes a lower rate on revenues). Profits are then distributed to shareholders as dividends (which are then taxed _again_ at the personal level).
 
@@ -107,7 +107,7 @@ Most freelancers and digital nomads will fall into one of the following:
   - **employee**: paid a **salary** by an employer, subject to **PIT** and **socials**
   - **independent contractor**: registered as a **sole proprietor**, bills clients with **invoices**, also subject to **PIT** and **socials** (both employee + employer portion)
 - legal entity
-  - **corporation**: incorporated business, usually an LLC, pays **CIT** and socials on **salary**, distributes dividends
+  - **corporation**: incorporated business, usually an LLC, pays **CIT**, distributes dividends
     - individual also pays **div tax** (sometimes, withheld by corp) and/or **PIT + socials** on salary
 
 _Employees_ are usually taxed at the higher rates because of the progressive PIT and mandatory socials. They may claim personal allowances and home-office deductions, but those are limited. However, employees enjoy labor rights, health insurance, EI/severance pay, PTO, etc.
@@ -136,7 +136,7 @@ Similarly, for companies:
 
 ## Legal residency vs. tax residency
 
-These terms are commonly confused. Note that they can all be in different countries simultaneously!
+These terms are often confused. Note that they can all be in different countries simultaneously!
 
 - **Legal residency**
   - legal status (privilege) to stay in another country as a foreign citizen

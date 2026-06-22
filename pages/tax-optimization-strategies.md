@@ -47,4 +47,4 @@ There are 3 general ways to reduce taxes:
   - ex: Estonia, Georgia
 - Retain income in the country of origin
   - **remittance-based tax**: profits taxed when/if brought in the country
-  - ex: UK and Malta (under resident **non-dom status**), also Thailand
+  - ex: Ireland and Malta (under resident **non-dom status**), also Thailand
